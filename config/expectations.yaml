@@ -1,0 +1,56 @@
+# Data-quality expectations, checked after staging and after the marts are built.
+#
+# severity:
+#   critical -> failing rows are QUARANTINED (written to outputs/quarantine/<table>.csv and
+#               excluded from the marts); the check is reported as FAIL if any row fails
+#   warning  -> rows are kept; the check is reported and counted
+#
+# Checks are deliberately simple and declarative so they can be reviewed by the business.
+
+staging:
+  stg_crm_accounts:
+    - {column: crm_id, check: not_null, severity: critical}
+    - {column: crm_id, check: unique, severity: critical}
+    - {column: name_clean, check: not_null, severity: critical}
+    - {column: email_clean, check: not_null, severity: warning, note: "invalid or blank email in CRM"}
+    - {column: phone_clean, check: not_null, severity: warning, note: "phone missing or not a valid VN number"}
+    - {column: created_at_clean, check: not_null, severity: warning, note: "unparseable created_at"}
+    - {column: status_clean, check: in_set, values: [ACTIVE, INACTIVE, PROSPECT, UNKNOWN], severity: warning}
+  stg_crm_deals:
+    - {column: deal_id, check: unique, severity: critical}
+    - {column: crm_id, check: foreign_key, ref_table: stg_crm_accounts, ref_column: crm_id, severity: critical}
+    - {column: stage_clean, check: not_null, severity: critical, note: "stage not in the known list"}
+    - {column: amount_vnd, check: not_null, severity: warning, note: "amount blank/TBD"}
+    - {column: amount_vnd, check: range, min: 0, max: 5000000000, severity: warning}
+    - {column: close_date_clean, check: not_null, severity: warning}
+  stg_erp_accounts:
+    - {column: account_code, check: unique, severity: critical}
+    - {column: tax_code_clean, check: regex, pattern: '^\d{10}(-\d{3})?$', severity: warning, note: "tax code not 10 digits", allow_null: true}
+  stg_erp_orders:
+    - {column: order_no, check: unique, severity: critical}
+    - {column: account_code, check: foreign_key, ref_table: stg_erp_accounts, ref_column: account_code, severity: critical, note: "orphan order - account not in ERP extract"}
+    - {column: net_amount, check: range, min: 1, severity: critical}
+    - {column: status_clean, check: in_set, values: [DELIVERED, SHIPPED, CANCELLED, OPEN], severity: critical}
+    - {column: currency_clean, check: in_set, values: [VND], severity: warning}
+  stg_erp_invoices:
+    - {column: invoice_no, check: unique, severity: critical, note: "duplicate invoice numbers in extract"}
+    - {column: amount, check: range, min: 1, severity: critical, note: "zero or negative invoice"}
+    - {column: invoice_date, check: not_future, severity: critical}
+    - {column: order_no, check: foreign_key, ref_table: stg_erp_orders, ref_column: order_no, severity: critical}
+    - {column: due_date, check: not_null, severity: warning}
+
+marts:
+  dim_customer:
+    - {column: customer_key, check: unique, severity: critical}
+    - {column: customer_name, check: not_null, severity: critical}
+    - {column: city, check: not_null, severity: warning}
+  fact_orders:
+    - {column: order_no, check: unique, severity: critical}
+    - {column: customer_key, check: foreign_key, ref_table: dim_customer, ref_column: customer_key, severity: critical}
+    - {column: net_amount_vnd, check: range, min: 1, severity: critical}
+  fact_invoices:
+    - {column: invoice_no, check: unique, severity: critical}
+    - {column: customer_key, check: foreign_key, ref_table: dim_customer, ref_column: customer_key, severity: critical}
+  fact_deals:
+    - {column: deal_id, check: unique, severity: critical}
+    - {column: customer_key, check: foreign_key, ref_table: dim_customer, ref_column: customer_key, severity: critical}

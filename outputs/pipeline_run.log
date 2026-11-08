@@ -1,0 +1,14 @@
+2026-11-08 16:13:04,901 INFO    extracted crm_accounts     1823 rows
+2026-11-08 16:13:04,903 INFO    extracted crm_deals        4000 rows
+2026-11-08 16:13:04,904 INFO    extracted erp_accounts     1559 rows
+2026-11-08 16:13:04,907 INFO    extracted erp_orders       6000 rows
+2026-11-08 16:13:04,909 INFO    extracted erp_invoices     5584 rows
+2026-11-08 16:13:05,113 INFO    staging complete
+2026-11-08 16:13:05,146 WARNING quarantined  172 rows from stg_erp_orders
+2026-11-08 16:13:05,146 WARNING quarantined  225 rows from stg_erp_invoices
+2026-11-08 16:13:09,420 INFO    marts built: dim_customer=1,969, bridge_customer_source=3,382, fact_deals=4,000, fact_orders=5,828, fact_invoices=5,359, review_queue_possible_duplicates=89
+2026-11-08 16:13:09,998 INFO    matching vs truth key: precision 1.000 recall 0.972
+2026-11-08 16:13:10,130 INFO    applied customer_360.sql
+2026-11-08 16:13:10,131 INFO    applied sales_rep_reconciliation.sql
+2026-11-08 16:13:10,131 INFO    loaded data/warehouse.db
+2026-11-08 16:13:10,191 INFO    done in 5.3s -> outputs/dq_report.md

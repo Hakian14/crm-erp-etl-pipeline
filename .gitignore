@@ -1,0 +1,10 @@
+# rebuilt by run_pipeline.py
+data/warehouse.db
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/

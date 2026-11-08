@@ -1,0 +1,1560 @@
+account_code;account_name;tax_code;phone;email;city;payment_terms;credit_limit
+AC20000;  Phat Minh Fashion Joint Stock Company ;;84779039870;contact@phatminhfashion.vn;Da Nang;NET30;0
+AC20001;Thinh Minh Fashion Co., Ltd;0875535918;;contact@thinhminhfashion.vn;Ha Noi;NET30;200000000
+AC20002;Hung Minh Fashion Co., Ltd;;0889683845;;Hai Phong;NET30;200000000
+AC20003;Viet Minh Fashion Co., Ltd;0667867542;0915327231;contact@vietminhfashion.vn;Bien Hoa;COD;100000000
+AC20004;Hoa Minh Fashion Joint Stock Company;0506566276;(0797) 279-916;contact@hoaminhfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20005;Binh Minh Fashion Co., Ltd;;0974294736;contact@binhminhfashion.vn;Ha Noi;NET30;500000000
+AC20006;Long Minh Fashion Co., Ltd;0403660897;;;Da Nang;NET45;0
+AC20007;Tien Minh Fashion;0842992067;(0353) 701-890;contact@tienminhfashion.vn;Ha Noi;NET15;0
+AC20008;Phuc Minh Fashion Co., Ltd;;0909104306;contact@phucminhfashion.vn;Da Nang;NET45;100000000
+AC20009;nam minh fashion joint stock company;0185275373;0888079246;;Bien Hoa;NET30;200000000
+AC20010;Hai Minh Fashion Co., Ltd;0891964921;(0709) 682-569;;Ha Noi;NET30;100000000
+AC20011;Dong Minh Fashion Co Ltd;0890294329;0704.399.032;contact@dongminhfashion.vn;Hai Duong;NET15;500000000
+AC20012;sao minh fashion jsc;;+84 705 868 316;;Da Nang;NET45;100000000
+AC20013;Mai Minh Fashion Co., Ltd;;84337979875;contact@maiminhfashion.vn;Ha Noi;NET30;0
+AC20014;Tan Minh Fashion Co., Ltd;;(0974) 899-880;contact@tanminhfashion.vn;Ha Noi;NET30;500000000
+AC20015;Loc Minh Fashion LLC;;;;Nha Trang;NET15;100000000
+AC20016;Khang Minh Fashion;0603756961;0884.344.636;contact@khangminhfashion.vn;Ho Chi Minh City;COD;100000000
+AC20017;Quang Minh Fashion Co., Ltd;0446710643;0863.625.741;;Da Nang;NET15;500000000
+AC20018;Vinh Minh Fashion Co., Ltd;0988305121;84839541596;contact@vinhminhfashion.vn;Ha Noi;NET30;200000000
+AC20019;Lan Minh Fashion Co Ltd;0307992321;0984762458;contact@lanminhfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20020;Hoang Minh Fashion Co., Ltd;0491420063;0764.548.811;contact@hoangminhfashion.vn;Ho Chi Minh City;NET30;0
+AC20021;Kim Minh Fashion Co., Ltd;0520083018;;contact@kimminhfashion.vn;Hai Phong;NET15;100000000
+AC20022;Bao Minh Fashion LLC;;+84 768 193 138;contact@baominhfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20023;Anh Minh Fashion Co., Ltd;0355519093;(0934) 595-663;contact@anhminhfashion.vn;Ha Noi;COD;500000000
+AC20024;Minh An Fashion Co., Ltd;;;contact@minhanfashion.vn;Bac Ninh;NET15;100000000
+AC20025;An An Fashion JSC;0510570076;(0901) 952-300;;Ha Noi;NET15;100000000
+AC20026;PHAT AN FASHION;;0902452279;contact@phatanfashion.vn;Can Tho;NET30;0
+AC20027;hung an fashion;0696997915;0859539684;contact@hunganfashion.vn;Ho Chi Minh City;NET30;0
+AC20028;viet an fashion joint stock company;0222288672;;contact@vietanfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20029;Hoa An Fashion Co., Ltd;0447583534;0933.403.479;contact@hoaanfashion.vn;Ha Noi;NET45;100000000
+AC20030;  Binh An Fashion Co Ltd ;0184467283;+84 983 526 709;contact@binhanfashion.vn;Ha Noi;NET30;0
+AC20031;Thanh An Fashion Co., Ltd;;+84 833 317 476;contact@thanhanfashion.vn;Da Nang;NET45;500000000
+AC20032;Long An Fashion Co Ltd;0984225204;(0702) 779-943;contact@longanfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20033;Nam An Fashion Co., Ltd;0428605099;(0887) 695-314;;Nha Trang;NET30;0
+AC20034;HAI AN FASHION JSC;0628903460;;contact@haianfashion.vn;Da Nang;NET30;500000000
+AC20035;  Dong An Fashion Co Ltd ;0537229505;(0704) 931-024;contact@donganfashion.vn;Hai Phong;NET15;50000000
+AC20036;Sao An Fashion Co., Ltd;0406274769;0972497746;contact@saoanfashion.vn;Ho Chi Minh City;COD;200000000
+AC20037;Tan An Fashion Co., Ltd;0159041060;0767.332.575;;Ho Chi Minh City;NET30;50000000
+AC20038;Khang An Fashion Co., Ltd;0980736505;+84 982 704 848;contact@khanganfashion.vn;Ha Noi;NET30;100000000
+AC20039;Quang An Fashion Company Limited;;;contact@quanganfashion.vn;Bien Hoa;NET30;100000000
+AC20040;Son An Fashion Co., Ltd;0753896073;(0331) 795-835;contact@sonanfashion.vn;Da Nang;NET30;100000000
+AC20041;vinh an fashion co ltd;0715882832;0989311160;contact@vinhanfashion.vn;Ha Noi;NET30;0
+AC20042;LAN AN FASHION CO., LTD;0463391525;;contact@lananfashion.vn;Hai Phong;NET30;50000000
+AC20043;hoang an fashion co., ltd;0192350507;84912327967;contact@hoanganfashion.vn;Ho Chi Minh City;NET30;0
+AC20044;Gia An Fashion Company Limited;0174258685;(0819) 941-203;contact@giaanfashion.vn;Nha Trang;NET30;200000000
+AC20045;KIM AN FASHION CO., LTD;;(0983) 984-964;contact@kimanfashion.vn;Ha Noi;NET45;200000000
+AC20046;Bao An Fashion Co., Ltd;0544854169;;contact@baoanfashion.vn;Ha Noi;NET30;100000000
+AC20047;ANH AN FASHION;0610324675;0852544664;contact@anhanfashion.vn;Ha Noi;COD;200000000
+AC20048;MINH PHAT FASHION JOINT STOCK COMPANY;0219144024;+84 334 249 497;contact@minhphatfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20049;An Phat Fashion LLC;0756534486;;contact@anphatfashion.vn;Hue;NET15;500000000
+AC20050;Phat Phat Fashion Co., Ltd;0313767423;0868919231;;Hai Phong;NET30;50000000
+AC20051;Thinh Phat Fashion Co., Ltd;0156688469;84327984885;contact@thinhphatfashion.vn;Da Nang;COD;500000000
+AC20052;Hung Phat Fashion Co., Ltd;0891157756;(0834) 114-235;contact@hungphatfashion.vn;Ha Noi;NET15;500000000
+AC20053;Viet Phat Fashion Co., Ltd;;+84 707 466 471;;Ha Noi;NET15;500000000
+AC20054;  Hoa Phat Fashion Joint Stock Company ;0718445445;;contact@hoaphatfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20055;Binh Phat Fashion Co., Ltd;0213801475;(0705) 466-808;contact@binhphatfashion.vn;Hai Phong;COD;50000000
+AC20056;  thanh phat fashion llc ;0471274370;;contact@thanhphatfashion.vn;Can Tho;NET30;0
+AC20057;Nam Phat Fashion Co., Ltd;0474162815;;contact@namphatfashion.vn;Ho Chi Minh City;NET30;0
+AC20058;Hai Phat Fashion Co., Ltd;0192333433;0938808072;contact@haiphatfashion.vn;Ha Noi;;50000000
+AC20059;Dong Phat Fashion Co., Ltd;;0761.920.112;contact@dongphatfashion.vn;Can Tho;NET15;50000000
+AC20060;sao phat fashion jsc;0284690411;0359.477.877;;Hue;NET15;0
+AC20061;Mai  Phat Fashion Company Limited;0857027993;;contact@maiphatfashion.vn;Bac Ninh;NET30;200000000
+AC20062;Tan Phat Fashion Co., Ltd;0429376761;0966.488.509;contact@tanphatfashion.vn;Ha Noi;NET15;500000000
+AC20063;Loc Phat Fashion JSC;0270658024;+84 816 466 319;contact@locphatfashion.vn;Bac Ninh;NET30;100000000
+AC20064;KHANG PHAT FASHION COMPANY LIMITED;;(0338) 364-650;contact@khangphatfashion.vn;Ha Noi;NET30;50000000
+AC20065;Quang Phat Fashion Co., Ltd;0518703426;84937301604;contact@quangphatfashion.vn;Da Nang;NET30;200000000
+AC20066;Vinh Phat Fashion Company Limited;0504621011;;contact@vinhphatfashion.vn;Hai Duong;NET30;500000000
+AC20067;   Lan Phat Fashion Company Limited ;0484665351;(0766) 199-991;contact@lanphatfashion.vn;Da Nang;COD;100000000
+AC20068;Hoang Phat Fashion LLC;0282567341;(0891) 482-249;contact@hoangphatfashion.vn;Da Nang;NET15;200000000
+AC20069;Gia Phat Fashion Co., Ltd;0597977696;84702755847;;Hai Phong;NET30;100000000
+AC20070;Kim Phat Fashion JSC;0442914495;0853.483.478;;Nha Trang;NET15;200000000
+AC20071;Bao Phat Fashion Co., Ltd;0981571220;0904856413;contact@baophatfashion.vn;Hai Duong;NET30;200000000
+AC20072;Anh Phat Fashion Co., Ltd;0518246730;(0702) 950-892;;Ha Noi;NET30;500000000
+AC20073;Minh Thinh Fashion Co., Ltd;0908300677;+84 775 951 472;contact@minhthinhfashion.vn;Bien Hoa;NET45;100000000
+AC20074;Phat Thinh Fashion Co., Ltd;0999323212;;;Ho Chi Minh City;NET30;200000000
+AC20075;Thinh Thinh Fashion Co Ltd;0870376392;+84 912 653 781;contact@thinhthinhfashion.vn;Hai Duong;NET30;500000000
+AC20076;Hung Thinh Fashion Co., Ltd;0601443649;84338441759;contact@hungthinhfashion.vn;Nha Trang;NET15;500000000
+AC20077;Viet Thinh Fashion Co., Ltd;0517496714;84908368627;;Bac Ninh;NET30;200000000
+AC20078;Hoa Thinh Fashion Company Limited;0949291967;+84 818 147 253;;Da Nang;NET30;200000000
+AC20079;thanh thinh fashion company limited;;;;Ho Chi Minh City;;0
+AC20080;long thinh fashion jsc;0176919973;+84 816 503 129;contact@longthinhfashion.vn;Bac Ninh;COD;500000000
+AC20081;Tien Thinh Fashion JSC;;0914869415;contact@tienthinhfashion.vn;Bien Hoa;NET45;0
+AC20082;Phuc Thinh Fashion Co Ltd;0715609766;;;Ho Chi Minh City;NET30;500000000
+AC20083;Nam Thinh Fashion LLC;0311725606;(0792) 804-892;contact@namthinhfashion.vn;Can Tho;NET30;50000000
+AC20084;Hai Thinh Fashion Co., Ltd;0329824636;0857.753.370;contact@haithinhfashion.vn;Ha Noi;NET30;200000000
+AC20085;Dong Thinh Fashion;0331429313;0834382372;contact@dongthinhfashion.vn;Can Tho;NET30;100000000
+AC20086;Tan Thinh Fashion Co., Ltd;0845808682;+84 906 283 481;contact@tanthinhfashion.vn;Ha Noi;NET30;500000000
+AC20087;Khang Thinh Fashion Joint Stock Company;0696152943;0709308228;contact@khangthinhfashion.vn;Ho Chi Minh City;NET15;0
+AC20088;Duc Thinh Fashion Co., Ltd;0836674619;(0978) 635-961;contact@ducthinhfashion.vn;Da Nang;NET30;500000000
+AC20089;Quang Thinh Fashion Co., Ltd;0352820160;(0898) 262-750;contact@quangthinhfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20090;Son Thinh Fashion Company Limited;0739410772;(0333) 805-430;;Hai Phong;NET30;50000000
+AC20091;Vinh Thinh Fashion Co., Ltd;0919305106;;;Ho Chi Minh City;;500000000
+AC20092;Lan Thinh Fashion Co., Ltd;0598887738;0865.955.756;;Can Tho;NET30;500000000
+AC20093;hoang thinh fashion llc;;(0851) 482-247;contact@hoangthinhfashion.vn;Ha Noi;NET30;500000000
+AC20094;Gia Thinh Fashion Co., Ltd;0534511334;(0858) 545-466;contact@giathinhfashion.vn;Hai Phong;COD;100000000
+AC20095;Kim Thinh Fashion Co., Ltd;0692602389;0899796332;contact@kimthinhfashion.vn;Hai Phong;NET15;50000000
+AC20096;Bao Thinh Fashion;0566415745;0832.329.696;;Ha Noi;NET15;200000000
+AC20097;Anh Thinh Fashion Co., Ltd;0436569366;+84 858 773 481;contact@anhthinhfashion.vn;Can Tho;COD;50000000
+AC20098;Minh Hung Fashion Co., Ltd;0898412604;+84 964 410 687;contact@minhhungfashion.vn;Hai Phong;NET30;100000000
+AC20099;An Hung Fashion Co., Ltd;;;contact@anhungfashion.vn;Nha Trang;NET30;500000000
+AC20100;Phat Hung Fashion Co., Ltd;0228243290;+84 816 233 451;contact@phathungfashion.vn;Ha Noi;NET30;200000000
+AC20101;THINH HUNG FASHION CO., LTD;0377221376;0893209455;;Ho Chi Minh City;NET15;100000000
+AC20102;Hung Hung Fashion Co., Ltd;0365532684;+84 336 201 488;contact@hunghungfashion.vn;Hai Duong;NET30;0
+AC20103;Viet Hung Fashion Company Limited;0741532091;;contact@viethungfashion.vn;Nha Trang;NET30;100000000
+AC20104;Hoa Hung Fashion Company Limited;;84814361828;;Da Nang;NET15;500000000
+AC20105;Binh Hung Fashion JSC;0698497621;0766.957.380;contact@binhhungfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20106;Thanh Hung Fashion Company Limited;0656979595;+84 774 018 032;contact@thanhhungfashion.vn;Can Tho;NET30;500000000
+AC20107;Long Hung Fashion;0833607599;;;Ho Chi Minh City;NET15;0
+AC20108;Tien Hung Fashion Co., Ltd;0605555977;(0777) 944-464;;Ho Chi Minh City;NET30;200000000
+AC20109;Phuc Hung Fashion Co., Ltd;0555179503;0792247636;;Da Nang;NET45;50000000
+AC20110;HAI HUNG FASHION JOINT STOCK COMPANY;0784261262;84835435881;;Ha Noi;NET30;500000000
+AC20111;Dong  Hung Fashion Joint Stock Company;;84322700160;;Da Nang;NET45;500000000
+AC20112;SAO HUNG FASHION CO LTD;0962240989;0833.691.721;contact@saohungfashion.vn;Nha Trang;NET30;200000000
+AC20113;Mai Hung Fashion LLC;0169041448;84932461169;contact@maihungfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20114;Tan Hung Fashion Co., Ltd;;84918176602;;Ha Noi;NET30;0
+AC20115;Loc Hung Fashion JSC;0847748550;0866.536.954;contact@lochungfashion.vn;Hai Phong;NET45;500000000
+AC20116;Khang Hung Fashion LLC;0288172282;+84 865 241 257;contact@khanghungfashion.vn;Ha Noi;NET30;100000000
+AC20117;Duc Hung Fashion JSC;0811066797;0854867450;contact@duchungfashion.vn;Bac Ninh;NET45;50000000
+AC20118;Son Hung Fashion Co., Ltd;0108839957;+84 774 683 746;;Da Nang;NET15;100000000
+AC20119;Lan Hung Fashion Co., Ltd;0788384804;(0939) 263-735;;Ha Noi;NET30;0
+AC20120;Hoang Hung Fashion Co., Ltd;0254961022;0861.445.913;contact@hoanghungfashion.vn;Ha Noi;NET30;200000000
+AC20121;Gia Hung Fashion Co., Ltd;0862495722;;;Ho Chi Minh City;COD;50000000
+AC20122;Kim Hung Fashion Co., Ltd;;(0331) 997-953;;Hai Phong;NET30;200000000
+AC20123;Bao Hung Fashion Co., Ltd;0121973199;0935000203;contact@baohungfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20124;ANH HUNG FASHION LLC;0669390328;0897.875.000;contact@anhhungfashion.vn;Ho Chi Minh City;COD;0
+AC20125;Minh Viet Fashion Co., Ltd;;+84 331 779 569;;Ha Noi;NET45;500000000
+AC20126;An Viet Fashion Co., Ltd;;0857.774.370;contact@anvietfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20127;Phat Viet Fashion Co., Ltd;0533122680;84977192613;contact@phatvietfashion.vn;Nha Trang;;200000000
+AC20128;Thinh Viet Fashion Co., Ltd;0176263816;;contact@thinhvietfashion.vn;Ha Noi;NET30;0
+AC20129;Hung Viet Fashion Co., Ltd;0780899391;0338513550;contact@hungvietfashion.vn;Hai Phong;NET30;500000000
+AC20130;Viet Viet Fashion Co., Ltd;0276828068;0338.256.102;contact@vietvietfashion.vn;Ha Noi;NET45;100000000
+AC20131;Hoa Viet Fashion Co., Ltd;;0987881595;contact@hoavietfashion.vn;Bien Hoa;NET30;500000000
+AC20132;Binh Viet Fashion Co., Ltd;0493975920;0894986734;contact@binhvietfashion.vn;Bac Ninh;NET15;100000000
+AC20133;Thanh Viet Fashion Co., Ltd;;;;Ha Noi;;0
+AC20134;   Long Viet Fashion ;0764571065;+84 812 456 113;contact@longvietfashion.vn;Bien Hoa;NET15;500000000
+AC20135;Tien Viet Fashion Co., Ltd;0611123822;;contact@tienvietfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20136;Phuc Viet Fashion LLC;0177197169;+84 709 666 847;;Da Nang;NET30;0
+AC20137;Dong Viet Fashion Co., Ltd;;;contact@dongvietfashion.vn;Ha Noi;NET15;200000000
+AC20138;Tan Viet Fashion Co., Ltd;0756310481;84964852895;;Ha Noi;NET15;0
+AC20139;Loc Viet Fashion Co., Ltd;0405056172;;contact@locvietfashion.vn;Ha Noi;COD;0
+AC20140;Duc Viet Fashion Co., Ltd;0382949333;;contact@ducvietfashion.vn;Hue;;500000000
+AC20141;Son Viet Fashion Co Ltd;0654479454;;;Nha Trang;COD;0
+AC20142;Vinh Viet Fashion;;84931791924;contact@vinhvietfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20143;Lan Viet Fashion JSC;0459801105;0918.851.829;contact@lanvietfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20144;Hoang Viet Fashion JSC;0916142971;;;Ho Chi Minh City;NET30;500000000
+AC20145;Gia Viet Fashion LLC;0741587614;0983719628;contact@giavietfashion.vn;Bac Ninh;NET30;200000000
+AC20146;Kim Viet Fashion Co., Ltd;0886114587;+84 856 472 810;contact@kimvietfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20147;Anh Viet Fashion Co., Ltd;;0918.317.964;contact@anhvietfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20148;An Hoa Fashion Co., Ltd;0254740475;;contact@anhoafashion.vn;Ho Chi Minh City;NET30;500000000
+AC20149;Phat Hoa Fashion JSC;0235981140;0976.536.574;contact@phathoafashion.vn;Ha Noi;NET30;100000000
+AC20150;Thinh Hoa Fashion Co., Ltd;0330943376;84852339344;contact@thinhhoafashion.vn;Ho Chi Minh City;NET15;500000000
+AC20151;Hung Hoa Fashion Co., Ltd;0990725151;(0899) 137-396;contact@hunghoafashion.vn;Ho Chi Minh City;NET45;0
+AC20152;Viet Hoa Fashion Joint Stock Company;0350649635;0708706044;contact@viethoafashion.vn;Da Nang;NET15;100000000
+AC20153;Hoa Hoa Fashion Co., Ltd;0416890587;0331316395;;Bien Hoa;NET30;200000000
+AC20154;Binh Hoa Fashion Co., Ltd;0666510737;;contact@binhhoafashion.vn;Ha Noi;NET30;50000000
+AC20155;Thanh Hoa Fashion Co., Ltd;0742335387;0906179116;;Hai Phong;NET30;200000000
+AC20156;Long Hoa Fashion Co., Ltd;0650688469;0338519095;contact@longhoafashion.vn;Hai Duong;NET30;500000000
+AC20157;Tien Hoa Fashion LLC;0253275275;84835100423;;Da Nang;COD;100000000
+AC20158;phuc hoa fashion company limited;0362035567;+84 904 796 504;;Ha Noi;NET45;500000000
+AC20159;Nam Hoa Fashion Co., Ltd;0116469976;+84 882 084 291;contact@namhoafashion.vn;Ho Chi Minh City;NET30;200000000
+AC20160;Hai Hoa Fashion Co., Ltd;0442998015;84708853946;contact@haihoafashion.vn;Nha Trang;NET30;50000000
+AC20161;Dong Hoa Fashion Co., Ltd;0668692800;;;Ho Chi Minh City;NET30;50000000
+AC20162;Tan Hoa Fashion Co Ltd;0116173308;0704.019.116;contact@tanhoafashion.vn;Bac Ninh;NET15;0
+AC20163;Khang Hoa Fashion Co., Ltd;0470203657;84977077489;contact@khanghoafashion.vn;Bac Ninh;NET45;100000000
+AC20164;Duc Hoa Fashion Joint Stock Company;0132854637;0934.937.105;contact@duchoafashion.vn;Ho Chi Minh City;NET15;500000000
+AC20165;Vinh Hoa Fashion Co., Ltd;0754677963;84779227634;;Hai Phong;NET30;100000000
+AC20166;  Hoang Hoa Fashion Joint Stock Company ;0411455235;84331338328;;Ho Chi Minh City;NET30;50000000
+AC20167;Gia Hoa Fashion Co., Ltd;0487433698;+84 709 270 115;contact@giahoafashion.vn;Da Nang;NET30;500000000
+AC20168;Kim Hoa Fashion Co Ltd;0984995783;84765016152;;Ho Chi Minh City;;500000000
+AC20169;Minh Binh Fashion;0781096702;(0707) 422-043;contact@minhbinhfashion.vn;Ho Chi Minh City;NET45;50000000
+AC20170;An Binh Fashion Company Limited;0115672771;84813008581;contact@anbinhfashion.vn;Can Tho;NET45;50000000
+AC20171;Viet Binh Fashion Co., Ltd;;;;Ho Chi Minh City;NET30;100000000
+AC20172;Binh Binh Fashion Co., Ltd;0241072024;+84 328 928 865;contact@binhbinhfashion.vn;Hai Duong;NET30;0
+AC20173;Thanh Binh Fashion Co., Ltd;0793480959;84932092387;;Hue;NET15;0
+AC20174;Long Binh Fashion Co., Ltd;0843732777;+84 833 017 601;contact@longbinhfashion.vn;Can Tho;COD;200000000
+AC20175;Phuc Binh Fashion Co., Ltd;0201142989;0967215658;;Ho Chi Minh City;NET45;500000000
+AC20176;Hai Binh Fashion Co., Ltd;;;;Nha Trang;NET15;100000000
+AC20177;Sao Binh Fashion Co., Ltd;0122507044;0964823459;contact@saobinhfashion.vn;Hue;NET15;50000000
+AC20178;Loc Binh Fashion LLC;;0891006606;contact@locbinhfashion.vn;Hai Duong;NET30;100000000
+AC20179;  Khang Binh Fashion LLC ;0561117871;84854004438;contact@khangbinhfashion.vn;Bac Ninh;NET30;200000000
+AC20180;Duc Binh Fashion Co., Ltd;0781426074;;contact@ducbinhfashion.vn;Ha Noi;NET45;200000000
+AC20181;Quang Binh Fashion Company Limited;0404879369;+84 704 697 569;contact@quangbinhfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20182;Son Binh Fashion Co., Ltd;0596932393;0964223875;contact@sonbinhfashion.vn;Ha Noi;NET30;200000000
+AC20183;Lan Binh Fashion Company Limited;0663919248;(0865) 844-289;contact@lanbinhfashion.vn;Hue;NET30;0
+AC20184;Hoang Binh Fashion Co., Ltd;0185972277;;contact@hoangbinhfashion.vn;Ho Chi Minh City;NET15;500000000
+AC20185;Kim Binh Fashion Co., Ltd;0189173239;;;Ha Noi;;50000000
+AC20186;Anh Binh Fashion Joint Stock Company;0717035583;;;Ha Noi;NET30;100000000
+AC20187;MINH THANH FASHION COMPANY LIMITED;0347132212;84987515627;;Can Tho;NET30;0
+AC20188;Hung  Thanh Fashion JSC;0365827612;;contact@hungthanhfashion.vn;Ho Chi Minh City;NET45;50000000
+AC20189;Viet Thanh Fashion Co., Ltd;0724675370;+84 939 497 017;contact@vietthanhfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20190;HOA THANH FASHION JSC;;+84 863 538 580;contact@hoathanhfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20191;  Binh Thanh Fashion Co., Ltd ;0540904411;+84 773 391 645;contact@binhthanhfashion.vn;Ho Chi Minh City;NET15;500000000
+AC20192;Thanh Thanh Fashion Co., Ltd;0435859394;0767.184.671;contact@thanhthanhfashion.vn;Hue;NET15;500000000
+AC20193;LONG THANH FASHION;0463215596;0982611771;contact@longthanhfashion.vn;Nha Trang;NET15;50000000
+AC20194;Tien Thanh Fashion Co., Ltd;;(0983) 805-152;contact@tienthanhfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20195;Phuc Thanh Fashion LLC;0262539540;0973142263;contact@phucthanhfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20196;Nam Thanh Fashion Co., Ltd;0122647806;84899857973;contact@namthanhfashion.vn;Ho Chi Minh City;NET30;0
+AC20197;Hai Thanh Fashion Co., Ltd;0316909008;(0962) 783-257;contact@haithanhfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20198;Dong Thanh Fashion Joint Stock Company;0841449893;0706071714;contact@dongthanhfashion.vn;Nha Trang;NET15;500000000
+AC20199;sao thanh fashion company limited;0164433405;(0706) 096-890;contact@saothanhfashion.vn;Ho Chi Minh City;;50000000
+AC20200;Tan Thanh Fashion Company Limited;0192528407;;;Nha Trang;NET30;50000000
+AC20201;Loc Thanh Fashion Co., Ltd;0508643921;84969132930;contact@locthanhfashion.vn;Da Nang;NET15;100000000
+AC20202;Quang Thanh Fashion Co., Ltd;0659645447;0935.091.468;contact@quangthanhfashion.vn;Bac Ninh;NET15;200000000
+AC20203;Son Thanh Fashion Co., Ltd;;;contact@sonthanhfashion.vn;Hai Phong;NET45;500000000
+AC20204;Lan Thanh Fashion JSC;;84919248436;;Ho Chi Minh City;;50000000
+AC20205;Hoang Thanh Fashion Co., Ltd;;(0889) 196-404;;Can Tho;NET15;500000000
+AC20206;Gia Thanh Fashion Co., Ltd;0108645902;0797057586;contact@giathanhfashion.vn;Ho Chi Minh City;NET15;200000000
+AC20207;Kim Thanh Fashion LLC;0327073055;84769475310;contact@kimthanhfashion.vn;Ha Noi;NET45;500000000
+AC20208;Bao Thanh Fashion Company Limited;0985347715;+84 887 500 286;contact@baothanhfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20209;anh thanh fashion;;(0353) 392-248;contact@anhthanhfashion.vn;Can Tho;NET30;50000000
+AC20210;Minh Long Fashion;;84355499642;contact@minhlongfashion.vn;Ha Noi;NET30;200000000
+AC20211;An Long Fashion Co., Ltd;0718048299;0794.626.323;contact@anlongfashion.vn;Ho Chi Minh City;NET45;100000000
+AC20212;Thinh Long Fashion Co., Ltd;0825228109;0763.894.511;;Ho Chi Minh City;;50000000
+AC20213;Hung Long Fashion Co., Ltd;;;contact@hunglongfashion.vn;Da Nang;COD;200000000
+AC20214;Viet Long Fashion Joint Stock Company;0799737566;84898079563;contact@vietlongfashion.vn;Ha Noi;NET45;200000000
+AC20215;binh long fashion co., ltd;0644938424;(0832) 870-834;contact@binhlongfashion.vn;Can Tho;NET15;100000000
+AC20216;Thanh Long Fashion Co., Ltd;0490130524;0936.193.641;contact@thanhlongfashion.vn;Hue;NET30;200000000
+AC20217;Long Long Fashion Co., Ltd;0853845441;0897406079;contact@longlongfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20218;Tien Long Fashion JSC;;;contact@tienlongfashion.vn;Ho Chi Minh City;COD;200000000
+AC20219;Nam Long Fashion Co., Ltd;0925826447;0851.798.779;contact@namlongfashion.vn;Ha Noi;NET15;200000000
+AC20220;Hai Long Fashion Company Limited;0272147198;+84 327 244 325;contact@hailongfashion.vn;Ho Chi Minh City;NET15;500000000
+AC20221;Dong Long Fashion Co., Ltd;;0865292190;contact@donglongfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20222;Sao Long Fashion JSC;0427610840;(0971) 269-314;contact@saolongfashion.vn;Hai Duong;NET30;200000000
+AC20223;Mai Long Fashion Co Ltd;0896038147;;contact@mailongfashion.vn;Ha Noi;NET30;0
+AC20224;Tan Long Fashion Co., Ltd;0148818964;(0708) 144-456;;Ha Noi;NET30;100000000
+AC20225;LOC LONG FASHION;;0904436799;contact@loclongfashion.vn;Bac Ninh;NET30;0
+AC20226;Khang Long Fashion JSC;0694735982;84812043676;;Bien Hoa;NET30;100000000
+AC20227;Duc Long Fashion JSC;0186153934;84967700714;;Ho Chi Minh City;NET30;50000000
+AC20228;Quang Long Fashion;0968213655;;;Hue;NET30;500000000
+AC20229;SON LONG FASHION JSC;;0881627981;contact@sonlongfashion.vn;Da Nang;NET30;50000000
+AC20230;  Vinh Long Fashion JSC ;0714937078;;;Bac Ninh;COD;0
+AC20231;Lan Long Fashion;0814463667;(0988) 812-633;contact@lanlongfashion.vn;Hai Phong;NET45;50000000
+AC20232;Hoang Long Fashion Co., Ltd;0930956414;(0895) 429-704;contact@hoanglongfashion.vn;Ho Chi Minh City;COD;0
+AC20233;Gia Long Fashion Co., Ltd;0810662888;(0901) 634-617;;Hai Phong;COD;0
+AC20234;Kim  Long Fashion Company Limited;0769748710;0762.204.802;contact@kimlongfashion.vn;Bac Ninh;NET45;200000000
+AC20235;Bao Long Fashion Co., Ltd;0837443814;+84 893 887 816;contact@baolongfashion.vn;Nha Trang;NET45;100000000
+AC20236;Anh Long Fashion Co., Ltd;0558774639;0708.207.265;contact@anhlongfashion.vn;Hue;NET30;0
+AC20237;Minh Tien Fashion Co., Ltd;0692684297;(0353) 445-295;contact@minhtienfashion.vn;Can Tho;NET30;0
+AC20238;  Phat Tien Fashion ;0729170588;0862.756.766;contact@phattienfashion.vn;Ha Noi;NET30;500000000
+AC20239;  Thinh Tien Fashion LLC ;0860860975;0974.084.943;contact@thinhtienfashion.vn;Ha Noi;NET30;0
+AC20240;Hung Tien Fashion Co., Ltd;0795624473;;;Ha Noi;NET30;200000000
+AC20241;Viet  Tien Fashion;0881163708;84795495877;contact@viettienfashion.vn;Ha Noi;NET30;50000000
+AC20242;Hoa Tien Fashion Co., Ltd;;84982652389;;Ho Chi Minh City;NET30;50000000
+AC20243;Binh Tien Fashion Co., Ltd;0152705037;(0768) 352-387;;Ha Noi;NET15;100000000
+AC20244;Thanh Tien Fashion JSC;0458329824;0769.874.770;contact@thanhtienfashion.vn;Hue;NET30;50000000
+AC20245;Long Tien Fashion Co Ltd;0688777612;(0978) 054-532;contact@longtienfashion.vn;Ha Noi;NET45;500000000
+AC20246;Tien Tien Fashion Co., Ltd;0893028140;0834.233.026;contact@tientienfashion.vn;Bac Ninh;NET15;200000000
+AC20247;PHUC TIEN FASHION COMPANY LIMITED;0697792597;+84 979 210 279;contact@phuctienfashion.vn;Ha Noi;NET30;200000000
+AC20248;Nam Tien Fashion Co., Ltd;0209944783;;contact@namtienfashion.vn;Nha Trang;NET30;200000000
+AC20249;  Hai Tien Fashion Joint Stock Company ;0119123427;84701173773;contact@haitienfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20250;Dong Tien Fashion Co., Ltd;0710461940;;;Ho Chi Minh City;NET30;0
+AC20251;mai tien fashion joint stock company;0663572936;0337.579.686;;Da Nang;COD;0
+AC20252;TAN TIEN FASHION CO., LTD;0705539423;84932853791;contact@tantienfashion.vn;Hai Duong;NET15;200000000
+AC20253;   Loc Tien Fashion Co., Ltd ;0716718769;;contact@loctienfashion.vn;Da Nang;NET30;50000000
+AC20254;Khang Tien Fashion Co., Ltd;0107839790;+84 701 168 535;contact@khangtienfashion.vn;Ha Noi;;500000000
+AC20255;Quang Tien Fashion Co., Ltd;0612854540;0901176138;contact@quangtienfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20256;VINH TIEN FASHION LLC;0287288019;(0833) 836-090;contact@vinhtienfashion.vn;Nha Trang;NET30;500000000
+AC20257;Lan Tien Fashion Co., Ltd;0552795366;+84 797 892 923;contact@lantienfashion.vn;Da Nang;NET30;50000000
+AC20258;Hoang Tien Fashion LLC;0748339357;(0331) 689-910;;Da Nang;NET15;200000000
+AC20259;Kim Tien Fashion Co., Ltd;0999581384;(0331) 399-466;contact@kimtienfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20260;Bao Tien Fashion Co., Ltd;0419280628;+84 939 509 692;contact@baotienfashion.vn;Ha Noi;NET45;500000000
+AC20261;Anh Tien Fashion Co., Ltd;0615388477;;;Ho Chi Minh City;NET30;50000000
+AC20262;MINH PHUC FASHION JOINT STOCK COMPANY;0518386647;+84 761 287 598;contact@minhphucfashion.vn;Bac Ninh;NET45;200000000
+AC20263;An Phuc Fashion Co., Ltd;0703631292;(0987) 956-871;contact@anphucfashion.vn;Ha Noi;NET15;0
+AC20264;Phat Phuc Fashion Co., Ltd;;;contact@phatphucfashion.vn;Da Nang;NET15;0
+AC20265;thinh phuc fashion co., ltd;0427988764;0819556695;contact@thinhphucfashion.vn;Ha Noi;NET30;200000000
+AC20266;viet phuc fashion company limited;0666643738;84851023716;contact@vietphucfashion.vn;Ha Noi;;500000000
+AC20267;  Hoa Phuc Fashion LLC ;0519518640;0707.761.379;contact@hoaphucfashion.vn;Hue;NET15;200000000
+AC20268;Binh Phuc Fashion Co., Ltd;0476457250;84968381250;;Ha Noi;NET30;100000000
+AC20269;Tien Phuc Fashion LLC;0994209781;0357.023.425;;Ho Chi Minh City;;100000000
+AC20270;  Phuc Phuc Fashion Company Limited ;0652382276;0793.161.472;;Ha Noi;NET15;0
+AC20271;Hai Phuc Fashion JSC;0293380924;0709677907;contact@haiphucfashion.vn;Ho Chi Minh City;NET30;0
+AC20272;Dong Phuc Fashion Joint Stock Company;0971673674;0975.214.829;contact@dongphucfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20273;Sao Phuc Fashion;0423404293;;contact@saophucfashion.vn;Hue;NET15;0
+AC20274;Mai Phuc Fashion Co., Ltd;0470503573;84868683887;contact@maiphucfashion.vn;Can Tho;NET45;50000000
+AC20275;Tan Phuc Fashion Co., Ltd;;+84 933 930 338;contact@tanphucfashion.vn;Ho Chi Minh City;COD;200000000
+AC20276;Loc Phuc Fashion Joint Stock Company;;0838418030;contact@locphucfashion.vn;Da Nang;COD;200000000
+AC20277;Khang Phuc Fashion Co., Ltd;0842239499;0972841434;;Ha Noi;NET30;200000000
+AC20278;Duc Phuc Fashion Co., Ltd;0525016434;;contact@ducphucfashion.vn;Ho Chi Minh City;NET45;50000000
+AC20279;  Quang Phuc Fashion Co., Ltd ;0737261782;;;Bac Ninh;NET15;500000000
+AC20280;Son Phuc Fashion Joint Stock Company;;84909111671;contact@sonphucfashion.vn;Hue;NET15;500000000
+AC20281;Vinh Phuc Fashion Co., Ltd;;(0852) 861-884;;Ha Noi;COD;0
+AC20282;Lan Phuc Fashion Co., Ltd;;84358079224;contact@lanphucfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20283;HOANG PHUC FASHION COMPANY LIMITED;0581441210;(0899) 633-537;contact@hoangphucfashion.vn;Bac Ninh;;50000000
+AC20284;Kim Phuc Fashion Company Limited;0375345428;0906.214.703;;Ho Chi Minh City;COD;200000000
+AC20285;Bao Phuc Fashion Co., Ltd;;;contact@baophucfashion.vn;Ha Noi;COD;0
+AC20286;Anh Phuc Fashion Co Ltd;;84885042635;;Hai Duong;NET30;0
+AC20287;minh nam fashion jsc;0788484786;0703.113.832;;Ha Noi;NET45;200000000
+AC20288;AN NAM FASHION CO., LTD;0372592723;+84 819 271 966;contact@annamfashion.vn;Da Nang;COD;50000000
+AC20289;Thinh Nam Fashion Co., Ltd;0495526379;84979817694;contact@thinhnamfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20290;Hung Nam Fashion;0351222859;;contact@hungnamfashion.vn;Nha Trang;COD;100000000
+AC20291;VIET NAM FASHION JOINT STOCK COMPANY;0728224871;(0972) 563-868;contact@vietnamfashion.vn;Ha Noi;NET45;50000000
+AC20292;Hoa Nam Fashion;0356042916;84359047277;;Bac Ninh;NET30;50000000
+AC20293;Binh  Nam Fashion Joint Stock Company;0713433100;;contact@binhnamfashion.vn;Ha Noi;NET45;0
+AC20294;Thanh Nam Fashion Co., Ltd;0588173560;(0968) 211-274;contact@thanhnamfashion.vn;Hai Duong;COD;500000000
+AC20295;Long Nam Fashion Co Ltd;0439863526;;;Ho Chi Minh City;NET30;0
+AC20296;Tien Nam Fashion Joint Stock Company;0642224991;+84 321 705 909;contact@tiennamfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20297;Phuc Nam Fashion JSC;0141305632;+84 909 329 372;contact@phucnamfashion.vn;Bac Ninh;NET30;200000000
+AC20298;Dong Nam Fashion LLC;0705344487;0817987945;contact@dongnamfashion.vn;Hue;NET15;100000000
+AC20299;Sao Nam Fashion Co., Ltd;0611308669;+84 895 149 353;contact@saonamfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20300;Mai Nam Fashion Co., Ltd;0388993892;0763982422;;Hai Phong;NET45;0
+AC20301;Tan Nam Fashion Co., Ltd;0909767700;0881139155;contact@tannamfashion.vn;Nha Trang;NET30;100000000
+AC20302;Loc Nam Fashion Co., Ltd;0764024938;+84 761 428 397;contact@locnamfashion.vn;Da Nang;NET45;0
+AC20303;Khang Nam Fashion Co., Ltd;0296916439;0703.438.281;contact@khangnamfashion.vn;Nha Trang;NET30;50000000
+AC20304;Duc Nam Fashion Co., Ltd;0684790785;0896965084;contact@ducnamfashion.vn;Ho Chi Minh City;;200000000
+AC20305;Quang Nam Fashion LLC;0582394660;0918352862;contact@quangnamfashion.vn;Da Nang;NET45;200000000
+AC20306;SON NAM FASHION JOINT STOCK COMPANY;0570358032;+84 704 090 373;;Ha Noi;COD;100000000
+AC20307;Lan Nam Fashion Co., Ltd;0154265586;0863.733.090;contact@lannamfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20308;Hoang Nam Fashion LLC;0346380219;(0962) 273-163;contact@hoangnamfashion.vn;Ho Chi Minh City;NET15;0
+AC20309;Gia Nam Fashion Co., Ltd;0790849679;0322696076;contact@gianamfashion.vn;Ho Chi Minh City;NET30;0
+AC20310;Kim Nam Fashion Co., Ltd;;;contact@kimnamfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20311;Bao Nam Fashion Co., Ltd;;0861797394;contact@baonamfashion.vn;Nha Trang;NET45;500000000
+AC20312;Anh Nam Fashion Co., Ltd;0368050611;0936.153.362;contact@anhnamfashion.vn;Da Nang;NET15;200000000
+AC20313;Minh Hai Fashion JSC;0411959036;0765.255.539;contact@minhhaifashion.vn;Ho Chi Minh City;NET45;100000000
+AC20314;An Hai Fashion Co., Ltd;0546544022;+84 881 405 984;contact@anhaifashion.vn;Ha Noi;NET30;50000000
+AC20315;Phat Hai Fashion Co., Ltd;0543727265;0705717971;contact@phathaifashion.vn;Can Tho;COD;500000000
+AC20316;Thinh Hai Fashion Co., Ltd;0199557338;+84 766 732 311;;Da Nang;COD;50000000
+AC20317;Hung Hai Fashion Co., Ltd;0416105289;0968257513;contact@hunghaifashion.vn;Nha Trang;NET15;200000000
+AC20318;Hoa Hai Fashion Company Limited;0375935802;84353322284;contact@hoahaifashion.vn;Ho Chi Minh City;NET30;100000000
+AC20319;Binh Hai Fashion Co., Ltd;0520046153;+84 791 392 723;contact@binhhaifashion.vn;Hai Phong;NET45;500000000
+AC20320;Thanh Hai Fashion Joint Stock Company;0427850614;(0763) 262-338;contact@thanhhaifashion.vn;Ha Noi;NET30;50000000
+AC20321;Long Hai Fashion Co., Ltd;0339928452;;;Ha Noi;NET15;0
+AC20322;tien hai fashion jsc;0893527875;0708601020;contact@tienhaifashion.vn;Hai Phong;NET45;200000000
+AC20323;Phuc Hai Fashion LLC;0783609219;0903974435;;Da Nang;NET15;50000000
+AC20324;Nam Hai Fashion Co., Ltd;0602773004;0914413160;;Bien Hoa;COD;200000000
+AC20325;Hai Hai Fashion JSC;;;;Ha Noi;NET30;50000000
+AC20326;Dong Hai Fashion Co., Ltd;0898321371;(0962) 530-114;contact@donghaifashion.vn;Hue;NET30;0
+AC20327;Mai Hai Fashion Co., Ltd;0827702965;0938419982;contact@maihaifashion.vn;Ha Noi;NET30;200000000
+AC20328;Tan Hai Fashion LLC;;;contact@tanhaifashion.vn;Ho Chi Minh City;NET15;200000000
+AC20329;Loc  Hai Fashion Co., Ltd;0182336524;84335030408;contact@lochaifashion.vn;Hai Phong;NET15;500000000
+AC20330;Khang Hai Fashion JSC;0647600837;+84 797 478 304;;Ho Chi Minh City;NET30;500000000
+AC20331;Duc Hai Fashion JSC;0879358904;0913.935.223;contact@duchaifashion.vn;Ho Chi Minh City;;50000000
+AC20332;QUANG HAI FASHION CO LTD;0481172118;+84 709 116 495;contact@quanghaifashion.vn;Bac Ninh;NET45;200000000
+AC20333;Son Hai Fashion Co., Ltd;0277893491;(0884) 284-315;contact@sonhaifashion.vn;Ho Chi Minh City;NET15;0
+AC20334;Lan Hai Fashion Co., Ltd;0524425905;+84 915 936 652;;Ha Noi;NET30;500000000
+AC20335;Gia Hai Fashion Co., Ltd;0472512552;(0333) 357-556;contact@giahaifashion.vn;Ho Chi Minh City;NET30;200000000
+AC20336;Kim Hai Fashion Co., Ltd;0767150129;;contact@kimhaifashion.vn;Can Tho;COD;200000000
+AC20337;Bao Hai Fashion Co., Ltd;0588711493;84962200795;contact@baohaifashion.vn;Ho Chi Minh City;NET30;500000000
+AC20338;Anh Hai Fashion Co., Ltd;0324331033;+84 886 984 994;;Ha Noi;NET45;500000000
+AC20339;an dong fashion;0430328714;;;Hai Duong;NET45;500000000
+AC20340;Phat Dong Fashion Co., Ltd;0248578026;84327154811;contact@phatdongfashion.vn;Hai Phong;NET30;50000000
+AC20341;Thinh Dong Fashion LLC;0552416173;0911484821;contact@thinhdongfashion.vn;Hai Phong;NET30;100000000
+AC20342;Hung Dong Fashion Company Limited;0695128171;;contact@hungdongfashion.vn;Ho Chi Minh City;NET30;0
+AC20343;Binh Dong Fashion Co., Ltd;0121663895;0776439419;contact@binhdongfashion.vn;Ha Noi;NET30;200000000
+AC20344;Thanh Dong Fashion Co., Ltd;0295619858;0887361325;contact@thanhdongfashion.vn;Bien Hoa;NET15;500000000
+AC20345;Nam Dong Fashion LLC;;+84 339 603 384;contact@namdongfashion.vn;Can Tho;NET30;200000000
+AC20346;Hai Dong Fashion Co., Ltd;0556895461;0931403625;contact@haidongfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20347;Dong Dong Fashion Co., Ltd;0201659032;0777148227;contact@dongdongfashion.vn;Hai Phong;NET30;200000000
+AC20348;Sao Dong Fashion;;(0866) 563-638;contact@saodongfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20349;Mai Dong Fashion Co., Ltd;;0767980772;contact@maidongfashion.vn;Ha Noi;NET30;200000000
+AC20350;  Tan Dong Fashion ;0129289002;84909487716;contact@tandongfashion.vn;Ho Chi Minh City;;100000000
+AC20351;Loc Dong Fashion Co., Ltd;0118702855;0796634315;;Ha Noi;NET15;500000000
+AC20352;Khang Dong Fashion Co., Ltd;;0972400180;contact@khangdongfashion.vn;Ha Noi;NET15;200000000
+AC20353;DUC DONG FASHION;0455823390;0817.147.994;contact@ducdongfashion.vn;Da Nang;NET45;500000000
+AC20354;Quang Dong Fashion Co., Ltd;0110979232;+84 768 999 514;contact@quangdongfashion.vn;Ha Noi;NET30;50000000
+AC20355;Vinh Dong Fashion Co., Ltd;0404943191;(0356) 867-279;contact@vinhdongfashion.vn;Nha Trang;;0
+AC20356;HOANG DONG FASHION JSC;0661515332;0972.328.075;contact@hoangdongfashion.vn;Ha Noi;NET30;500000000
+AC20357;Kim Dong Fashion Co Ltd;0903108353;0915352817;contact@kimdongfashion.vn;Ho Chi Minh City;COD;0
+AC20358;Bao  Dong Fashion;0303488962;84881646208;;Ho Chi Minh City;NET45;100000000
+AC20359;Anh Dong Fashion Co., Ltd;0350441073;0326.435.333;;Ho Chi Minh City;NET30;200000000
+AC20360;Minh Sao Fashion Company Limited;0785593089;;contact@minhsaofashion.vn;Nha Trang;NET30;200000000
+AC20361;an sao fashion joint stock company;0700072443;0916825989;;Ha Noi;NET30;200000000
+AC20362;Phat Sao Fashion LLC;0785588535;84852994136;contact@phatsaofashion.vn;Hai Duong;NET30;0
+AC20363;Thinh Sao Fashion Co., Ltd;0833621253;0918.291.654;contact@thinhsaofashion.vn;Bac Ninh;NET15;200000000
+AC20364;  hung sao fashion company limited ;0809845227;0968589128;contact@hungsaofashion.vn;Ha Noi;NET30;500000000
+AC20365;Binh  Sao Fashion;0466895927;;contact@binhsaofashion.vn;Hue;NET30;0
+AC20366;Thanh  Sao Fashion LLC;;0968666246;contact@thanhsaofashion.vn;Ha Noi;NET30;500000000
+AC20367;  Long Sao Fashion ;0920068251;84895860469;contact@longsaofashion.vn;Hue;NET30;100000000
+AC20368;PHUC SAO FASHION COMPANY LIMITED;0834889135;0917701917;contact@phucsaofashion.vn;Ho Chi Minh City;COD;500000000
+AC20369;Hai Sao Fashion Co., Ltd;;(0767) 372-430;contact@haisaofashion.vn;Bien Hoa;NET30;0
+AC20370;Dong Sao Fashion Co., Ltd;0219806356;(0777) 272-637;contact@dongsaofashion.vn;Bien Hoa;NET45;500000000
+AC20371;Sao Sao Fashion Joint Stock Company;;84967821318;;Ho Chi Minh City;NET30;0
+AC20372;Mai Sao Fashion Co., Ltd;0917538515;;contact@maisaofashion.vn;Da Nang;;0
+AC20373;Tan Sao Fashion Co., Ltd;0695188696;(0974) 164-358;contact@tansaofashion.vn;Ha Noi;NET30;50000000
+AC20374;Khang Sao Fashion Co., Ltd;0157810007;84811379101;contact@khangsaofashion.vn;Ho Chi Minh City;NET30;100000000
+AC20375;Duc Sao Fashion Co., Ltd;0124367579;;contact@ducsaofashion.vn;Ho Chi Minh City;NET45;0
+AC20376;Quang Sao Fashion Co., Ltd;0847074423;;contact@quangsaofashion.vn;Ho Chi Minh City;NET15;100000000
+AC20377;Son Sao Fashion Co., Ltd;0962022252;0358843055;contact@sonsaofashion.vn;Da Nang;NET30;200000000
+AC20378;Lan Sao Fashion Co., Ltd;;(0326) 984-293;contact@lansaofashion.vn;Ho Chi Minh City;NET30;100000000
+AC20379;Hoang Sao Fashion Co., Ltd;0330735770;0777026943;;Ho Chi Minh City;NET30;500000000
+AC20380;Gia Sao Fashion LLC;0339222411;0859184914;;Ho Chi Minh City;NET30;100000000
+AC20381;Minh Mai Fashion Co., Ltd;0977722998;0797.458.734;contact@minhmaifashion.vn;Ha Noi;NET45;50000000
+AC20382;THINH MAI FASHION CO., LTD;0247525933;+84 977 259 373;contact@thinhmaifashion.vn;Da Nang;NET30;500000000
+AC20383;  VIET MAI FASHION ;0922465722;;;Da Nang;NET45;200000000
+AC20384;Hoa Mai Fashion Co., Ltd;0199351885;;contact@hoamaifashion.vn;Bac Ninh;NET15;100000000
+AC20385;Thanh Mai Fashion;;0777507796;contact@thanhmaifashion.vn;Bien Hoa;NET30;50000000
+AC20386;TIEN MAI FASHION LLC;0254345725;+84 965 506 262;contact@tienmaifashion.vn;Ho Chi Minh City;NET15;0
+AC20387;Phuc Mai Fashion Co., Ltd;;84974527375;contact@phucmaifashion.vn;Ho Chi Minh City;NET30;50000000
+AC20388;Nam Mai Fashion Co., Ltd;0438186667;84908733940;contact@nammaifashion.vn;Nha Trang;COD;50000000
+AC20389;Dong Mai Fashion Joint Stock Company;0308959676;0834053099;;Ha Noi;NET30;100000000
+AC20390;Sao Mai Fashion Co., Ltd;;84981800693;contact@saomaifashion.vn;Ho Chi Minh City;NET15;200000000
+AC20391;  Mai Mai Fashion Co Ltd ;0631330510;84916854524;;Ha Noi;COD;100000000
+AC20392;Duc Mai Fashion Co., Ltd;;(0889) 746-415;contact@ducmaifashion.vn;Can Tho;NET30;500000000
+AC20393;Son Mai Fashion JSC;0708110045;0333058197;contact@sonmaifashion.vn;Nha Trang;NET45;0
+AC20394;VINH MAI FASHION CO LTD;0963193598;0351.250.169;contact@vinhmaifashion.vn;Da Nang;COD;200000000
+AC20395;HOANG MAI FASHION LLC;;;;Ho Chi Minh City;NET45;200000000
+AC20396;Kim Mai Fashion Co., Ltd;0965797074;0989.754.735;contact@kimmaifashion.vn;Ho Chi Minh City;NET30;500000000
+AC20397;Anh Mai Fashion Co., Ltd;0316887138;+84 939 869 589;contact@anhmaifashion.vn;Ha Noi;NET30;0
+AC20398;Minh Tan Fashion Co., Ltd;0342284773;0907856968;contact@minhtanfashion.vn;Hai Phong;NET45;200000000
+AC20399;An Tan Fashion Co., Ltd;0754563286;;;Ha Noi;NET45;50000000
+AC20400;Phat Tan Fashion;0912177670;(0987) 493-964;contact@phattanfashion.vn;Ha Noi;NET30;0
+AC20401;Hung Tan Fashion Co., Ltd;0496398604;+84 859 890 060;contact@hungtanfashion.vn;Ho Chi Minh City;COD;500000000
+AC20402;Viet Tan Fashion Co., Ltd;0948677765;(0963) 520-274;contact@viettanfashion.vn;Hai Phong;NET45;100000000
+AC20403;Hoa Tan Fashion Co., Ltd;0735039962;+84 331 771 395;contact@hoatanfashion.vn;Ha Noi;NET30;200000000
+AC20404;Binh Tan Fashion Joint Stock Company;;0977.775.960;;Da Nang;NET30;100000000
+AC20405;Thanh Tan Fashion Co., Ltd;0918050564;;contact@thanhtanfashion.vn;Ho Chi Minh City;NET30;0
+AC20406;Long Tan Fashion Co., Ltd;0961561426;(0817) 477-061;contact@longtanfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20407;Tien Tan Fashion LLC;0794898736;0935215880;contact@tientanfashion.vn;Bien Hoa;NET45;0
+AC20408;Phuc Tan Fashion Co., Ltd;0262975897;(0894) 816-016;contact@phuctanfashion.vn;Nha Trang;NET30;0
+AC20409;Nam Tan Fashion Co., Ltd;0208967363;;contact@namtanfashion.vn;Ha Noi;NET30;200000000
+AC20410;Dong Tan Fashion Company Limited;0944279304;0859308624;contact@dongtanfashion.vn;Ho Chi Minh City;NET45;50000000
+AC20411;sao tan fashion joint stock company;0324920462;(0321) 766-053;;Ho Chi Minh City;NET30;0
+AC20412;Tan Tan Fashion Co., Ltd;0125971976;+84 893 906 617;contact@tantanfashion.vn;Nha Trang;NET30;500000000
+AC20413;Loc Tan Fashion Co., Ltd;;0351392228;contact@loctanfashion.vn;Hai Phong;NET45;100000000
+AC20414;Khang Tan Fashion Co., Ltd;0484830923;84811337526;contact@khangtanfashion.vn;Nha Trang;NET15;100000000
+AC20415;Duc Tan Fashion Co., Ltd;0666797103;0898.340.791;contact@ductanfashion.vn;Ho Chi Minh City;COD;50000000
+AC20416;  quang tan fashion joint stock company ;0540633276;(0339) 089-187;;Da Nang;NET30;50000000
+AC20417;Son Tan Fashion Co., Ltd;0723852793;+84 863 326 865;contact@sontanfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20418;Lan Tan Fashion Co., Ltd;;;;Ha Noi;NET30;100000000
+AC20419;Hoang Tan Fashion JSC;0817290185;;contact@hoangtanfashion.vn;Ha Noi;NET30;50000000
+AC20420;Gia Tan Fashion Co., Ltd;;(0907) 569-268;contact@giatanfashion.vn;Bac Ninh;NET30;0
+AC20421;Kim Tan Fashion Co., Ltd;0711339681;;contact@kimtanfashion.vn;Hue;NET45;50000000
+AC20422;Bao Tan Fashion Co., Ltd;0727380514;;contact@baotanfashion.vn;Ha Noi;COD;500000000
+AC20423;Anh Tan Fashion Co., Ltd;0773570266;(0894) 146-257;contact@anhtanfashion.vn;Hue;NET30;500000000
+AC20424;Minh Loc Fashion Co., Ltd;0431101969;0767080502;contact@minhlocfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20425;Phat Loc Fashion Co., Ltd;0601463129;;contact@phatlocfashion.vn;Ha Noi;COD;200000000
+AC20426;Thinh Loc Fashion;0416971082;0779635930;;Ha Noi;NET45;100000000
+AC20427;Hung Loc Fashion Co Ltd;0612557762;+84 866 294 112;;Ho Chi Minh City;NET30;100000000
+AC20428;hoa loc fashion llc;0876272865;84779915342;;Ho Chi Minh City;NET15;0
+AC20429;Binh Loc Fashion Co., Ltd;0867127557;84894822710;contact@binhlocfashion.vn;Da Nang;NET30;0
+AC20430;Thanh Loc Fashion Co., Ltd;;84706641002;contact@thanhlocfashion.vn;Ho Chi Minh City;NET30;0
+AC20431;Long Loc Fashion Co., Ltd;0849892201;(0888) 352-118;contact@longlocfashion.vn;Ha Noi;NET30;0
+AC20432;Phuc Loc Fashion Co., Ltd;0709579169;(0868) 383-229;contact@phuclocfashion.vn;Hue;;0
+AC20433;Nam Loc Fashion Co., Ltd;0718024957;0773359827;;Ha Noi;NET30;0
+AC20434;Hai Loc Fashion Co., Ltd;0780016319;84988980259;contact@hailocfashion.vn;Ha Noi;NET30;200000000
+AC20435;DONG LOC FASHION;0811464255;0884.124.305;contact@donglocfashion.vn;Ho Chi Minh City;;200000000
+AC20436;Sao Loc Fashion Co., Ltd;0599570022;;contact@saolocfashion.vn;Can Tho;NET30;200000000
+AC20437;Tan Loc Fashion JSC;0609916170;0965936077;;Ha Noi;COD;200000000
+AC20438;Loc Loc Fashion Co., Ltd;;0328.290.957;contact@loclocfashion.vn;Ho Chi Minh City;NET30;0
+AC20439;Khang Loc Fashion Joint Stock Company;0590089574;0983296802;contact@khanglocfashion.vn;Hai Phong;NET45;100000000
+AC20440;Duc Loc Fashion;0820297980;0705.267.526;contact@duclocfashion.vn;Hai Duong;NET30;500000000
+AC20441;Son Loc Fashion Co., Ltd;0759648871;84864830764;;Da Nang;NET45;200000000
+AC20442;Vinh Loc Fashion Co., Ltd;;0889.259.312;contact@vinhlocfashion.vn;Hai Phong;NET30;100000000
+AC20443;Hoang Loc Fashion Co Ltd;;+84 914 218 124;contact@hoanglocfashion.vn;Ho Chi Minh City;NET15;0
+AC20444;Gia Loc Fashion Co Ltd;0504212676;0706647974;contact@gialocfashion.vn;Ha Noi;NET30;0
+AC20445;kim loc fashion;0663739187;84331451381;contact@kimlocfashion.vn;Ho Chi Minh City;COD;500000000
+AC20446;Bao Loc Fashion;0990987442;0982725983;;Can Tho;NET15;50000000
+AC20447;Anh Loc Fashion Co., Ltd;0927678563;0776.715.552;contact@anhlocfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20448;Minh Khang Fashion Co., Ltd;;0332353925;contact@minhkhangfashion.vn;Hai Phong;NET30;50000000
+AC20449;An  Khang Fashion JSC;;84854875153;contact@ankhangfashion.vn;Da Nang;NET30;100000000
+AC20450;THINH KHANG FASHION JSC;;0776.939.140;;Ho Chi Minh City;NET15;500000000
+AC20451;Viet Khang Fashion Company Limited;0976193731;+84 704 452 445;contact@vietkhangfashion.vn;Ha Noi;NET30;200000000
+AC20452;Thanh Khang Fashion;0459031033;84863102782;contact@thanhkhangfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20453;Long Khang Fashion Co Ltd;0723676536;+84 889 605 324;;Can Tho;NET45;500000000
+AC20454;Tien Khang Fashion Co., Ltd;;0339.839.041;contact@tienkhangfashion.vn;Ha Noi;NET30;0
+AC20455;Nam Khang Fashion Co., Ltd;0932147508;(0977) 903-331;;Hai Duong;NET30;200000000
+AC20456;hai khang fashion co ltd;0994611456;0905.493.570;contact@haikhangfashion.vn;Hai Duong;NET30;200000000
+AC20457;Dong Khang Fashion Co., Ltd;0975231822;0333154053;contact@dongkhangfashion.vn;Ho Chi Minh City;NET30;0
+AC20458;Mai Khang Fashion Company Limited;;;;Ha Noi;NET45;500000000
+AC20459;Tan Khang Fashion Co., Ltd;0793890622;+84 796 907 041;;Ha Noi;NET30;500000000
+AC20460;Khang Khang Fashion JSC;0509078237;+84 796 446 325;contact@khangkhangfashion.vn;Ha Noi;NET15;200000000
+AC20461;DUC KHANG FASHION JOINT STOCK COMPANY;0323217615;;contact@duckhangfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20462;Quang Khang Fashion Co., Ltd;;(0797) 399-964;contact@quangkhangfashion.vn;Da Nang;NET30;500000000
+AC20463;Son Khang Fashion Co., Ltd;;84777906002;contact@sonkhangfashion.vn;Ho Chi Minh City;NET15;500000000
+AC20464;Lan Khang Fashion Co., Ltd;0139853789;(0765) 455-917;contact@lankhangfashion.vn;Hue;NET30;50000000
+AC20465;Hoang Khang Fashion LLC;;0855445289;contact@hoangkhangfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20466;Gia Khang Fashion JSC;;84773813000;contact@giakhangfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20467;BAO KHANG FASHION JOINT STOCK COMPANY;0774112690;;contact@baokhangfashion.vn;Hai Duong;COD;500000000
+AC20468;  Anh Khang Fashion Company Limited ;0661595130;;contact@anhkhangfashion.vn;Ho Chi Minh City;NET30;0
+AC20469;Minh Duc Fashion Co., Ltd;0668595540;+84 988 514 831;contact@minhducfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20470;An Duc Fashion Co., Ltd;0718773252;(0853) 477-778;contact@anducfashion.vn;Bac Ninh;NET45;100000000
+AC20471;Phat Duc Fashion Co., Ltd;0939415855;(0855) 736-274;contact@phatducfashion.vn;Bien Hoa;NET15;100000000
+AC20472;Hung Duc Fashion Co., Ltd;0763051471;+84 911 637 853;contact@hungducfashion.vn;Bac Ninh;NET30;100000000
+AC20473;  Viet Duc Fashion ;0819903327;0768.773.819;contact@vietducfashion.vn;Ha Noi;NET30;50000000
+AC20474;Hoa Duc Fashion Company Limited;0962232539;;contact@hoaducfashion.vn;Ha Noi;NET15;0
+AC20475;Binh Duc Fashion Co., Ltd;0877643576;(0763) 546-747;;Ha Noi;NET30;100000000
+AC20476;Thanh Duc Fashion JSC;0463632653;;contact@thanhducfashion.vn;Ho Chi Minh City;NET45;500000000
+AC20477;Tien Duc Fashion Co., Ltd;0754859244;0853.456.427;contact@tienducfashion.vn;Bac Ninh;NET30;100000000
+AC20478;Phuc Duc Fashion Co., Ltd;0732986462;+84 916 689 153;;Nha Trang;;100000000
+AC20479;  Hai Duc Fashion ;0655965354;84812883031;contact@haiducfashion.vn;Da Nang;NET45;100000000
+AC20480;Dong Duc Fashion Co., Ltd;0744165158;(0331) 694-300;;Bien Hoa;NET30;0
+AC20481;Sao Duc Fashion Co., Ltd;0561942319;0859.887.756;contact@saoducfashion.vn;Nha Trang;NET45;200000000
+AC20482;Mai Duc Fashion Joint Stock Company;0533689994;0865.681.403;contact@maiducfashion.vn;Ha Noi;;50000000
+AC20483;Tan Duc Fashion LLC;;0899.128.608;contact@tanducfashion.vn;Hai Phong;NET45;500000000
+AC20484;Loc Duc Fashion Co., Ltd;0686566965;84975841281;contact@locducfashion.vn;Da Nang;NET15;0
+AC20485;Duc Duc Fashion Co., Ltd;0581496495;(0977) 231-546;contact@ducducfashion.vn;Ha Noi;NET15;100000000
+AC20486;Quang Duc Fashion LLC;0803831368;(0903) 153-942;contact@quangducfashion.vn;Can Tho;NET30;50000000
+AC20487;Son Duc Fashion Co., Ltd;0811068960;0839121747;;Ho Chi Minh City;NET30;100000000
+AC20488;Vinh Duc Fashion Co., Ltd;;84913645490;;Da Nang;NET15;0
+AC20489;Lan Duc Fashion Co., Ltd;0946945911;;contact@landucfashion.vn;Ha Noi;NET15;500000000
+AC20490;Hoang Duc Fashion LLC;0575861508;;;Ha Noi;NET15;0
+AC20491;Gia Duc Fashion Co., Ltd;;(0857) 879-713;contact@giaducfashion.vn;Bac Ninh;NET30;100000000
+AC20492;Kim Duc Fashion Co., Ltd;0113112745;;contact@kimducfashion.vn;Ho Chi Minh City;NET45;0
+AC20493;Bao Duc Fashion Co., Ltd;0391000376;+84 975 885 047;;Ho Chi Minh City;NET15;0
+AC20494;Anh Duc Fashion Co., Ltd;;;contact@anhducfashion.vn;Can Tho;NET15;0
+AC20495;Minh Quang Fashion Co., Ltd;0647771145;(0833) 356-258;;Ha Noi;NET30;50000000
+AC20496;  An Quang Fashion Company Limited ;;+84 854 347 442;;Ha Noi;NET30;100000000
+AC20497;Phat Quang Fashion Co., Ltd;0356445261;+84 882 624 488;;Ho Chi Minh City;NET30;100000000
+AC20498;Thinh Quang Fashion Co., Ltd;0959123208;0706.079.940;;Da Nang;COD;0
+AC20499;Hung Quang Fashion Company Limited;0517233720;84912410317;contact@hungquangfashion.vn;Ho Chi Minh City;NET45;0
+AC20500;Hoa Quang Fashion Joint Stock Company;0275831943;0354426293;;Can Tho;NET30;500000000
+AC20501;Binh Quang Fashion;;0703341257;contact@binhquangfashion.vn;Hai Duong;;100000000
+AC20502;Long Quang Fashion Co., Ltd;;0979173229;;Can Tho;NET30;0
+AC20503;Tien Quang Fashion Co., Ltd;0494589601;(0833) 319-050;;Ha Noi;NET30;0
+AC20504;Phuc Quang Fashion Joint Stock Company;0467022427;(0894) 215-336;contact@phucquangfashion.vn;Ho Chi Minh City;NET30;0
+AC20505;Nam Quang Fashion Co Ltd;;0963987488;contact@namquangfashion.vn;Can Tho;NET45;50000000
+AC20506;Dong Quang Fashion Co., Ltd;0828155155;84798696038;contact@dongquangfashion.vn;Hai Phong;NET15;0
+AC20507;Sao Quang Fashion Co., Ltd;0617211753;84765094502;contact@saoquangfashion.vn;Ho Chi Minh City;COD;50000000
+AC20508;Mai Quang Fashion Co., Ltd;0239965654;+84 886 962 934;contact@maiquangfashion.vn;Hai Phong;NET30;0
+AC20509;Tan Quang Fashion Co., Ltd;0575895584;;contact@tanquangfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20510;Khang Quang Fashion LLC;0889359722;84936079075;;Ha Noi;NET15;100000000
+AC20511;Duc Quang Fashion Co., Ltd;0709891968;;contact@ducquangfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20512;Son Quang Fashion;0846810655;;;Ha Noi;COD;50000000
+AC20513;Vinh Quang Fashion Co., Ltd;0581751111;0903.020.179;contact@vinhquangfashion.vn;Bac Ninh;COD;50000000
+AC20514;lan  quang fashion llc;0749064853;0883123918;contact@lanquangfashion.vn;Hai Duong;NET15;200000000
+AC20515;Hoang Quang Fashion Co., Ltd;;(0888) 151-846;;Nha Trang;NET30;0
+AC20516;Gia Quang Fashion Co., Ltd;0728849909;0839595567;;Ho Chi Minh City;NET30;50000000
+AC20517;Kim Quang Fashion Co., Ltd;0985811794;+84 831 034 717;contact@kimquangfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20518;Anh Quang Fashion Co., Ltd;0497887399;(0706) 406-356;contact@anhquangfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20519;An Son Fashion LLC;0727587939;;contact@ansonfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20520;Phat Son Fashion Co., Ltd;0163660517;+84 895 334 580;contact@phatsonfashion.vn;Hai Phong;NET15;200000000
+AC20521;Viet Son Fashion JSC;0311118847;0886.525.327;;Ha Noi;COD;50000000
+AC20522;binh son fashion llc;0592476825;0838205738;contact@binhsonfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20523;Thanh Son Fashion Co., Ltd;0810137878;0863278105;contact@thanhsonfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20524;Long Son Fashion;0689946741;(0883) 521-583;contact@longsonfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20525;Phuc Son Fashion Joint Stock Company;;+84 358 078 241;contact@phucsonfashion.vn;Ha Noi;;200000000
+AC20526;Nam Son Fashion Co., Ltd;;(0351) 942-168;;Ha Noi;NET15;50000000
+AC20527;Hai Son Fashion Co., Ltd;0549385095;0323.670.869;contact@haisonfashion.vn;Ha Noi;NET45;50000000
+AC20528;Dong Son Fashion Co., Ltd;0957019384;84762527537;contact@dongsonfashion.vn;Can Tho;NET30;50000000
+AC20529;Sao Son Fashion Co., Ltd;0623929250;0859185993;contact@saosonfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20530;Mai Son Fashion Co., Ltd;0325717944;84899466386;contact@maisonfashion.vn;Bien Hoa;NET15;500000000
+AC20531;Tan Son Fashion Co., Ltd;0285185676;;contact@tansonfashion.vn;Hue;NET30;500000000
+AC20532;LOC SON FASHION CO., LTD;0686384734;+84 867 326 111;;Bien Hoa;NET15;100000000
+AC20533;Khang Son Fashion Co., Ltd;0421593949;0325892740;contact@khangsonfashion.vn;Ha Noi;NET30;50000000
+AC20534;Duc Son Fashion Joint Stock Company;0582247139;0865.729.568;contact@ducsonfashion.vn;Ha Noi;NET30;100000000
+AC20535;Quang Son Fashion Co., Ltd;;+84 357 013 712;;Can Tho;NET30;100000000
+AC20536;Son Son Fashion JSC;0868556214;84859677720;;Da Nang;NET30;0
+AC20537;Vinh Son Fashion Co., Ltd;0388746584;+84 336 082 137;;Ho Chi Minh City;NET45;50000000
+AC20538;Lan Son Fashion Co., Ltd;0874921128;0332205488;;Ho Chi Minh City;NET45;200000000
+AC20539;Hoang Son Fashion Company Limited;0937225501;;contact@hoangsonfashion.vn;Ha Noi;NET30;200000000
+AC20540;  GIA SON FASHION CO., LTD ;0912479556;;contact@giasonfashion.vn;Bien Hoa;NET30;50000000
+AC20541;Kim Son Fashion Joint Stock Company;0655642703;;contact@kimsonfashion.vn;Ha Noi;NET30;200000000
+AC20542;Anh Son Fashion JSC;0216259448;0798792944;contact@anhsonfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20543;Minh Vinh Fashion Co., Ltd;0166761398;84704500359;;Can Tho;NET45;200000000
+AC20544;An Vinh Fashion Co., Ltd;;0931.219.523;contact@anvinhfashion.vn;Ha Noi;NET30;50000000
+AC20545;Phat Vinh Fashion Co., Ltd;0618340218;0702.725.534;;Ho Chi Minh City;NET45;0
+AC20546;Viet Vinh Fashion LLC;0330501178;(0707) 541-763;;Ha Noi;COD;500000000
+AC20547;   Hoa Vinh Fashion LLC ;;84975594889;;Nha Trang;NET30;50000000
+AC20548;binh vinh fashion jsc;0389689081;;contact@binhvinhfashion.vn;Bien Hoa;NET15;200000000
+AC20549;Phuc Vinh Fashion Co., Ltd;0553046877;(0328) 750-633;;Ho Chi Minh City;;200000000
+AC20550;Nam Vinh Fashion Co., Ltd;0414214171;0819827056;contact@namvinhfashion.vn;Da Nang;NET30;100000000
+AC20551;Hai Vinh Fashion JSC;0883969508;0962.788.135;;Bien Hoa;NET15;0
+AC20552;Loc Vinh Fashion Co Ltd;0237834605;0839628018;contact@locvinhfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20553;Khang Vinh Fashion LLC;0362744983;0881555272;contact@khangvinhfashion.vn;Ha Noi;NET15;200000000
+AC20554;Duc Vinh Fashion Co., Ltd;;0352.865.180;contact@ducvinhfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20555;Quang Vinh Fashion;0708988445;0707.045.872;contact@quangvinhfashion.vn;Hai Phong;NET15;0
+AC20556;Son Vinh Fashion Co., Ltd;0606454793;0799.068.521;;Ha Noi;NET15;100000000
+AC20557;Vinh Vinh Fashion Joint Stock Company;0642763188;;;Ho Chi Minh City;NET45;500000000
+AC20558;Gia Vinh Fashion Co., Ltd;;0863666759;contact@giavinhfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20559;Bao Vinh Fashion Co., Ltd;0459643655;(0765) 092-393;;Bac Ninh;NET30;500000000
+AC20560;Anh Vinh Fashion Co., Ltd;0806359848;0838125071;;Ho Chi Minh City;NET15;100000000
+AC20561;Minh Lan Fashion Co., Ltd;0707852200;84705394262;;Ho Chi Minh City;NET45;200000000
+AC20562;An Lan Fashion JSC;0344441566;(0857) 460-291;contact@anlanfashion.vn;Ha Noi;NET30;100000000
+AC20563;Phat Lan Fashion Co., Ltd;0997596766;+84 836 694 224;;Bac Ninh;NET15;200000000
+AC20564;thinh  lan fashion joint stock company;;0772857627;contact@thinhlanfashion.vn;Nha Trang;;50000000
+AC20565;Hung Lan Fashion Co., Ltd;0299761762;(0896) 562-144;contact@hunglanfashion.vn;Bac Ninh;COD;500000000
+AC20566;Hoa Lan Fashion Co., Ltd;0297247436;(0902) 221-605;contact@hoalanfashion.vn;Nha Trang;;200000000
+AC20567;long lan fashion company limited;0926548335;(0793) 780-486;;Ho Chi Minh City;NET30;100000000
+AC20568;Tien Lan Fashion Co., Ltd;0517927566;84981549926;contact@tienlanfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20569;Phuc Lan Fashion Co., Ltd;0870888397;(0332) 206-857;contact@phuclanfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20570;Nam  Lan Fashion Co Ltd;0544531515;;contact@namlanfashion.vn;Ha Noi;NET30;50000000
+AC20571;Hai Lan Fashion JSC;0359862587;0906.843.579;contact@hailanfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20572;dong lan fashion joint stock company;0309719061;;;Ho Chi Minh City;NET30;200000000
+AC20573;Sao Lan Fashion Co., Ltd;0890583122;0882.565.153;contact@saolanfashion.vn;Da Nang;NET30;100000000
+AC20574;Mai Lan Fashion Co., Ltd;0270773396;;contact@mailanfashion.vn;Ho Chi Minh City;NET30;0
+AC20575;Tan Lan Fashion Co., Ltd;0922546837;;;Bien Hoa;NET30;0
+AC20576;Loc Lan Fashion Co., Ltd;0436079610;(0707) 557-881;contact@loclanfashion.vn;Da Nang;NET30;100000000
+AC20577;Khang Lan Fashion Joint Stock Company;0168253926;(0964) 204-548;;Can Tho;NET45;100000000
+AC20578;Duc Lan Fashion Co., Ltd;0132424024;;contact@duclanfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20579;Quang Lan Fashion Co., Ltd;0466192313;;;Nha Trang;NET15;0
+AC20580;Son Lan Fashion Co Ltd;0577768876;0326951465;contact@sonlanfashion.vn;Can Tho;COD;200000000
+AC20581;Vinh Lan Fashion Co., Ltd;;0767228661;contact@vinhlanfashion.vn;Da Nang;NET45;500000000
+AC20582;Hoang Lan Fashion Company Limited;0947692981;+84 818 725 359;;Ho Chi Minh City;NET30;200000000
+AC20583;Kim Lan Fashion Co., Ltd;0482428426;(0884) 857-183;contact@kimlanfashion.vn;Ha Noi;NET15;100000000
+AC20584;Bao Lan Fashion Co Ltd;0854759022;;contact@baolanfashion.vn;Da Nang;NET15;100000000
+AC20585;Anh Lan Fashion Co., Ltd;0721424601;(0978) 176-778;contact@anhlanfashion.vn;Ho Chi Minh City;NET15;0
+AC20586;minh hoang fashion co ltd;0566301849;0892718851;contact@minhhoangfashion.vn;Bac Ninh;NET45;500000000
+AC20587;Phat  Hoang Fashion Co Ltd;0575994098;0869843545;contact@phathoangfashion.vn;Ha Noi;NET15;500000000
+AC20588;Thinh Hoang Fashion Co., Ltd;0580576521;84706471642;contact@thinhhoangfashion.vn;Ha Noi;COD;500000000
+AC20589;HUNG HOANG FASHION JSC;0458886176;84831460732;contact@hunghoangfashion.vn;Da Nang;NET30;100000000
+AC20590;VIET HOANG FASHION JSC;0518314786;;contact@viethoangfashion.vn;Ho Chi Minh City;NET30;0
+AC20591;Hoa Hoang Fashion LLC;0979525927;;;Hue;NET15;500000000
+AC20592;Binh Hoang Fashion Co., Ltd;0652009674;+84 963 436 333;contact@binhhoangfashion.vn;Hai Duong;NET30;50000000
+AC20593;THANH HOANG FASHION;0140013971;0336.544.568;contact@thanhhoangfashion.vn;Bac Ninh;NET45;50000000
+AC20594;long hoang fashion jsc;0775287875;+84 978 672 317;;Da Nang;;50000000
+AC20595;tien hoang fashion joint stock company;0573395057;+84 985 507 441;contact@tienhoangfashion.vn;Ha Noi;NET30;50000000
+AC20596;Phuc Hoang Fashion Co., Ltd;0329309489;0988638409;contact@phuchoangfashion.vn;Ho Chi Minh City;NET15;0
+AC20597;Nam Hoang Fashion Co., Ltd;;(0919) 774-477;contact@namhoangfashion.vn;Ha Noi;NET15;50000000
+AC20598;Hai Hoang Fashion JSC;0427377543;84895548152;;Da Nang;NET30;100000000
+AC20599;Sao Hoang Fashion Co., Ltd;0569950599;0328.044.647;contact@saohoangfashion.vn;Ho Chi Minh City;NET30;100000000
+AC20600;Mai Hoang Fashion Co., Ltd;0603440637;0358472214;contact@maihoangfashion.vn;Ha Noi;NET30;500000000
+AC20601;Tan Hoang Fashion Co., Ltd;0169192964;0354077115;;Ha Noi;NET30;0
+AC20602;Loc Hoang Fashion Co., Ltd;0294177655;(0764) 724-994;contact@lochoangfashion.vn;Can Tho;NET30;200000000
+AC20603;Khang Hoang Fashion Co., Ltd;0708045218;84798778584;;Ho Chi Minh City;NET45;50000000
+AC20604;Quang Hoang Fashion Co., Ltd;0491740554;0326.558.445;contact@quanghoangfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20605;Son Hoang Fashion;0453535482;84798040775;contact@sonhoangfashion.vn;Ho Chi Minh City;NET30;500000000
+AC20606;Vinh Hoang Fashion Co., Ltd;;;contact@vinhhoangfashion.vn;Bien Hoa;NET30;200000000
+AC20607;Lan Hoang Fashion Co., Ltd;0983239764;0706.958.151;contact@lanhoangfashion.vn;Ho Chi Minh City;NET30;50000000
+AC20608;Hoang Hoang Fashion Co., Ltd;0244156449;0709421178;;Ho Chi Minh City;NET15;200000000
+AC20609;Gia Hoang Fashion Company Limited;;+84 881 817 465;;Hue;NET30;50000000
+AC20610;Kim Hoang Fashion;0346091660;;contact@kimhoangfashion.vn;Ho Chi Minh City;NET15;500000000
+AC20611;MINH GIA FASHION CO LTD;0331569391;+84 893 983 994;;Ha Noi;NET30;0
+AC20612;An Gia Fashion Co., Ltd;;+84 351 229 054;contact@angiafashion.vn;Ha Noi;NET15;200000000
+AC20613;PHAT GIA FASHION CO., LTD;0566253635;(0864) 344-286;;Bac Ninh;NET15;200000000
+AC20614;Thinh Gia Fashion Co., Ltd;0777477831;(0971) 533-916;contact@thinhgiafashion.vn;Da Nang;NET30;0
+AC20615;HUNG GIA FASHION;0654298911;0814697473;contact@hunggiafashion.vn;Ho Chi Minh City;NET15;200000000
+AC20616;Viet Gia Fashion Company Limited;0157708257;0865021950;contact@vietgiafashion.vn;Ha Noi;NET45;100000000
+AC20617;Binh Gia Fashion Co., Ltd;0812002524;84983266944;contact@binhgiafashion.vn;Bac Ninh;NET45;0
+AC20618;Long Gia Fashion Co., Ltd;0296029620;+84 967 920 854;;Ho Chi Minh City;NET45;0
+AC20619;Tien Gia Fashion Joint Stock Company;0583707091;;;Ha Noi;NET30;100000000
+AC20620;Phuc Gia Fashion Co., Ltd;0118349714;0794089825;contact@phucgiafashion.vn;Da Nang;;50000000
+AC20621;Nam Gia Fashion Joint Stock Company;0983903235;+84 329 074 378;contact@namgiafashion.vn;Ho Chi Minh City;COD;500000000
+AC20622;Dong Gia Fashion Co., Ltd;0961349561;+84 358 311 076;;Ho Chi Minh City;NET30;100000000
+AC20623;Sao Gia Fashion Co., Ltd;0323591495;0915.428.636;contact@saogiafashion.vn;Ho Chi Minh City;NET30;50000000
+AC20624;  Mai Gia Fashion JSC ;0520606863;0894.117.536;contact@maigiafashion.vn;Ho Chi Minh City;NET45;0
+AC20625;Loc Gia Fashion Co., Ltd;0747829147;0888.577.242;contact@locgiafashion.vn;Da Nang;NET45;0
+AC20626;Duc Gia Fashion Co., Ltd;0414909116;0762374371;contact@ducgiafashion.vn;Ha Noi;NET15;0
+AC20627;Quang Gia Fashion Co., Ltd;0244194429;+84 703 998 424;contact@quanggiafashion.vn;Ho Chi Minh City;NET30;0
+AC20628;SON GIA FASHION CO., LTD;0700827540;84859289371;contact@songiafashion.vn;Bac Ninh;NET45;500000000
+AC20629;Vinh Gia Fashion Company Limited;0549425715;84912170649;contact@vinhgiafashion.vn;Ho Chi Minh City;NET30;50000000
+AC20630;Lan Gia Fashion Co Ltd;0360260679;0791592334;contact@langiafashion.vn;Bien Hoa;NET30;50000000
+AC20631;  HOANG GIA FASHION LLC ;0762808767;0971.210.556;contact@hoanggiafashion.vn;Ha Noi;NET30;500000000
+AC20632;Kim Gia Fashion Co., Ltd;0221320065;(0905) 026-804;contact@kimgiafashion.vn;Nha Trang;NET30;200000000
+AC20633;Bao Gia Fashion Co., Ltd;0581807553;;contact@baogiafashion.vn;Hai Duong;NET15;100000000
+AC20634;Minh Kim Fashion Co., Ltd;0225650408;(0911) 089-786;contact@minhkimfashion.vn;Ho Chi Minh City;NET30;200000000
+AC20635;An Kim Fashion Co., Ltd;0443338682;(0892) 603-990;contact@ankimfashion.vn;Ho Chi Minh City;NET45;0
+AC20636;Phat Kim Fashion Co., Ltd;0437191410;84766637473;;Ho Chi Minh City;NET30;500000000
+AC20637;Thinh Kim Fashion;0453481618;84799002366;;Nha Trang;NET15;200000000
+AC20638;VIET KIM FASHION;0599123904;0795127665;;Ho Chi Minh City;COD;500000000
+AC20639;Hoa Kim Fashion Co., Ltd;0798565079;(0938) 601-247;contact@hoakimfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20640;Binh Kim Fashion Co., Ltd;0848031878;0963621349;contact@binhkimfashion.vn;Hai Duong;NET45;500000000
+AC20641;Thanh Kim Fashion Co., Ltd;;+84 919 654 031;;Ho Chi Minh City;NET30;100000000
+AC20642;Tien Kim Fashion Co., Ltd;0528742010;+84 327 286 710;;Bac Ninh;NET30;200000000
+AC20643;Phuc Kim Fashion Co., Ltd;0475452895;;;Nha Trang;NET30;200000000
+AC20644;Nam Kim Fashion Co., Ltd;0564476327;84975710906;contact@namkimfashion.vn;Ha Noi;NET45;100000000
+AC20645;Hai Kim Fashion Co., Ltd;0428889233;84798245351;contact@haikimfashion.vn;Ho Chi Minh City;COD;500000000
+AC20646;  Dong Kim Fashion Company Limited ;0973638611;0812912862;contact@dongkimfashion.vn;Bac Ninh;NET45;200000000
+AC20647;Sao Kim Fashion Co., Ltd;0849361479;0914.544.353;contact@saokimfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20648;Mai Kim Fashion Co., Ltd;0202019488;+84 892 187 653;contact@maikimfashion.vn;Nha Trang;NET15;200000000
+AC20649;Tan Kim Fashion Co., Ltd;0398026098;(0967) 697-046;contact@tankimfashion.vn;Ho Chi Minh City;NET15;100000000
+AC20650;  Loc Kim Fashion Co., Ltd ;;0917203733;contact@lockimfashion.vn;Can Tho;NET30;0
+AC20651;Khang Kim Fashion Company Limited;0682685684;+84 968 766 984;contact@khangkimfashion.vn;Ha Noi;NET30;500000000
+AC20652;Duc Kim Fashion Co Ltd;0765259298;;contact@duckimfashion.vn;Can Tho;NET30;200000000
+AC20653;Quang Kim Fashion Co., Ltd;0899003952;;contact@quangkimfashion.vn;Ho Chi Minh City;NET15;50000000
+AC20654;Son Kim Fashion;0627958184;0867.444.142;contact@sonkimfashion.vn;Nha Trang;COD;200000000
+AC20655;Lan Kim Fashion Company Limited;0181527836;84936070634;contact@lankimfashion.vn;Bac Ninh;NET30;50000000
+AC20656;Hoang Kim Fashion Co Ltd;0330163236;84339620152;;Da Nang;NET15;50000000
+AC20657;Bao Kim Fashion LLC;0513858985;84832373911;contact@baokimfashion.vn;Can Tho;NET30;500000000
+AC20658;  anh kim fashion joint stock company ;;84776203336;;Hue;NET30;100000000
+AC20659;Thinh Bao Fashion LLC;0949106132;;contact@thinhbaofashion.vn;Hai Phong;NET15;500000000
+AC20660;Hung Bao Fashion Co., Ltd;;0885800322;;Ha Noi;NET45;500000000
+AC20661;hoa bao fashion joint stock company;0576594914;84321963096;contact@hoabaofashion.vn;Hai Phong;NET15;200000000
+AC20662;Binh Bao Fashion Co., Ltd;0533055995;0771865742;contact@binhbaofashion.vn;Ha Noi;NET15;200000000
+AC20663;Thanh Bao Fashion Co., Ltd;0778017598;(0984) 039-053;;Can Tho;NET30;50000000
+AC20664;Long Bao Fashion Co., Ltd;0275803931;;contact@longbaofashion.vn;Ha Noi;NET15;500000000
+AC20665;  Tien Bao Fashion ;0113213319;;contact@tienbaofashion.vn;Ha Noi;NET30;100000000
+AC20666;Phuc Bao Fashion Co., Ltd;0435818472;0901074811;contact@phucbaofashion.vn;Ho Chi Minh City;NET30;100000000
+AC20667;Nam Bao Fashion Co., Ltd;0646274250;0976.317.425;contact@nambaofashion.vn;Ho Chi Minh City;NET45;50000000
+AC20668;   Hai Bao Fashion Co Ltd ;0604359271;(0973) 327-583;;Ho Chi Minh City;NET45;200000000
+AC20669;SAO BAO FASHION CO., LTD;0420182403;(0796) 025-388;contact@saobaofashion.vn;Da Nang;NET30;500000000
+AC20670;Mai Bao Fashion Co., Ltd;0495516762;+84 905 604 903;contact@maibaofashion.vn;Hue;NET15;100000000
+AC20671;Tan Bao Fashion Co Ltd;0732587505;;contact@tanbaofashion.vn;Bac Ninh;NET30;100000000
+AC20672;Loc Bao Fashion Co., Ltd;0646359306;84357385528;contact@locbaofashion.vn;Can Tho;;0
+AC20673;KHANG BAO FASHION JOINT STOCK COMPANY;0344040074;+84 813 242 716;;Ha Noi;COD;100000000
+AC20674;Duc Bao Fashion Co., Ltd;;0812659745;contact@ducbaofashion.vn;Hai Duong;NET45;500000000
+AC20675;Son Bao Fashion;0600592984;0322.180.510;contact@sonbaofashion.vn;Hue;NET30;50000000
+AC20676;Vinh Bao Fashion Co., Ltd;0179202055;(0778) 387-784;;Ho Chi Minh City;NET30;500000000
+AC20677;Lan Bao Fashion Co Ltd;;0863.442.829;;Hai Phong;COD;200000000
+AC20678;Gia Bao Fashion Co., Ltd;0593301331;0339.043.158;contact@giabaofashion.vn;Ha Noi;NET15;200000000
+AC20679;Kim Bao Fashion Co., Ltd;0454954646;(0888) 132-669;contact@kimbaofashion.vn;Hai Phong;NET45;0
+AC20680;ANH  BAO FASHION JOINT STOCK COMPANY;0568087706;;contact@anhbaofashion.vn;Ho Chi Minh City;NET30;500000000
+AC20681;Minh Anh Fashion LLC;;0351345760;contact@minhanhfashion.vn;Hai Phong;NET45;0
+AC20682;An Anh Fashion LLC;0455873071;;contact@ananhfashion.vn;Da Nang;NET30;500000000
+AC20683;Phat Anh Fashion Co., Ltd;0350642195;0916.925.559;;Ha Noi;NET30;50000000
+AC20684;Hung Anh Fashion Co., Ltd;0785004507;;;Ho Chi Minh City;;0
+AC20685;Viet Anh Fashion Co., Ltd;;;contact@vietanhfashion.vn;Bien Hoa;COD;50000000
+AC20686;Hoa Anh Fashion Co., Ltd;;(0896) 302-923;contact@hoaanhfashion.vn;Da Nang;NET15;0
+AC20687;Binh Anh Fashion Co., Ltd;0705178554;0771.515.055;;Hue;NET15;500000000
+AC20688;Thanh Anh Fashion Co Ltd;0779900086;+84 816 652 920;;Ha Noi;NET45;500000000
+AC20689;Long Anh Fashion JSC;;0937.760.459;;Ho Chi Minh City;NET30;200000000
+AC20690;Tien Anh Fashion Co., Ltd;0302430131;0764.130.771;contact@tienanhfashion.vn;Ha Noi;NET30;200000000
+AC20691;  nam anh fashion ;0808410499;0357375783;contact@namanhfashion.vn;Bac Ninh;NET15;0
+AC20692;Hai Anh Fashion Co., Ltd;;0977672014;contact@haianhfashion.vn;Hai Duong;NET45;500000000
+AC20693;Dong Anh Fashion Co., Ltd;0435829056;84795083610;contact@donganhfashion.vn;Bac Ninh;NET15;100000000
+AC20694;MAI ANH FASHION JSC;0727227540;0354855879;;Nha Trang;NET30;100000000
+AC20695;Khang Anh Fashion Co., Ltd;;+84 811 617 124;contact@khanganhfashion.vn;Ha Noi;COD;0
+AC20696;Quang Anh Fashion Co., Ltd;0149420533;;;Nha Trang;NET45;50000000
+AC20697;Son Anh Fashion Co., Ltd;0406837727;+84 985 927 196;contact@sonanhfashion.vn;Ha Noi;NET15;100000000
+AC20698;Vinh Anh Fashion Co., Ltd;0445770819;0963.764.516;contact@vinhanhfashion.vn;Ho Chi Minh City;;100000000
+AC20699;Lan Anh Fashion Co., Ltd;;;contact@lananhfashion.vn;Hai Duong;NET30;200000000
+AC20700;Hoang Anh Fashion Co Ltd;;+84 769 503 056;contact@hoanganhfashion.vn;Hai Phong;NET45;0
+AC20701;Kim Anh Fashion Co., Ltd;0736090451;+84 794 103 416;;Ho Chi Minh City;NET15;100000000
+AC20702;Anh Anh Fashion Joint Stock Company;;+84 864 965 450;;Hai Phong;NET45;50000000
+AC20703;Minh Minh Retail;0917932170;0833.586.728;contact@minhminhretail.vn;Hai Phong;NET45;200000000
+AC20704;An Minh Retail Co., Ltd;0479185865;84325256055;contact@anminhretail.vn;Hai Duong;NET15;0
+AC20705;Phat Minh Retail Co., Ltd;;(0892) 831-591;;Hai Phong;NET15;50000000
+AC20706;Hung Minh Retail Company Limited;0367693780;+84 896 522 074;;Hai Phong;NET45;50000000
+AC20707;Viet Minh Retail Co., Ltd;0791497313;+84 799 983 104;contact@vietminhretail.vn;Ha Noi;COD;100000000
+AC20708;Binh Minh Retail Co., Ltd;;0988209909;contact@binhminhretail.vn;Can Tho;NET30;0
+AC20709;Thanh Minh Retail Joint Stock Company;0249308891;0911.186.424;contact@thanhminhretail.vn;Ha Noi;;100000000
+AC20710;long minh retail company limited;0639289251;(0988) 288-721;contact@longminhretail.vn;Hai Duong;NET15;200000000
+AC20711;Tien Minh Retail JSC;;+84 765 156 718;contact@tienminhretail.vn;Hue;NET30;100000000
+AC20712;nam minh retail company limited;0703077084;+84 769 041 317;;Ho Chi Minh City;NET30;200000000
+AC20713;Hai Minh Retail Co., Ltd;0626254772;;;Nha Trang;NET30;200000000
+AC20714;Dong Minh Retail Co., Ltd;;(0328) 800-776;;Ho Chi Minh City;NET30;500000000
+AC20715;Sao Minh Retail Co., Ltd;0847507897;0793464197;contact@saominhretail.vn;Da Nang;NET15;0
+AC20716;Mai Minh Retail LLC;0597906688;;contact@maiminhretail.vn;Da Nang;NET30;500000000
+AC20717;Tan Minh Retail Co., Ltd;;0974687191;contact@tanminhretail.vn;Bien Hoa;NET45;500000000
+AC20718;Khang Minh Retail Co., Ltd;0216611982;0919277325;contact@khangminhretail.vn;Da Nang;NET30;500000000
+AC20719;Quang Minh Retail LLC;0153682909;0327411422;;Nha Trang;NET15;0
+AC20720;Vinh Minh Retail Co., Ltd;0271221755;(0794) 197-528;contact@vinhminhretail.vn;Ho Chi Minh City;NET15;50000000
+AC20721;Lan Minh Retail Co., Ltd;;84917671763;;Can Tho;NET30;0
+AC20722;Hoang Minh Retail Co., Ltd;0544917996;0859745013;;Da Nang;NET45;200000000
+AC20723;Gia Minh Retail Co., Ltd;0896664387;0323.024.523;contact@giaminhretail.vn;Ho Chi Minh City;NET30;200000000
+AC20724;Kim Minh Retail Co., Ltd;0696494638;;;Can Tho;NET15;50000000
+AC20725;Bao Minh Retail Co., Ltd;0110995323;;;Ho Chi Minh City;NET30;0
+AC20726;Minh An Retail Co., Ltd;0900041915;+84 814 150 867;contact@minhanretail.vn;Hai Phong;NET30;0
+AC20727;An An Retail Co., Ltd;0538851370;;contact@ananretail.vn;Hai Duong;NET30;100000000
+AC20728;Hung An Retail;0425147411;84903567271;;Ha Noi;NET15;500000000
+AC20729;hoa an retail co ltd;0579241194;+84 706 156 679;contact@hoaanretail.vn;Ho Chi Minh City;NET30;200000000
+AC20730;Binh An Retail Co., Ltd;0147277430;0909.018.223;;Ha Noi;NET30;200000000
+AC20731;Thanh An Retail Co., Ltd;0601797553;84914514336;contact@thanhanretail.vn;Ha Noi;NET30;100000000
+AC20732;  Long An Retail ;0816396546;0329.850.497;contact@longanretail.vn;Can Tho;NET45;100000000
+AC20733;Tien An Retail Joint Stock Company;0909412277;(0907) 500-420;contact@tienanretail.vn;Ha Noi;NET45;50000000
+AC20734;phuc an retail jsc;0913542407;84352835622;contact@phucanretail.vn;Can Tho;NET30;500000000
+AC20735;  Nam An Retail Co Ltd ;0320548867;+84 817 044 282;contact@namanretail.vn;Da Nang;NET15;500000000
+AC20736;Hai An Retail Joint Stock Company;0540906434;(0796) 350-216;;Ha Noi;NET30;100000000
+AC20737;Dong An Retail;0941718251;(0987) 584-037;contact@donganretail.vn;Hai Phong;NET30;50000000
+AC20738;Sao An Retail Co., Ltd;0527349816;(0932) 641-719;contact@saoanretail.vn;Ha Noi;NET15;0
+AC20739;Mai An Retail Co., Ltd;;+84 774 060 522;contact@maianretail.vn;Ha Noi;NET30;200000000
+AC20740;Tan An Retail;0480262778;;;Ha Noi;NET30;0
+AC20741;Loc An Retail Co Ltd;0928001609;84797574430;;Nha Trang;NET45;0
+AC20742;Khang An Retail Co., Ltd;0414169611;(0882) 706-959;;Nha Trang;NET30;500000000
+AC20743;Duc An Retail Co., Ltd;0154279286;84971846002;;Can Tho;NET45;200000000
+AC20744;Son An Retail Co., Ltd;0523187441;+84 325 626 905;contact@sonanretail.vn;Ha Noi;NET30;500000000
+AC20745;Vinh An Retail Co., Ltd;0255344380;0982628495;contact@vinhanretail.vn;Ha Noi;NET30;0
+AC20746;Hoang An Retail JSC;0397123471;+84 325 426 810;;Ha Noi;NET15;50000000
+AC20747;  Gia An Retail Company Limited ;;0973.577.210;contact@giaanretail.vn;Hai Phong;;200000000
+AC20748;Bao An Retail Co., Ltd;;84704479829;contact@baoanretail.vn;Bien Hoa;NET45;500000000
+AC20749;Anh An Retail Co., Ltd;0171506653;84835009347;contact@anhanretail.vn;Hue;NET45;500000000
+AC20750;Minh Phat Retail Co., Ltd;0861122138;;;Ha Noi;NET30;0
+AC20751;An Phat Retail Company Limited;0688265964;;;Nha Trang;NET30;500000000
+AC20752;Phat Phat Retail Co., Ltd;0285859431;+84 851 691 823;contact@phatphatretail.vn;Ho Chi Minh City;COD;0
+AC20753;THINH PHAT RETAIL JOINT STOCK COMPANY;0251703544;(0983) 208-039;contact@thinhphatretail.vn;Can Tho;NET30;50000000
+AC20754;Hung Phat Retail Co., Ltd;0384640781;0903340535;;Bac Ninh;NET45;100000000
+AC20755;Binh Phat Retail Co., Ltd;0580047146;0357.677.704;contact@binhphatretail.vn;Ha Noi;COD;0
+AC20756;  thanh phat retail co., ltd ;0157196929;0901.238.927;contact@thanhphatretail.vn;Hai Phong;NET45;500000000
+AC20757;LONG PHAT RETAIL CO LTD;0416714201;0779849949;contact@longphatretail.vn;Hai Phong;NET30;0
+AC20758;Tien Phat Retail Joint Stock Company;0318328126;0976.028.325;contact@tienphatretail.vn;Can Tho;NET15;50000000
+AC20759;phuc phat retail jsc;0404206989;84909574578;;Ho Chi Minh City;NET30;50000000
+AC20760;Nam Phat Retail Company Limited;0463803876;0896.084.804;;Hai Phong;;50000000
+AC20761;Hai Phat Retail Co., Ltd;;0859676297;contact@haiphatretail.vn;Ho Chi Minh City;NET30;0
+AC20762;Dong Phat Retail Co., Ltd;0302398332;(0881) 601-202;contact@dongphatretail.vn;Hai Phong;NET15;100000000
+AC20763;Sao Phat Retail Co., Ltd;0188691738;;;Da Nang;NET15;200000000
+AC20764;Mai Phat Retail Co., Ltd;0795417694;0974539282;;Ho Chi Minh City;NET30;100000000
+AC20765;Khang Phat Retail Co., Ltd;;0978590554;contact@khangphatretail.vn;Ha Noi;NET30;200000000
+AC20766;Duc Phat Retail Co., Ltd;0266116730;0859633160;;Da Nang;COD;50000000
+AC20767;Son Phat Retail Co., Ltd;0541707819;;contact@sonphatretail.vn;Can Tho;NET45;200000000
+AC20768;Vinh Phat Retail Co., Ltd;0531352359;+84 939 248 527;;Ho Chi Minh City;NET30;100000000
+AC20769;Lan Phat Retail Co., Ltd;;0912.413.784;;Can Tho;NET15;500000000
+AC20770;Hoang Phat Retail Joint Stock Company;0990609350;84705530648;contact@hoangphatretail.vn;Da Nang;NET30;100000000
+AC20771;Gia Phat Retail Co., Ltd;0630961985;84799810062;;Ha Noi;NET15;500000000
+AC20772;  Bao Phat Retail LLC ;0230411802;0984704789;contact@baophatretail.vn;Ho Chi Minh City;NET15;500000000
+AC20773;Anh Phat Retail Co., Ltd;0100796739;0701005348;contact@anhphatretail.vn;Hai Phong;NET30;500000000
+AC20774;MINH THINH RETAIL COMPANY LIMITED;0211704392;+84 833 054 095;contact@minhthinhretail.vn;Bien Hoa;NET15;200000000
+AC20775;An Thinh Retail JSC;0488206876;(0839) 076-194;contact@anthinhretail.vn;Bac Ninh;NET30;100000000
+AC20776;Phat Thinh Retail Co., Ltd;0591553698;0974.221.848;;Bien Hoa;NET30;50000000
+AC20777;Thinh Thinh Retail Co., Ltd;0720746965;(0705) 576-958;contact@thinhthinhretail.vn;Hai Phong;NET45;50000000
+AC20778;Viet Thinh Retail Co., Ltd;0125858154;0853.355.231;contact@vietthinhretail.vn;Hai Duong;NET30;0
+AC20779;  HOA THINH RETAIL ;0700132108;;;Ha Noi;NET30;0
+AC20780;Binh Thinh Retail Joint Stock Company;0184282914;0329333207;contact@binhthinhretail.vn;Ha Noi;NET15;0
+AC20781;Thanh  Thinh Retail;0994109701;0889.470.202;;Hue;NET30;0
+AC20782;Long Thinh Retail Co., Ltd;0308732031;0357253543;contact@longthinhretail.vn;Ha Noi;;50000000
+AC20783;Tien Thinh Retail Co., Ltd;0416124841;+84 796 318 560;;Hue;;100000000
+AC20784;Phuc Thinh Retail Company Limited;0883394102;;contact@phucthinhretail.vn;Hai Phong;NET15;50000000
+AC20785;DONG THINH RETAIL CO., LTD;0238445769;84908800797;contact@dongthinhretail.vn;Ho Chi Minh City;COD;50000000
+AC20786;mai thinh retail jsc;0986005381;+84 768 623 288;;Da Nang;NET30;500000000
+AC20787;Tan Thinh Retail Co., Ltd;0552740959;;;Ha Noi;NET15;200000000
+AC20788;Khang Thinh Retail Co., Ltd;0254418559;84794880102;;Ha Noi;NET30;500000000
+AC20789;Quang Thinh Retail Co Ltd;0459706288;0885613930;contact@quangthinhretail.vn;Hai Phong;NET15;200000000
+AC20790;Son Thinh Retail JSC;0826616701;;contact@sonthinhretail.vn;Ho Chi Minh City;NET15;50000000
+AC20791;Vinh Thinh Retail Co., Ltd;0995305047;(0902) 436-372;;Ho Chi Minh City;NET30;0
+AC20792;Lan Thinh Retail LLC;;0862047326;contact@lanthinhretail.vn;Ha Noi;NET30;100000000
+AC20793;Hoang Thinh Retail;0197952358;0855.177.504;contact@hoangthinhretail.vn;Nha Trang;COD;100000000
+AC20794;Gia Thinh Retail Joint Stock Company;0168348197;84887908830;contact@giathinhretail.vn;Ha Noi;NET30;500000000
+AC20795;Kim Thinh Retail Co., Ltd;0839098183;0334465651;;Da Nang;NET15;500000000
+AC20796;Bao Thinh Retail Co., Ltd;0657857723;0833.127.900;contact@baothinhretail.vn;Ha Noi;NET30;0
+AC20797;Anh Thinh Retail Co., Ltd;0591027675;84839922674;;Ha Noi;NET30;100000000
+AC20798;MINH HUNG RETAIL;0379718268;0797591901;;Hai Duong;NET30;200000000
+AC20799;An Hung Retail Co., Ltd;0328680280;;contact@anhungretail.vn;Ho Chi Minh City;NET30;50000000
+AC20800;Phat Hung Retail Co., Ltd;0976980549;84812671234;contact@phathungretail.vn;Ha Noi;COD;100000000
+AC20801;Thinh Hung Retail Joint Stock Company;0144650690;0974.553.297;contact@thinhhungretail.vn;Nha Trang;NET45;100000000
+AC20802;Hung Hung Retail Company Limited;0173628741;84851362757;contact@hunghungretail.vn;Ho Chi Minh City;NET30;200000000
+AC20803;Viet Hung Retail LLC;0236577810;;;Ho Chi Minh City;COD;200000000
+AC20804;Hoa Hung Retail Co., Ltd;0945773654;;contact@hoahungretail.vn;Bac Ninh;NET30;500000000
+AC20805;Binh Hung Retail LLC;0684367657;84708670161;contact@binhhungretail.vn;Bac Ninh;NET30;500000000
+AC20806;Thanh Hung Retail Co., Ltd;0937597559;+84 979 132 975;;Nha Trang;NET15;50000000
+AC20807;Tien Hung Retail Co., Ltd;;0905.035.739;contact@tienhungretail.vn;Hai Phong;NET30;0
+AC20808;Phuc Hung Retail Co., Ltd;0422302907;84931393796;;Bien Hoa;NET45;50000000
+AC20809;Hai Hung Retail Co., Ltd;0981744784;(0886) 500-590;;Ho Chi Minh City;NET30;0
+AC20810;Sao Hung Retail;0680742426;84885250240;contact@saohungretail.vn;Hue;NET15;50000000
+AC20811;TAN HUNG RETAIL CO LTD;0485413448;;;Ho Chi Minh City;NET15;0
+AC20812;Loc Hung Retail Co., Ltd;0671514886;(0331) 497-590;contact@lochungretail.vn;Ha Noi;NET15;0
+AC20813;Khang Hung Retail Co., Ltd;;0359.194.052;;Hai Phong;;200000000
+AC20814;Duc Hung Retail Co., Ltd;0746418049;0863.068.181;contact@duchungretail.vn;Bac Ninh;NET30;500000000
+AC20815;Quang Hung Retail Co., Ltd;0349365078;0866.845.275;;Ha Noi;NET30;100000000
+AC20816;Vinh Hung Retail Company Limited;0430930290;(0918) 179-989;contact@vinhhungretail.vn;Hue;NET30;50000000
+AC20817;Lan Hung Retail Co., Ltd;0295260041;0883.455.159;contact@lanhungretail.vn;Ha Noi;NET30;100000000
+AC20818;Hoang Hung Retail Company Limited;0352298265;(0935) 250-722;contact@hoanghungretail.vn;Da Nang;NET45;200000000
+AC20819;Gia Hung Retail;0518992223;;contact@giahungretail.vn;Nha Trang;NET30;200000000
+AC20820;Kim Hung Retail Co., Ltd;0871423723;;contact@kimhungretail.vn;Can Tho;NET30;200000000
+AC20821;Bao Hung Retail Co., Ltd;0120551852;0937828549;contact@baohungretail.vn;Ha Noi;;50000000
+AC20822;Anh Hung Retail Co Ltd;0906860698;(0818) 185-332;;Ha Noi;NET45;0
+AC20823;Minh Viet Retail Co., Ltd;0884901136;0916437457;;Ha Noi;NET15;0
+AC20824;AN VIET RETAIL COMPANY LIMITED;0985648290;+84 351 351 558;contact@anvietretail.vn;Ha Noi;NET30;100000000
+AC20825;Thinh Viet Retail Co., Ltd;;(0882) 766-023;contact@thinhvietretail.vn;Nha Trang;NET30;50000000
+AC20826;Hung Viet Retail Co., Ltd;;0813913964;contact@hungvietretail.vn;Hue;NET45;100000000
+AC20827;Hoa Viet Retail;0527520477;(0811) 278-182;;Can Tho;NET30;200000000
+AC20828;Binh Viet Retail Co Ltd;0655804729;0907.991.960;contact@binhvietretail.vn;Can Tho;;100000000
+AC20829;Long Viet Retail Co., Ltd;0401904668;+84 938 773 973;;Ho Chi Minh City;NET15;50000000
+AC20830;Phuc Viet Retail Co., Ltd;0888508306;84852811048;contact@phucvietretail.vn;Ha Noi;NET30;50000000
+AC20831;Nam Viet Retail JSC;0333072495;;contact@namvietretail.vn;Hai Duong;;0
+AC20832;Hai Viet Retail Co., Ltd;0106423934;;contact@haivietretail.vn;Bac Ninh;NET30;0
+AC20833;Dong Viet Retail Co., Ltd;0448638111;0337.555.208;contact@dongvietretail.vn;Da Nang;NET15;500000000
+AC20834;Sao  Viet Retail Co., Ltd;0943621652;0869.936.778;contact@saovietretail.vn;Hai Duong;NET30;500000000
+AC20835;Tan Viet Retail Co., Ltd;;+84 797 913 242;contact@tanvietretail.vn;Hai Phong;;100000000
+AC20836;Loc Viet Retail Co., Ltd;0390400916;0779320944;;Hai Phong;NET30;0
+AC20837;KHANG VIET RETAIL JSC;0139133870;(0977) 739-535;contact@khangvietretail.vn;Da Nang;NET30;100000000
+AC20838;Quang Viet Retail Co., Ltd;0674823841;(0705) 792-213;contact@quangvietretail.vn;Ho Chi Minh City;NET30;0
+AC20839;son viet retail company limited;0429750409;84323531151;contact@sonvietretail.vn;Ho Chi Minh City;NET30;200000000
+AC20840;Vinh Viet Retail LLC;0499580032;0797677787;contact@vinhvietretail.vn;Ha Noi;NET30;500000000
+AC20841;Lan Viet Retail JSC;0988776159;0854138799;;Hai Phong;NET30;50000000
+AC20842;HOANG VIET RETAIL CO., LTD;;0762492127;;Hai Phong;NET30;200000000
+AC20843;Gia  Viet Retail Joint Stock Company;;0867002050;;Bien Hoa;NET30;200000000
+AC20844;Kim Viet Retail Co., Ltd;0245545231;+84 917 873 680;;Can Tho;NET30;200000000
+AC20845;Bao Viet Retail Co., Ltd;0602129240;;contact@baovietretail.vn;Bac Ninh;NET30;500000000
+AC20846;ANH VIET RETAIL COMPANY LIMITED;;;;Ho Chi Minh City;NET15;50000000
+AC20847;Minh Hoa Retail Co., Ltd;0491952502;0936267576;contact@minhhoaretail.vn;Ha Noi;NET15;200000000
+AC20848;Phat Hoa Retail Co., Ltd;0464575324;0981046962;contact@phathoaretail.vn;Ho Chi Minh City;NET15;50000000
+AC20849;Thinh Hoa Retail Co., Ltd;0589859579;;contact@thinhhoaretail.vn;Hue;NET15;500000000
+AC20850;Hung Hoa Retail JSC;0320863388;0981.845.816;contact@hunghoaretail.vn;Ho Chi Minh City;COD;50000000
+AC20851;Viet Hoa Retail LLC;0476781007;0777704318;contact@viethoaretail.vn;Hai Duong;NET45;0
+AC20852;Hoa Hoa Retail;0106402478;0859.380.060;contact@hoahoaretail.vn;Ho Chi Minh City;NET30;100000000
+AC20853;Binh Hoa Retail Company Limited;0232544370;+84 987 424 673;contact@binhhoaretail.vn;Ho Chi Minh City;NET45;0
+AC20854;Thanh Hoa Retail Co., Ltd;0876618595;0971224144;contact@thanhhoaretail.vn;Ha Noi;NET30;0
+AC20855;Long Hoa Retail;0191710596;84898233073;contact@longhoaretail.vn;Hue;NET45;200000000
+AC20856;Tien Hoa Retail Co., Ltd;0126855234;0918462376;contact@tienhoaretail.vn;Can Tho;COD;200000000
+AC20857;Phuc Hoa Retail LLC;0689160744;+84 914 377 794;contact@phuchoaretail.vn;Can Tho;NET30;0
+AC20858;Nam Hoa Retail Co., Ltd;0157854676;84868559473;;Ho Chi Minh City;NET15;500000000
+AC20859;HAI HOA RETAIL;0312471782;;contact@haihoaretail.vn;Hai Phong;;500000000
+AC20860;Dong Hoa Retail Co., Ltd;0507184629;0796.735.039;contact@donghoaretail.vn;Ha Noi;NET15;200000000
+AC20861;sao hoa retail co., ltd;0619680533;+84 779 455 584;;Ho Chi Minh City;NET30;500000000
+AC20862;Mai Hoa Retail Co., Ltd;0650179352;0965335341;contact@maihoaretail.vn;Hai Duong;NET30;100000000
+AC20863;Tan Hoa Retail;0259216824;;contact@tanhoaretail.vn;Ho Chi Minh City;NET45;50000000
+AC20864;Loc Hoa Retail Co., Ltd;0238204601;0889.075.490;contact@lochoaretail.vn;Ho Chi Minh City;NET30;0
+AC20865;Khang Hoa Retail JSC;0885088909;84799927363;contact@khanghoaretail.vn;Ho Chi Minh City;NET30;500000000
+AC20866;Duc  Hoa Retail;0604037540;0987168216;contact@duchoaretail.vn;Hai Duong;NET30;500000000
+AC20867;Quang Hoa Retail;0370281839;0883270709;contact@quanghoaretail.vn;Ha Noi;NET30;200000000
+AC20868;Son Hoa Retail Co., Ltd;0584826175;84885676694;contact@sonhoaretail.vn;Ho Chi Minh City;NET30;0
+AC20869;Vinh Hoa Retail Co., Ltd;;;;Hai Phong;NET30;200000000
+AC20870;Lan Hoa Retail Co., Ltd;0807809725;;contact@lanhoaretail.vn;Nha Trang;NET45;100000000
+AC20871;Hoang Hoa Retail Co., Ltd;0791237264;0335763156;contact@hoanghoaretail.vn;Hue;NET30;500000000
+AC20872;Gia Hoa Retail Co., Ltd;0729533985;84833789413;contact@giahoaretail.vn;Ha Noi;NET30;50000000
+AC20873;Kim Hoa Retail Co., Ltd;;;contact@kimhoaretail.vn;Ha Noi;NET30;100000000
+AC20874;Bao Hoa Retail Co., Ltd;0839289593;0911490917;contact@baohoaretail.vn;Ho Chi Minh City;NET45;200000000
+AC20875;Minh Binh Retail Co., Ltd;0305267545;84335617074;contact@minhbinhretail.vn;Ha Noi;NET30;200000000
+AC20876;An Binh Retail Co., Ltd;0964951314;+84 705 406 862;contact@anbinhretail.vn;Hue;NET30;50000000
+AC20877;Thinh Binh Retail Co., Ltd;0846863279;;contact@thinhbinhretail.vn;Hai Duong;COD;50000000
+AC20878;Hung Binh Retail Co., Ltd;0348391636;84894247341;contact@hungbinhretail.vn;Hai Duong;COD;500000000
+AC20879;Hoa Binh Retail Co., Ltd;0105631172;(0858) 090-328;contact@hoabinhretail.vn;Ho Chi Minh City;NET45;500000000
+AC20880;Binh Binh Retail Co., Ltd;0736933822;0919726305;contact@binhbinhretail.vn;Bien Hoa;NET30;50000000
+AC20881;Nam Binh Retail Co., Ltd;0223970994;;contact@nambinhretail.vn;Ho Chi Minh City;NET15;50000000
+AC20882;Hai Binh Retail Co., Ltd;0406238602;+84 881 058 527;;Ha Noi;COD;200000000
+AC20883;Dong Binh Retail LLC;;+84 975 463 984;;Da Nang;COD;0
+AC20884;Sao Binh Retail Co., Ltd;0910785950;+84 354 908 402;;Bac Ninh;COD;100000000
+AC20885;Mai Binh Retail JSC;0126281343;(0832) 187-280;contact@maibinhretail.vn;Ho Chi Minh City;NET15;50000000
+AC20886;tan binh retail llc;;+84 963 324 405;;Ha Noi;NET30;200000000
+AC20887;Loc Binh Retail Co., Ltd;;+84 322 206 434;contact@locbinhretail.vn;Ha Noi;COD;0
+AC20888;Duc Binh Retail Co., Ltd;;0972.180.798;contact@ducbinhretail.vn;Hai Phong;NET30;0
+AC20889;Quang Binh Retail Co., Ltd;0684345557;(0986) 323-181;;Ho Chi Minh City;NET30;500000000
+AC20890;Son Binh Retail Co., Ltd;0419022626;+84 986 497 238;contact@sonbinhretail.vn;Bien Hoa;NET15;200000000
+AC20891;Vinh Binh Retail Co., Ltd;0560600392;0839.302.200;;Ho Chi Minh City;NET30;100000000
+AC20892;  Lan Binh Retail Company Limited ;0762686133;;contact@lanbinhretail.vn;Ha Noi;NET30;0
+AC20893;Hoang Binh Retail Co Ltd;0522550790;0853.150.310;;Ha Noi;NET30;200000000
+AC20894;Gia Binh Retail Co Ltd;0271750066;(0761) 601-143;contact@giabinhretail.vn;Nha Trang;NET30;500000000
+AC20895;Kim Binh Retail LLC;0481579029;84819165773;contact@kimbinhretail.vn;Ho Chi Minh City;NET45;100000000
+AC20896;Bao Binh Retail Co Ltd;0901691080;84989330657;contact@baobinhretail.vn;Ha Noi;NET30;500000000
+AC20897;ANH BINH RETAIL CO LTD;;+84 886 933 371;contact@anhbinhretail.vn;Bac Ninh;NET30;500000000
+AC20898;Minh Thanh Retail Joint Stock Company;0746565048;+84 895 635 205;contact@minhthanhretail.vn;Ha Noi;NET30;500000000
+AC20899;Thinh Thanh Retail Co., Ltd;0214915798;0936.613.907;contact@thinhthanhretail.vn;Nha Trang;NET30;0
+AC20900;Viet Thanh Retail Co., Ltd;0683888403;0886.733.085;contact@vietthanhretail.vn;Nha Trang;NET30;0
+AC20901;Hoa Thanh Retail Co., Ltd;0935327631;84793161144;contact@hoathanhretail.vn;Hue;NET15;500000000
+AC20902;Binh Thanh Retail Co., Ltd;0476475123;;contact@binhthanhretail.vn;Ha Noi;NET30;200000000
+AC20903;  Tien Thanh Retail Joint Stock Company ;0299515362;0853.623.993;contact@tienthanhretail.vn;Ha Noi;NET30;50000000
+AC20904;Nam Thanh Retail Co., Ltd;0521232585;(0934) 733-340;contact@namthanhretail.vn;Ha Noi;NET30;500000000
+AC20905;Hai Thanh Retail Co., Ltd;0502658255;84356011727;contact@haithanhretail.vn;Hue;NET30;50000000
+AC20906;Mai Thanh Retail Co., Ltd;0125245402;84819381457;contact@maithanhretail.vn;Ha Noi;NET30;500000000
+AC20907;Tan Thanh Retail Co., Ltd;;84853094963;contact@tanthanhretail.vn;Ho Chi Minh City;NET30;500000000
+AC20908;Loc Thanh Retail JSC;;84883469271;contact@locthanhretail.vn;Hai Phong;NET15;100000000
+AC20909;Duc Thanh Retail Co Ltd;0653734290;0904760889;contact@ducthanhretail.vn;Ho Chi Minh City;NET15;0
+AC20910;  Vinh Thanh Retail Co Ltd ;0429435453;;contact@vinhthanhretail.vn;Da Nang;NET15;200000000
+AC20911;Lan Thanh Retail Company Limited;0851633267;(0839) 110-103;contact@lanthanhretail.vn;Ho Chi Minh City;NET30;0
+AC20912;Hoang Thanh Retail Co., Ltd;0666564383;(0858) 786-509;;Ho Chi Minh City;NET30;500000000
+AC20913;Gia Thanh Retail Co., Ltd;0656166987;0919.514.578;contact@giathanhretail.vn;Bac Ninh;;100000000
+AC20914;  Kim Thanh Retail Company Limited ;0604964794;84895401304;;Nha Trang;COD;500000000
+AC20915;BAO THANH RETAIL COMPANY LIMITED;0613016310;(0868) 864-475;contact@baothanhretail.vn;Can Tho;COD;100000000
+AC20916;anh thanh retail co., ltd;0476769148;84932021812;;Hue;NET30;200000000
+AC20917;Minh Long Retail Company Limited;0367102824;84339726354;;Ho Chi Minh City;NET30;500000000
+AC20918;An Long Retail Co., Ltd;0954828378;+84 775 851 599;;Ha Noi;NET30;0
+AC20919;Phat Long Retail Company Limited;0896889575;0766.789.677;contact@phatlongretail.vn;Bien Hoa;NET15;50000000
+AC20920;Thinh Long Retail Co., Ltd;0162607961;+84 832 215 759;contact@thinhlongretail.vn;Da Nang;NET15;200000000
+AC20921;HUNG LONG RETAIL CO LTD;0553233071;(0966) 743-464;contact@hunglongretail.vn;Bac Ninh;NET30;0
+AC20922;Hoa Long Retail Co., Ltd;0691923485;0835605305;contact@hoalongretail.vn;Bac Ninh;NET15;0
+AC20923;Thanh Long Retail Company Limited;0405322168;84321606577;;Ho Chi Minh City;NET45;500000000
+AC20924;Long Long Retail;;+84 331 651 507;;Ha Noi;NET45;100000000
+AC20925;Phuc Long Retail JSC;0675616275;;contact@phuclongretail.vn;Bac Ninh;NET45;100000000
+AC20926;Hai Long Retail Co., Ltd;0407293539;0325582141;contact@hailongretail.vn;Bac Ninh;COD;100000000
+AC20927;Dong Long Retail Co., Ltd;0122668737;(0334) 324-657;contact@donglongretail.vn;Ho Chi Minh City;NET30;100000000
+AC20928;Sao Long Retail Co., Ltd;;(0799) 585-999;contact@saolongretail.vn;Ho Chi Minh City;NET15;500000000
+AC20929;MAI LONG RETAIL CO LTD;0197402612;+84 334 371 780;contact@mailongretail.vn;Ha Noi;NET45;0
+AC20930;Tan Long Retail Joint Stock Company;;(0854) 291-571;contact@tanlongretail.vn;Ho Chi Minh City;NET15;50000000
+AC20931;Loc Long Retail Co., Ltd;0566336667;(0969) 760-775;;Ha Noi;NET30;50000000
+AC20932;Khang Long Retail Company Limited;0695433556;0982.361.926;contact@khanglongretail.vn;Da Nang;NET15;100000000
+AC20933;Duc Long Retail Co., Ltd;0423846882;0799772380;;Hai Phong;NET30;50000000
+AC20934;Quang Long Retail Co., Ltd;0906408131;+84 967 546 978;contact@quanglongretail.vn;Ho Chi Minh City;NET30;200000000
+AC20935;  Vinh Long Retail Joint Stock Company ;0896159083;;;Da Nang;NET30;200000000
+AC20936;Gia Long Retail Co., Ltd;0269312662;;contact@gialongretail.vn;Ha Noi;NET30;50000000
+AC20937;  Kim Long Retail LLC ;;84706212133;contact@kimlongretail.vn;Nha Trang;NET15;500000000
+AC20938;BAO LONG RETAIL CO., LTD;0439058976;;contact@baolongretail.vn;Ha Noi;NET30;500000000
+AC20939;An Tien Retail Co., Ltd;0784079012;;contact@antienretail.vn;Ha Noi;NET45;50000000
+AC20940;Thinh Tien Retail Co., Ltd;;;contact@thinhtienretail.vn;Ho Chi Minh City;NET15;0
+AC20941;  Hung Tien Retail Joint Stock Company ;0136663297;0337.132.070;;Ho Chi Minh City;NET15;500000000
+AC20942;Hoa Tien Retail Co., Ltd;0640140911;+84 939 576 861;contact@hoatienretail.vn;Nha Trang;NET30;0
+AC20943;Binh Tien Retail Co., Ltd;0294896348;0863.697.906;contact@binhtienretail.vn;Nha Trang;NET30;100000000
+AC20944;Thanh Tien Retail Co., Ltd;0779843451;0866.051.775;contact@thanhtienretail.vn;Ha Noi;NET15;100000000
+AC20945;Tien Tien Retail Co., Ltd;0676068900;;contact@tientienretail.vn;Ho Chi Minh City;NET30;200000000
+AC20946;Phuc Tien Retail Company Limited;0497558470;;contact@phuctienretail.vn;Ha Noi;NET45;200000000
+AC20947;Nam Tien Retail Joint Stock Company;0690221092;84793623307;contact@namtienretail.vn;Ho Chi Minh City;NET45;0
+AC20948;Dong Tien Retail Co., Ltd;0855094790;+84 891 848 082;contact@dongtienretail.vn;Ho Chi Minh City;NET30;100000000
+AC20949;Sao Tien Retail JSC;0658676245;(0891) 025-032;contact@saotienretail.vn;Nha Trang;NET30;200000000
+AC20950;Mai Tien Retail;0920871622;0321.060.769;contact@maitienretail.vn;Can Tho;NET30;500000000
+AC20951;  Tan Tien Retail JSC ;;84865944994;contact@tantienretail.vn;Nha Trang;NET45;500000000
+AC20952;Khang Tien Retail Co., Ltd;0489438113;0323.643.164;contact@khangtienretail.vn;Can Tho;NET30;200000000
+AC20953;Duc Tien Retail Co., Ltd;;0702679369;contact@ductienretail.vn;Bien Hoa;;50000000
+AC20954;Quang Tien Retail;0872107011;(0814) 008-740;contact@quangtienretail.vn;Hai Phong;NET30;0
+AC20955;Son Tien Retail Co., Ltd;0753331527;84812830107;contact@sontienretail.vn;Ha Noi;NET30;200000000
+AC20956;Vinh Tien Retail Co., Ltd;0795415720;;contact@vinhtienretail.vn;Ho Chi Minh City;NET30;200000000
+AC20957;Lan Tien Retail Joint Stock Company;0256190285;84937970060;contact@lantienretail.vn;Ho Chi Minh City;NET45;100000000
+AC20958;hoang tien retail;0275853657;84768773692;contact@hoangtienretail.vn;Hue;COD;100000000
+AC20959;Gia Tien Retail Co., Ltd;0546717020;0964.950.788;;Da Nang;NET30;500000000
+AC20960;Kim Tien Retail Company Limited;0961751402;(0977) 865-409;;Ho Chi Minh City;NET30;200000000
+AC20961;Bao Tien Retail Co., Ltd;0324692032;0819353955;contact@baotienretail.vn;Ho Chi Minh City;NET30;200000000
+AC20962;Anh Tien Retail Co., Ltd;0167495031;+84 882 303 661;contact@anhtienretail.vn;Hai Duong;NET15;500000000
+AC20963;An Phuc Retail Joint Stock Company;0639038127;84707689407;contact@anphucretail.vn;Bac Ninh;NET45;100000000
+AC20964;Thinh Phuc Retail Co., Ltd;0117052425;0905735049;contact@thinhphucretail.vn;Da Nang;NET45;100000000
+AC20965;Hung Phuc Retail Co., Ltd;0906744442;;contact@hungphucretail.vn;Hue;NET30;100000000
+AC20966;  Viet Phuc Retail Co., Ltd ;0509672032;;contact@vietphucretail.vn;Hai Phong;NET45;500000000
+AC20967;Hoa Phuc Retail Co., Ltd;0763910649;+84 852 023 161;;Hue;NET30;100000000
+AC20968;Binh Phuc Retail Company Limited;0584524105;84352301662;;Ho Chi Minh City;NET30;50000000
+AC20969;THANH PHUC RETAIL JOINT STOCK COMPANY;0345680223;0939843527;contact@thanhphucretail.vn;Ha Noi;NET30;200000000
+AC20970;Long Phuc Retail LLC;0344201571;84834453086;;Ha Noi;NET15;200000000
+AC20971;Tien Phuc Retail Joint Stock Company;;+84 703 599 945;;Ha Noi;NET45;200000000
+AC20972;Phuc Phuc Retail Co., Ltd;0125251852;;contact@phucphucretail.vn;Ho Chi Minh City;NET30;200000000
+AC20973;Nam Phuc Retail Co Ltd;0184674124;(0838) 927-468;;Ha Noi;COD;500000000
+AC20974;Dong Phuc Retail Company Limited;;84867818387;contact@dongphucretail.vn;Ho Chi Minh City;NET30;0
+AC20975;Sao Phuc Retail Co., Ltd;;(0961) 281-576;contact@saophucretail.vn;Hai Duong;NET45;50000000
+AC20976;Mai Phuc Retail Co., Ltd;0392641676;0327125972;contact@maiphucretail.vn;Ho Chi Minh City;NET45;200000000
+AC20977;Loc Phuc Retail Co., Ltd;;(0322) 076-531;contact@locphucretail.vn;Ho Chi Minh City;NET15;100000000
+AC20978;Khang Phuc Retail Co., Ltd;0629059554;84796122470;contact@khangphucretail.vn;Nha Trang;COD;50000000
+AC20979;Quang Phuc Retail Joint Stock Company;0518411842;;contact@quangphucretail.vn;Hai Duong;NET15;100000000
+AC20980;  Son Phuc Retail Company Limited ;;0864.342.086;;Hai Phong;NET30;200000000
+AC20981;   Kim Phuc Retail Co Ltd ;0905071496;+84 971 780 562;;Hue;NET15;500000000
+AC20982;Bao Phuc Retail Co., Ltd;0511857803;0919260094;contact@baophucretail.vn;Ho Chi Minh City;NET30;50000000
+AC20983;Anh Phuc Retail Co., Ltd;0935870339;84985665434;contact@anhphucretail.vn;Ha Noi;NET15;500000000
+AC20984;An Nam Retail Co., Ltd;0413024643;0776.454.267;;Ho Chi Minh City;NET15;50000000
+AC20985;Phat Nam Retail Co., Ltd;0970970793;;contact@phatnamretail.vn;Bien Hoa;NET30;0
+AC20986;Thinh Nam Retail Co., Ltd;0350103656;(0325) 941-644;;Hai Phong;NET15;0
+AC20987;Viet Nam Retail LLC;0970980074;84798888542;contact@vietnamretail.vn;Hai Phong;NET15;0
+AC20988;Binh Nam Retail Co., Ltd;0170960837;;contact@binhnamretail.vn;Ho Chi Minh City;NET15;500000000
+AC20989;Thanh Nam Retail Joint Stock Company;;0885.890.838;contact@thanhnamretail.vn;Bac Ninh;NET45;200000000
+AC20990;Long Nam Retail Co Ltd;0186944237;84905055521;contact@longnamretail.vn;Ha Noi;COD;0
+AC20991;  TIEN NAM RETAIL CO LTD ;0394731425;+84 971 993 621;contact@tiennamretail.vn;Ho Chi Minh City;NET45;50000000
+AC20992;Phuc Nam Retail Co., Ltd;;;;Ho Chi Minh City;NET45;500000000
+AC20993;  nam nam retail co ltd ;0262031904;;;Ho Chi Minh City;NET30;500000000
+AC20994;Hai Nam Retail Co., Ltd;0829354247;;;Ho Chi Minh City;NET30;200000000
+AC20995;Dong Nam Retail Co., Ltd;0861381413;+84 916 361 997;contact@dongnamretail.vn;Ho Chi Minh City;NET30;50000000
+AC20996;Loc Nam Retail Co., Ltd;0535538319;;contact@locnamretail.vn;Ha Noi;NET45;500000000
+AC20997;Khang Nam Retail Co., Ltd;0476722405;(0816) 142-733;contact@khangnamretail.vn;Da Nang;NET15;200000000
+AC20998;Quang Nam Retail Co., Ltd;0312951642;0336196083;;Ho Chi Minh City;NET15;0
+AC20999;Son Nam Retail Co., Ltd;0290562115;84892802701;;Ha Noi;NET30;500000000
+AC21000;   Vinh Nam Retail LLC ;0408697807;;contact@vinhnamretail.vn;Bien Hoa;NET15;200000000
+AC21001;Lan Nam Retail Joint Stock Company;0221147129;;contact@lannamretail.vn;Ho Chi Minh City;NET30;100000000
+AC21002;Hoang Nam Retail Co., Ltd;;0961900505;contact@hoangnamretail.vn;Hai Phong;NET30;500000000
+AC21003;Gia Nam Retail Co., Ltd;0461868489;0816.253.940;;Da Nang;NET15;500000000
+AC21004;Kim Nam Retail Co., Ltd;0203388414;0914.309.539;contact@kimnamretail.vn;Ha Noi;NET30;200000000
+AC21005;bao nam retail joint stock company;0607621813;0331156908;contact@baonamretail.vn;Bien Hoa;NET30;50000000
+AC21006;Anh Nam Retail Joint Stock Company;0810135495;84883797940;contact@anhnamretail.vn;Ha Noi;NET15;50000000
+AC21007;Minh Hai Retail Joint Stock Company;;0913.902.917;contact@minhhairetail.vn;Ha Noi;;200000000
+AC21008;An Hai Retail Co., Ltd;0498576136;;contact@anhairetail.vn;Ho Chi Minh City;NET30;500000000
+AC21009;Phat Hai Retail Co., Ltd;0276524356;84771649962;;Ho Chi Minh City;NET45;0
+AC21010;Thinh Hai Retail Co., Ltd;0204535837;0892027983;contact@thinhhairetail.vn;Nha Trang;NET15;500000000
+AC21011;Viet  Hai Retail Co., Ltd;0719310775;(0331) 011-890;contact@viethairetail.vn;Hai Duong;NET30;0
+AC21012;BINH HAI RETAIL CO., LTD;0659969519;;contact@binhhairetail.vn;Ho Chi Minh City;COD;200000000
+AC21013;Thanh Hai Retail Co., Ltd;;+84 832 685 622;contact@thanhhairetail.vn;Ho Chi Minh City;NET15;200000000
+AC21014;Long Hai Retail Co., Ltd;0895714748;+84 912 221 443;contact@longhairetail.vn;Ho Chi Minh City;NET30;0
+AC21015;Tien Hai Retail Co., Ltd;0111745518;0838.965.032;contact@tienhairetail.vn;Ho Chi Minh City;NET30;100000000
+AC21016;Phuc Hai Retail Co., Ltd;0940859388;0988.708.828;contact@phuchairetail.vn;Ha Noi;NET30;50000000
+AC21017;Nam Hai Retail Co., Ltd;0694212113;0983713943;contact@namhairetail.vn;Hai Phong;NET30;500000000
+AC21018;Hai Hai Retail Joint Stock Company;;0779757665;contact@haihairetail.vn;Ha Noi;NET45;100000000
+AC21019;Dong Hai Retail Co., Ltd;0609582041;;contact@donghairetail.vn;Ha Noi;NET30;100000000
+AC21020;Mai Hai Retail Co Ltd;0888399764;+84 832 189 642;;Bac Ninh;NET30;0
+AC21021;Loc Hai Retail Co., Ltd;;;contact@lochairetail.vn;Da Nang;NET30;500000000
+AC21022;Khang Hai Retail Co., Ltd;0845921431;+84 709 086 970;;Ho Chi Minh City;NET30;50000000
+AC21023;Duc Hai Retail Co., Ltd;0868363418;0701538940;contact@duchairetail.vn;Ha Noi;NET30;500000000
+AC21024;Quang Hai Retail Company Limited;0625997093;;;Ho Chi Minh City;NET45;200000000
+AC21025;Son Hai Retail Co., Ltd;0771394458;;contact@sonhairetail.vn;Ha Noi;NET45;200000000
+AC21026;Lan Hai Retail Co., Ltd;;(0884) 066-486;;Ha Noi;NET30;200000000
+AC21027;GIA  HAI RETAIL CO LTD;0634565924;;contact@giahairetail.vn;Hai Phong;NET30;100000000
+AC21028;Bao Hai Retail Co Ltd;0884651483;;;Bien Hoa;NET30;100000000
+AC21029;Anh Hai Retail Co., Ltd;0515745145;;contact@anhhairetail.vn;Da Nang;NET30;0
+AC21030;Minh Dong Retail Co., Ltd;0659175974;;contact@minhdongretail.vn;Bac Ninh;NET30;500000000
+AC21031;AN DONG RETAIL CO LTD;0613946353;0984.250.144;;Bac Ninh;NET15;50000000
+AC21032;Phat Dong Retail Joint Stock Company;0609227140;+84 707 272 944;;Hai Duong;NET30;500000000
+AC21033;Thinh Dong Retail Company Limited;0381990383;;contact@thinhdongretail.vn;Da Nang;NET45;100000000
+AC21034;Hung Dong Retail LLC;0355061424;;contact@hungdongretail.vn;Hai Phong;NET30;100000000
+AC21035;Binh Dong Retail Co., Ltd;0865171625;(0706) 297-247;;Hue;NET30;500000000
+AC21036;Long Dong Retail Co., Ltd;0477544338;0812.270.397;;Ha Noi;NET45;200000000
+AC21037;Phuc Dong Retail Joint Stock Company;0821754945;+84 838 438 950;contact@phucdongretail.vn;Bac Ninh;NET30;100000000
+AC21038;Hai  Dong Retail Joint Stock Company;0513740585;;contact@haidongretail.vn;Hai Phong;NET15;0
+AC21039;Dong Dong Retail Co., Ltd;0708273293;0907.443.746;;Ho Chi Minh City;NET30;500000000
+AC21040;Sao Dong Retail JSC;0251612506;(0911) 638-433;contact@saodongretail.vn;Bien Hoa;COD;100000000
+AC21041;Mai Dong Retail;0214293124;0773.007.012;contact@maidongretail.vn;Ho Chi Minh City;NET15;0
+AC21042;Tan Dong Retail Co., Ltd;0319826479;;contact@tandongretail.vn;Da Nang;NET45;200000000
+AC21043;KHANG DONG RETAIL LLC;0504890909;0705082391;contact@khangdongretail.vn;Hai Phong;;0
+AC21044;  Duc Dong Retail Co., Ltd ;0496426820;(0863) 191-737;contact@ducdongretail.vn;Ha Noi;NET45;200000000
+AC21045;Quang Dong Retail Co., Ltd;0268980571;;contact@quangdongretail.vn;Ha Noi;COD;0
+AC21046;Lan Dong Retail Co., Ltd;0910964997;(0325) 831-770;;Da Nang;NET30;200000000
+AC21047;Gia Dong Retail Co., Ltd;;;;Bac Ninh;NET30;0
+AC21048;kim dong retail co ltd;0359194229;;;Ho Chi Minh City;NET30;50000000
+AC21049;Bao Dong Retail Co., Ltd;0247507215;0893.933.358;contact@baodongretail.vn;Can Tho;NET30;200000000
+AC21050;Anh Dong Retail Co., Ltd;0275311125;0867.505.794;contact@anhdongretail.vn;Ho Chi Minh City;NET15;0
+AC21051;An Sao Retail Co., Ltd;;;;Ha Noi;NET30;200000000
+AC21052;Phat Sao Retail Co., Ltd;0794871743;0856.913.628;;Ho Chi Minh City;COD;50000000
+AC21053;Hung Sao Retail LLC;0509787012;(0971) 441-974;contact@hungsaoretail.vn;Ha Noi;NET45;500000000
+AC21054;Viet Sao Retail Co., Ltd;;0902224076;contact@vietsaoretail.vn;Hai Phong;NET45;50000000
+AC21055;Hoa Sao Retail Co., Ltd;;(0918) 943-902;contact@hoasaoretail.vn;Ha Noi;NET30;200000000
+AC21056;Thanh Sao Retail Co., Ltd;0590678378;84353992754;contact@thanhsaoretail.vn;Ho Chi Minh City;NET15;200000000
+AC21057;Long Sao Retail Co., Ltd;0263305703;0856.651.559;contact@longsaoretail.vn;Hai Duong;NET30;500000000
+AC21058;tien sao retail co ltd;0219270517;0832.739.602;contact@tiensaoretail.vn;Ho Chi Minh City;NET45;500000000
+AC21059;Nam  Sao Retail;0126843148;+84 881 332 942;contact@namsaoretail.vn;Ho Chi Minh City;NET30;0
+AC21060;Hai Sao Retail Co., Ltd;0713311411;0987.259.774;contact@haisaoretail.vn;Ha Noi;NET45;500000000
+AC21061;Dong Sao Retail Co., Ltd;;(0902) 297-761;;Ha Noi;NET30;500000000
+AC21062;Sao  Sao Retail Joint Stock Company;0628544845;0774851864;;Nha Trang;NET30;50000000
+AC21063;Mai Sao Retail LLC;0142271195;;contact@maisaoretail.vn;Ha Noi;NET30;500000000
+AC21064;Tan Sao Retail Co., Ltd;0752075089;;contact@tansaoretail.vn;Ha Noi;NET15;0
+AC21065;LOC  SAO RETAIL JOINT STOCK COMPANY;0184850324;+84 984 693 609;contact@locsaoretail.vn;Ha Noi;COD;100000000
+AC21066;Quang Sao Retail Co., Ltd;0333246503;0811.924.171;contact@quangsaoretail.vn;Ho Chi Minh City;NET30;100000000
+AC21067;Son Sao Retail Co., Ltd;0768231519;;contact@sonsaoretail.vn;Can Tho;NET30;200000000
+AC21068;Vinh Sao Retail Co., Ltd;0263262007;0355775839;contact@vinhsaoretail.vn;Ho Chi Minh City;NET30;100000000
+AC21069;Hoang Sao Retail Co., Ltd;0278929038;(0981) 345-386;;Hai Duong;NET15;50000000
+AC21070;Kim Sao Retail Co., Ltd;0431872084;0763.158.859;;Ha Noi;NET30;500000000
+AC21071;Bao Sao Retail Co., Ltd;0693914919;+84 793 559 317;;Bac Ninh;NET45;50000000
+AC21072;Anh Sao Retail Co., Ltd;0759720950;+84 973 971 026;contact@anhsaoretail.vn;Bien Hoa;;50000000
+AC21073;An Mai Retail Co., Ltd;0993668288;+84 837 975 155;contact@anmairetail.vn;Ha Noi;NET45;500000000
+AC21074;Hung Mai Retail Co., Ltd;;0772.868.759;;Ho Chi Minh City;NET30;50000000
+AC21075;  Hoa Mai Retail Co Ltd ;0265307711;+84 855 751 408;contact@hoamairetail.vn;Da Nang;NET30;500000000
+AC21076;BINH MAI RETAIL CO., LTD;;+84 709 399 652;contact@binhmairetail.vn;Ho Chi Minh City;NET15;50000000
+AC21077;Thanh Mai Retail Company Limited;0114637018;;contact@thanhmairetail.vn;Ho Chi Minh City;NET30;500000000
+AC21078;  Long Mai Retail Joint Stock Company ;0193040586;0358041492;contact@longmairetail.vn;Ho Chi Minh City;NET45;100000000
+AC21079;tien mai retail company limited;0691315295;84353691041;;Ha Noi;NET15;50000000
+AC21080;Phuc Mai Retail Company Limited;0638590126;0794370865;;Hai Phong;NET30;500000000
+AC21081;Hai  Mai Retail Company Limited;0424907764;;contact@haimairetail.vn;Ho Chi Minh City;COD;200000000
+AC21082;Sao Mai Retail Co., Ltd;0869185804;0352050763;contact@saomairetail.vn;Bac Ninh;NET15;500000000
+AC21083;Tan Mai Retail Co Ltd;0387487496;(0985) 424-188;contact@tanmairetail.vn;Hai Phong;COD;500000000
+AC21084;  Loc Mai Retail Co., Ltd ;0327237152;+84 769 057 347;contact@locmairetail.vn;Ho Chi Minh City;NET30;200000000
+AC21085;Khang Mai Retail;0703917668;;contact@khangmairetail.vn;Ha Noi;COD;50000000
+AC21086;Duc Mai Retail Company Limited;0210263187;;;Ho Chi Minh City;NET30;500000000
+AC21087;Quang Mai Retail Co., Ltd;0141997021;(0964) 336-769;contact@quangmairetail.vn;Da Nang;NET30;100000000
+AC21088;Vinh Mai Retail Co., Ltd;0719164493;0334.881.073;contact@vinhmairetail.vn;Ha Noi;NET30;50000000
+AC21089;Lan Mai Retail Joint Stock Company;0481995590;0852.290.636;;Ho Chi Minh City;NET30;50000000
+AC21090;Hoang Mai Retail Co., Ltd;0996688381;0864.889.641;contact@hoangmairetail.vn;Ha Noi;NET30;200000000
+AC21091;Gia Mai Retail Co., Ltd;0817232456;84901717194;contact@giamairetail.vn;Ho Chi Minh City;NET30;200000000
+AC21092;Kim Mai Retail Co., Ltd;;+84 865 948 358;;Ha Noi;COD;100000000
+AC21093;Bao Mai Retail Co., Ltd;0269943987;(0916) 741-126;contact@baomairetail.vn;Ho Chi Minh City;NET30;50000000
+AC21094;Anh Mai Retail Co., Ltd;0515638197;+84 936 993 520;contact@anhmairetail.vn;Ho Chi Minh City;NET30;100000000
+AC21095;  PHAT TAN RETAIL ;0581132928;(0765) 930-693;contact@phattanretail.vn;Hue;NET45;500000000
+AC21096;Thinh Tan Retail JSC;0761690896;0882033402;contact@thinhtanretail.vn;Ho Chi Minh City;COD;50000000
+AC21097;HUNG TAN RETAIL CO., LTD;0205047193;0322694027;;Ho Chi Minh City;NET30;200000000
+AC21098;Viet Tan Retail Co., Ltd;0459761778;+84 773 361 408;contact@viettanretail.vn;Can Tho;NET30;500000000
+AC21099;Hoa  Tan Retail;0733469549;+84 889 378 099;;Can Tho;COD;100000000
+AC21100;binh tan retail;0555625473;84762231284;contact@binhtanretail.vn;Ho Chi Minh City;COD;500000000
+AC21101;Thanh Tan Retail Company Limited;0165791298;;;Ho Chi Minh City;NET30;50000000
+AC21102;LONG TAN RETAIL CO LTD;0999223800;(0327) 732-571;;Ha Noi;NET30;500000000
+AC21103;Tien Tan Retail Co., Ltd;0921979966;0909.124.471;;Bac Ninh;NET45;50000000
+AC21104;Phuc Tan Retail Co., Ltd;0461189832;+84 812 650 600;;Ho Chi Minh City;NET15;500000000
+AC21105;Nam Tan Retail Co., Ltd;;;contact@namtanretail.vn;Hue;NET30;100000000
+AC21106;Sao Tan Retail Company Limited;0783124080;(0978) 511-478;contact@saotanretail.vn;Hue;NET30;0
+AC21107;Loc Tan Retail Co., Ltd;0867096010;+84 329 129 201;;Ho Chi Minh City;NET45;200000000
+AC21108;Khang Tan Retail Co., Ltd;0191642891;;contact@khangtanretail.vn;Ho Chi Minh City;COD;50000000
+AC21109;Duc Tan Retail Co., Ltd;;+84 338 561 360;contact@ductanretail.vn;Can Tho;NET30;200000000
+AC21110;Son Tan Retail Co., Ltd;0318026872;84328833329;contact@sontanretail.vn;Can Tho;NET30;500000000
+AC21111;Lan Tan Retail;0983146502;+84 854 826 345;;Ho Chi Minh City;NET30;200000000
+AC21112;Gia Tan Retail Co., Ltd;0193744395;84701692007;contact@giatanretail.vn;Ha Noi;NET30;100000000
+AC21113;Kim Tan Retail Co., Ltd;;84815371219;;Ha Noi;NET30;100000000
+AC21114;Bao Tan Retail Co., Ltd;0387678629;+84 859 936 375;contact@baotanretail.vn;Bac Ninh;NET15;0
+AC21115;Anh Tan Retail Co., Ltd;0750068626;+84 834 524 257;;Ho Chi Minh City;NET15;0
+AC21116;an loc retail;0799931053;0851.899.235;contact@anlocretail.vn;Da Nang;NET30;100000000
+AC21117;Phat Loc Retail JSC;0129282392;0833.482.511;contact@phatlocretail.vn;Da Nang;NET45;100000000
+AC21118;Thinh Loc Retail Co., Ltd;0618808562;(0791) 887-653;;Da Nang;NET45;500000000
+AC21119;Hung Loc Retail Co., Ltd;0605069626;84962864791;;Ho Chi Minh City;;200000000
+AC21120;Viet Loc Retail;0788206567;0885424340;contact@vietlocretail.vn;Bac Ninh;NET30;200000000
+AC21121;  Hoa Loc Retail Co., Ltd ;0836282294;0857.703.881;contact@hoalocretail.vn;Ha Noi;;100000000
+AC21122;Binh Loc Retail Co., Ltd;;;contact@binhlocretail.vn;Da Nang;;0
+AC21123;Long Loc Retail Co., Ltd;0954759842;(0353) 885-559;contact@longlocretail.vn;Ha Noi;NET45;100000000
+AC21124;Nam Loc Retail Co., Ltd;0468109530;0337.307.645;;Ha Noi;NET30;100000000
+AC21125;Dong Loc Retail Co., Ltd;0319907864;;contact@donglocretail.vn;Ho Chi Minh City;NET45;500000000
+AC21126;Sao Loc Retail Co., Ltd;;+84 337 266 682;;Ho Chi Minh City;NET15;50000000
+AC21127;Tan Loc Retail Co., Ltd;;0819.949.156;contact@tanlocretail.vn;Ha Noi;NET45;0
+AC21128;Loc Loc Retail;0275437828;84769507236;contact@loclocretail.vn;Ho Chi Minh City;NET15;500000000
+AC21129;Khang Loc Retail Joint Stock Company;0849687614;;contact@khanglocretail.vn;Ha Noi;NET15;500000000
+AC21130;Duc Loc Retail Co., Ltd;0817772813;;contact@duclocretail.vn;Hai Phong;NET30;50000000
+AC21131;Quang Loc Retail Co., Ltd;0831812487;(0987) 814-895;contact@quanglocretail.vn;Ha Noi;NET30;100000000
+AC21132;Son Loc Retail Joint Stock Company;0371633744;0883001425;contact@sonlocretail.vn;Da Nang;NET30;0
+AC21133;Vinh Loc Retail Co., Ltd;0251664085;0987404776;;Hai Phong;NET45;200000000
+AC21134;Lan Loc Retail Co., Ltd;;0792.545.530;contact@lanlocretail.vn;Can Tho;NET30;500000000
+AC21135;Hoang Loc Retail Co., Ltd;0425962348;;contact@hoanglocretail.vn;Hue;NET30;200000000
+AC21136;Gia Loc Retail Company Limited;0775938674;+84 851 907 584;;Nha Trang;NET30;100000000
+AC21137;Bao Loc Retail Co., Ltd;0220261707;+84 892 605 160;;Hai Phong;NET30;200000000
+AC21138;Anh Loc Retail Co., Ltd;0500316272;84707011083;contact@anhlocretail.vn;Da Nang;NET15;100000000
+AC21139;Minh Khang Retail Co., Ltd;0800052669;(0815) 372-257;contact@minhkhangretail.vn;Ho Chi Minh City;NET30;100000000
+AC21140;Thinh Khang Retail Co., Ltd;0160521862;0323.138.611;;Hai Phong;NET15;50000000
+AC21141;Hung Khang Retail JSC;0270675037;+84 965 606 287;contact@hungkhangretail.vn;Ha Noi;;100000000
+AC21142;Viet Khang Retail;0567697165;;;Can Tho;;200000000
+AC21143;Binh Khang Retail Co., Ltd;;(0977) 454-383;contact@binhkhangretail.vn;Bac Ninh;NET30;100000000
+AC21144;Thanh Khang Retail Company Limited;0801412398;84817640743;contact@thanhkhangretail.vn;Nha Trang;NET30;500000000
+AC21145;Long Khang Retail Co., Ltd;;;contact@longkhangretail.vn;Ho Chi Minh City;NET30;200000000
+AC21146;tien khang retail joint stock company;0561501021;84856044857;contact@tienkhangretail.vn;Da Nang;NET30;0
+AC21147;Phuc Khang Retail Co., Ltd;0395282246;0791911664;contact@phuckhangretail.vn;Ha Noi;NET15;100000000
+AC21148;Nam Khang Retail Co Ltd;;0334.196.863;contact@namkhangretail.vn;Hue;NET30;200000000
+AC21149;Hai Khang Retail LLC;0351293638;0774341303;contact@haikhangretail.vn;Ho Chi Minh City;NET15;0
+AC21150;Dong Khang Retail Co., Ltd;0310770454;0815.937.249;;Ha Noi;NET15;100000000
+AC21151;Sao Khang Retail Co., Ltd;0638561262;0704.348.274;;Ho Chi Minh City;NET15;0
+AC21152;Mai Khang Retail Co., Ltd;0823670699;+84 836 456 701;contact@maikhangretail.vn;Ha Noi;NET30;200000000
+AC21153;Loc Khang Retail Co., Ltd;0204050060;84912925265;contact@lockhangretail.vn;Ha Noi;NET30;500000000
+AC21154;Khang Khang Retail Co., Ltd;0152741792;0761151270;contact@khangkhangretail.vn;Nha Trang;NET30;50000000
+AC21155;Duc Khang Retail Co., Ltd;0768004959;(0939) 709-765;contact@duckhangretail.vn;Hue;COD;200000000
+AC21156;Quang Khang Retail Co., Ltd;0197167333;+84 321 274 037;contact@quangkhangretail.vn;Ho Chi Minh City;NET30;0
+AC21157;Son Khang Retail Co., Ltd;0115747110;+84 778 315 355;;Hai Phong;NET15;200000000
+AC21158;Lan Khang Retail Co., Ltd;;(0988) 241-656;contact@lankhangretail.vn;Ho Chi Minh City;NET30;200000000
+AC21159;Hoang Khang Retail Co., Ltd;0755165653;;contact@hoangkhangretail.vn;Hai Duong;NET15;500000000
+AC21160;Gia Khang Retail Co Ltd;0806523349;+84 895 298 254;contact@giakhangretail.vn;Ha Noi;NET30;0
+AC21161;Kim Khang Retail JSC;0255978723;0971.768.153;;Ho Chi Minh City;NET15;200000000
+AC21162;Bao Khang Retail Co., Ltd;0886052638;0915198168;contact@baokhangretail.vn;Ha Noi;COD;100000000
+AC21163;Minh Duc Retail Co., Ltd;0207526302;(0857) 436-225;contact@minhducretail.vn;Ho Chi Minh City;NET30;100000000
+AC21164;  AN DUC RETAIL CO., LTD ;;0836617607;;Ha Noi;NET30;200000000
+AC21165;Hung Duc Retail LLC;0447440736;0968805463;contact@hungducretail.vn;Ha Noi;COD;200000000
+AC21166;Hoa Duc Retail Company Limited;;84857956541;;Bien Hoa;NET30;50000000
+AC21167;binh duc retail jsc;0245935432;0938897631;contact@binhducretail.vn;Ho Chi Minh City;NET30;500000000
+AC21168;   Thanh Duc Retail JSC ;0358421769;84337194540;contact@thanhducretail.vn;Ho Chi Minh City;NET30;100000000
+AC21169;Long Duc Retail Company Limited;;0886.435.536;contact@longducretail.vn;Da Nang;COD;500000000
+AC21170;Tien Duc Retail LLC;0885122956;0968.078.987;contact@tienducretail.vn;Nha Trang;NET30;0
+AC21171;Nam Duc Retail Co., Ltd;0757651515;(0911) 717-076;contact@namducretail.vn;Ho Chi Minh City;NET45;500000000
+AC21172;HAI DUC RETAIL COMPANY LIMITED;0561666154;0904.254.266;;Ha Noi;NET30;200000000
+AC21173;Sao Duc Retail Co., Ltd;0823574841;0977.260.097;contact@saoducretail.vn;Ha Noi;;200000000
+AC21174;Mai Duc Retail Co., Ltd;;84818657851;;Nha Trang;NET30;50000000
+AC21175;Tan Duc Retail LLC;;;;Bac Ninh;NET30;50000000
+AC21176;LOC DUC RETAIL LLC;0292813161;+84 967 474 802;contact@locducretail.vn;Ha Noi;COD;100000000
+AC21177;Khang Duc Retail Co., Ltd;0565248927;+84 975 096 830;contact@khangducretail.vn;Ha Noi;;500000000
+AC21178;Duc Duc Retail LLC;0753832769;+84 769 550 442;contact@ducducretail.vn;Ha Noi;NET30;0
+AC21179;Quang Duc Retail Co., Ltd;0302657866;;contact@quangducretail.vn;Ho Chi Minh City;COD;200000000
+AC21180;  SON DUC RETAIL CO., LTD ;0143388963;84869365979;;Hai Phong;NET30;100000000
+AC21181;Vinh Duc Retail Co., Ltd;0583575853;0967.774.243;contact@vinhducretail.vn;Hue;NET15;50000000
+AC21182;Lan Duc Retail Co., Ltd;;0706.304.923;contact@landucretail.vn;Ho Chi Minh City;NET30;500000000
+AC21183;  Hoang Duc Retail LLC ;0327508484;+84 336 632 090;contact@hoangducretail.vn;Ha Noi;NET45;200000000
+AC21184;Kim Duc Retail Joint Stock Company;0258566497;(0931) 100-878;contact@kimducretail.vn;Hai Phong;NET30;50000000
+AC21185;   Bao Duc Retail LLC ;0911824517;(0359) 691-006;;Ha Noi;NET30;50000000
+AC21186;minh quang retail;0114226797;0977.114.087;contact@minhquangretail.vn;Bien Hoa;NET15;0
+AC21187;  An Quang Retail JSC ;0752858147;+84 858 251 950;;Hue;NET30;500000000
+AC21188;Phat Quang Retail Co., Ltd;0100690349;(0932) 189-088;contact@phatquangretail.vn;Da Nang;NET30;200000000
+AC21189;Hung Quang Retail Co., Ltd;0974012623;;contact@hungquangretail.vn;Bac Ninh;NET15;100000000
+AC21190;Binh Quang Retail Company Limited;0770568472;0907.544.573;;Ha Noi;NET30;100000000
+AC21191;Thanh Quang Retail Co., Ltd;0446750235;84903974471;;Ho Chi Minh City;NET15;0
+AC21192;Long Quang Retail Co., Ltd;;+84 359 581 373;;Ho Chi Minh City;NET30;200000000
+AC21193;Tien Quang Retail Co., Ltd;0903845539;+84 908 543 151;contact@tienquangretail.vn;Can Tho;NET45;0
+AC21194;Phuc Quang Retail Co., Ltd;;0794.473.001;contact@phucquangretail.vn;Ho Chi Minh City;COD;0
+AC21195;Nam Quang Retail Co., Ltd;0278651065;+84 791 704 476;;Ho Chi Minh City;NET15;200000000
+AC21196;hai quang retail joint stock company;0762304105;;;Hue;COD;200000000
+AC21197;Dong Quang Retail LLC;0733542084;;contact@dongquangretail.vn;Ha Noi;NET30;100000000
+AC21198;Sao Quang Retail Co., Ltd;;;;Ho Chi Minh City;NET45;100000000
+AC21199;Mai Quang Retail Company Limited;0751000366;84902746508;contact@maiquangretail.vn;Hai Phong;NET30;50000000
+AC21200;Loc Quang Retail Co., Ltd;0335467578;;contact@locquangretail.vn;Ho Chi Minh City;NET45;500000000
+AC21201;Khang Quang Retail Co., Ltd;;0916556783;;Ha Noi;NET30;50000000
+AC21202;Duc Quang Retail Joint Stock Company;0482599657;(0965) 382-647;;Ho Chi Minh City;NET45;0
+AC21203;Quang Quang Retail Co Ltd;0399134977;;;Ha Noi;NET30;50000000
+AC21204;Son Quang Retail Co., Ltd;0424242188;(0939) 640-866;contact@sonquangretail.vn;Ho Chi Minh City;NET30;500000000
+AC21205;Vinh Quang Retail Co., Ltd;0462823474;(0982) 032-032;contact@vinhquangretail.vn;Da Nang;;0
+AC21206;Lan Quang Retail Co., Ltd;0118679759;+84 866 798 329;contact@lanquangretail.vn;Ha Noi;NET30;200000000
+AC21207;Kim Quang Retail LLC;0664227447;0339.130.671;contact@kimquangretail.vn;Hue;NET30;50000000
+AC21208;Anh Quang Retail Joint Stock Company;0573493384;84852123040;contact@anhquangretail.vn;Hue;NET15;0
+AC21209;Minh Son Retail Co., Ltd;0858369039;+84 339 654 856;;Hue;NET30;50000000
+AC21210;AN SON RETAIL CO LTD;0693201996;(0885) 255-275;;Can Tho;NET30;500000000
+AC21211;Phat Son Retail Co., Ltd;0414756685;84793107830;contact@phatsonretail.vn;Bac Ninh;NET15;50000000
+AC21212;HOA SON RETAIL LLC;0150925443;84909384327;contact@hoasonretail.vn;Ha Noi;NET45;500000000
+AC21213;Binh Son Retail Co., Ltd;;0987148702;;Hue;COD;500000000
+AC21214;Long Son Retail JSC;;0704.017.000;contact@longsonretail.vn;Hue;NET30;100000000
+AC21215;  Tien Son Retail ;0461698164;+84 939 360 354;contact@tiensonretail.vn;Ho Chi Minh City;NET30;200000000
+AC21216;Phuc Son Retail;0449870208;;;Ha Noi;NET30;500000000
+AC21217;Dong Son Retail Co., Ltd;0305719747;(0977) 944-332;contact@dongsonretail.vn;Bien Hoa;NET15;0
+AC21218;Sao Son Retail Co., Ltd;;(0906) 491-415;contact@saosonretail.vn;Da Nang;NET30;100000000
+AC21219;MAI SON RETAIL JOINT STOCK COMPANY;0280515351;(0894) 569-964;contact@maisonretail.vn;Nha Trang;NET30;50000000
+AC21220;Tan Son Retail Co., Ltd;0417749369;84704333232;contact@tansonretail.vn;Ho Chi Minh City;NET15;500000000
+AC21221;loc son retail joint stock company;;0902.133.872;contact@locsonretail.vn;Ha Noi;NET15;200000000
+AC21222;  KHANG SON RETAIL JOINT STOCK COMPANY ;;;contact@khangsonretail.vn;Bien Hoa;NET30;100000000
+AC21223;Duc Son Retail Co Ltd;0634827040;;;Ha Noi;NET30;200000000
+AC21224;Quang Son Retail Joint Stock Company;0961716845;(0858) 436-129;contact@quangsonretail.vn;Hai Phong;NET15;200000000
+AC21225;Son Son Retail JSC;0201189850;84963638373;contact@sonsonretail.vn;Ha Noi;NET15;500000000
+AC21226;Vinh Son Retail Co., Ltd;0991742130;(0919) 225-720;contact@vinhsonretail.vn;Ho Chi Minh City;NET45;0
+AC21227;Lan Son Retail Co., Ltd;0345809103;84853837815;contact@lansonretail.vn;Ha Noi;NET30;500000000
+AC21228;HOANG SON RETAIL JSC;0841678847;0328444225;contact@hoangsonretail.vn;Ha Noi;NET45;500000000
+AC21229;Gia Son Retail Co., Ltd;0788241105;;contact@giasonretail.vn;Nha Trang;NET15;50000000
+AC21230;Bao Son Retail Joint Stock Company;0537473748;0357060878;contact@baosonretail.vn;Ha Noi;;50000000
+AC21231;Anh Son Retail Co., Ltd;0782212982;+84 908 884 891;contact@anhsonretail.vn;Ho Chi Minh City;NET15;0
+AC21232;Minh Vinh Retail Co., Ltd;0110875912;(0898) 046-369;;Da Nang;NET30;50000000
+AC21233;An Vinh Retail Co., Ltd;0902783893;(0334) 642-301;contact@anvinhretail.vn;Ha Noi;NET15;0
+AC21234;Phat Vinh Retail Co., Ltd;0836914324;84777595337;;Ha Noi;NET30;200000000
+AC21235;Hung Vinh Retail Co Ltd;0563765679;;contact@hungvinhretail.vn;Hai Phong;NET30;200000000
+AC21236;Viet Vinh Retail Company Limited;0305818216;(0325) 778-388;contact@vietvinhretail.vn;Ho Chi Minh City;NET30;200000000
+AC21237;Hoa Vinh Retail Co., Ltd;;;contact@hoavinhretail.vn;Can Tho;NET30;0
+AC21238;Binh Vinh Retail JSC;0143715437;0973629032;contact@binhvinhretail.vn;Ha Noi;;50000000
+AC21239;Thanh Vinh Retail Co., Ltd;0464916759;(0896) 056-020;contact@thanhvinhretail.vn;Da Nang;NET45;0
+AC21240;Long Vinh Retail Co Ltd;;0836.735.730;contact@longvinhretail.vn;Ho Chi Minh City;NET30;0
+AC21241;Tien Vinh Retail Co., Ltd;0732968455;;contact@tienvinhretail.vn;Ho Chi Minh City;NET30;200000000
+AC21242;Phuc Vinh Retail Co., Ltd;0463828833;84891411716;contact@phucvinhretail.vn;Da Nang;NET30;100000000
+AC21243;Nam Vinh Retail Joint Stock Company;0259479268;+84 776 655 967;contact@namvinhretail.vn;Hue;NET30;500000000
+AC21244;HAI VINH RETAIL JSC;0774251444;(0891) 488-559;;Ho Chi Minh City;COD;100000000
+AC21245;Sao Vinh Retail;0575948627;0323885305;contact@saovinhretail.vn;Ha Noi;NET15;100000000
+AC21246;Tan Vinh Retail Co., Ltd;0189738147;+84 892 680 230;contact@tanvinhretail.vn;Hai Phong;NET15;0
+AC21247;Loc Vinh Retail Co., Ltd;;;contact@locvinhretail.vn;Nha Trang;NET30;100000000
+AC21248;Khang Vinh Retail Co., Ltd;0687914916;;contact@khangvinhretail.vn;Ho Chi Minh City;NET30;500000000
+AC21249;Duc Vinh Retail Co., Ltd;0221975818;;;Hai Duong;NET30;500000000
+AC21250;Quang Vinh Retail Co., Ltd;0421893313;(0881) 769-961;;Ho Chi Minh City;NET30;100000000
+AC21251;Son Vinh Retail Co., Ltd;0957905437;84335353022;contact@sonvinhretail.vn;Bien Hoa;NET30;0
+AC21252;Vinh Vinh Retail Co., Ltd;0536403872;;contact@vinhvinhretail.vn;Ho Chi Minh City;NET30;500000000
+AC21253;Lan Vinh Retail Co., Ltd;0219544150;84351393496;contact@lanvinhretail.vn;Ha Noi;NET15;50000000
+AC21254;Bao Vinh Retail Co., Ltd;0983661906;(0882) 987-773;contact@baovinhretail.vn;Hai Phong;NET15;0
+AC21255;Anh Vinh Retail Joint Stock Company;0325297228;;contact@anhvinhretail.vn;Nha Trang;NET30;50000000
+AC21256;Minh Lan Retail Co., Ltd;0445759859;(0936) 618-142;contact@minhlanretail.vn;Can Tho;NET30;500000000
+AC21257;An Lan Retail Joint Stock Company;0425946128;84895936782;;Da Nang;NET30;50000000
+AC21258;Thinh Lan Retail;0299378866;;contact@thinhlanretail.vn;Hai Duong;NET30;200000000
+AC21259;Hung Lan Retail Co., Ltd;;84988548354;contact@hunglanretail.vn;Ha Noi;NET30;500000000
+AC21260;Viet Lan Retail Joint Stock Company;0717450249;0882.217.660;contact@vietlanretail.vn;Ha Noi;NET30;0
+AC21261;  Hoa Lan Retail Co Ltd ;0956665532;84762664339;;Hue;NET30;0
+AC21262;Binh Lan Retail Co., Ltd;0565118202;+84 321 148 618;contact@binhlanretail.vn;Hai Phong;NET30;0
+AC21263;Thanh Lan Retail Co., Ltd;0276115016;0907.520.707;contact@thanhlanretail.vn;Ho Chi Minh City;NET30;500000000
+AC21264;Long Lan Retail Co., Ltd;0275196673;84833938661;;Ha Noi;NET45;100000000
+AC21265;Tien Lan Retail Co., Ltd;0316546184;0336.582.171;contact@tienlanretail.vn;Hai Duong;;0
+AC21266;Phuc Lan Retail Co., Ltd;0459197525;0917.881.877;contact@phuclanretail.vn;Da Nang;NET45;50000000
+AC21267;Hai Lan Retail Co., Ltd;0769544480;+84 352 039 028;contact@hailanretail.vn;Nha Trang;NET30;50000000
+AC21268;Dong Lan Retail Co., Ltd;;0909.652.850;contact@donglanretail.vn;Ho Chi Minh City;COD;50000000
+AC21269;Mai Lan Retail JSC;0774048383;(0979) 049-778;contact@mailanretail.vn;Ha Noi;NET15;100000000
+AC21270;Tan Lan Retail Co., Ltd;0964801374;84975049337;contact@tanlanretail.vn;Bien Hoa;NET45;200000000
+AC21271;Loc Lan Retail Co., Ltd;;0883.173.191;contact@loclanretail.vn;Bac Ninh;NET45;100000000
+AC21272;Khang Lan Retail Co., Ltd;0229153549;0772814912;;Ho Chi Minh City;NET30;100000000
+AC21273;Quang Lan Retail Co Ltd;0987983139;0811.187.939;contact@quanglanretail.vn;Ha Noi;NET30;0
+AC21274;Son Lan Retail LLC;0386914992;0701005263;contact@sonlanretail.vn;Ho Chi Minh City;NET45;0
+AC21275;VINH LAN RETAIL COMPANY LIMITED;0132323570;0896.065.639;contact@vinhlanretail.vn;Bac Ninh;NET15;50000000
+AC21276;LAN LAN RETAIL JOINT STOCK COMPANY;0826538777;84938783903;contact@lanlanretail.vn;Hai Phong;NET30;200000000
+AC21277;Hoang Lan Retail Co., Ltd;0955586120;+84 336 613 913;contact@hoanglanretail.vn;Nha Trang;NET45;500000000
+AC21278;Gia Lan Retail Co., Ltd;0270601525;;;Ho Chi Minh City;NET15;200000000
+AC21279;Kim Lan Retail Co., Ltd;;(0355) 728-539;contact@kimlanretail.vn;Bien Hoa;NET30;200000000
+AC21280;Bao Lan Retail Co Ltd;0265331628;;;Ho Chi Minh City;NET30;0
+AC21281;Anh Lan Retail Co., Ltd;;0762361212;contact@anhlanretail.vn;Ho Chi Minh City;COD;200000000
+AC21282;MINH HOANG RETAIL CO LTD;0294833146;0836535121;contact@minhhoangretail.vn;Ho Chi Minh City;;200000000
+AC21283;An Hoang Retail Co., Ltd;0229302600;(0895) 892-743;contact@anhoangretail.vn;Ha Noi;COD;200000000
+AC21284;Thinh Hoang Retail LLC;0674521476;(0338) 914-536;contact@thinhhoangretail.vn;Ho Chi Minh City;NET15;0
+AC21285;Hung Hoang Retail Co., Ltd;0158573850;0852976246;;Ha Noi;COD;0
+AC21286;VIET HOANG RETAIL CO LTD;0866430287;+84 892 655 433;;Ha Noi;NET15;500000000
+AC21287;Hoa Hoang Retail Co., Ltd;0154123367;0972165969;;Ho Chi Minh City;NET30;0
+AC21288;Binh Hoang Retail Co., Ltd;0226532561;+84 868 091 080;contact@binhhoangretail.vn;Ho Chi Minh City;NET45;0
+AC21289;Thanh Hoang Retail JSC;;+84 882 456 241;contact@thanhhoangretail.vn;Ha Noi;NET30;200000000
+AC21290;Long Hoang Retail Co., Ltd;0116823949;0838846874;;Bac Ninh;NET45;500000000
+AC21291;Tien Hoang Retail Co., Ltd;0798680891;84839917290;;Ho Chi Minh City;NET30;50000000
+AC21292;Phuc Hoang Retail Company Limited;0901329038;+84 912 893 778;contact@phuchoangretail.vn;Ho Chi Minh City;NET30;100000000
+AC21293;Nam Hoang Retail Co., Ltd;0732878796;(0777) 114-395;contact@namhoangretail.vn;Hue;NET45;100000000
+AC21294;Hai Hoang Retail Co., Ltd;0148748352;84706056036;contact@haihoangretail.vn;Ho Chi Minh City;NET30;100000000
+AC21295;Dong Hoang Retail Co Ltd;0305090013;84356825717;contact@donghoangretail.vn;Ho Chi Minh City;NET30;200000000
+AC21296;  Sao Hoang Retail JSC ;;(0322) 226-872;;Hai Phong;NET30;100000000
+AC21297;MAI HOANG RETAIL JOINT STOCK COMPANY;;0915288533;;Ha Noi;COD;200000000
+AC21298;Khang Hoang Retail Co., Ltd;0234975337;+84 885 893 311;;Nha Trang;NET15;50000000
+AC21299;Duc Hoang Retail;;0884351988;contact@duchoangretail.vn;Ha Noi;;200000000
+AC21300;Son Hoang Retail Joint Stock Company;0208363538;(0892) 650-437;contact@sonhoangretail.vn;Hai Duong;NET30;500000000
+AC21301;Vinh Hoang Retail Co., Ltd;0128052686;;contact@vinhhoangretail.vn;Ho Chi Minh City;NET30;200000000
+AC21302;Lan Hoang Retail Co., Ltd;0145407140;;contact@lanhoangretail.vn;Hai Phong;NET30;50000000
+AC21303;Hoang Hoang Retail Co., Ltd;0674458487;0834191155;contact@hoanghoangretail.vn;Ho Chi Minh City;NET30;500000000
+AC21304;kim hoang retail co ltd;0300393014;(0919) 636-515;contact@kimhoangretail.vn;Bac Ninh;NET30;500000000
+AC21305;Bao Hoang Retail Co., Ltd;0698503736;+84 861 278 427;;Da Nang;NET15;50000000
+AC21306;Anh Hoang Retail Company Limited;0162188769;;contact@anhhoangretail.vn;Ha Noi;;100000000
+AC21307;Minh Gia Retail JSC;0162346555;84777404565;contact@minhgiaretail.vn;Da Nang;NET30;100000000
+AC21308;An Gia Retail Co., Ltd;0453816869;0908.738.360;;Ho Chi Minh City;NET45;50000000
+AC21309;Phat Gia Retail Co., Ltd;;0705628153;contact@phatgiaretail.vn;Da Nang;NET15;100000000
+AC21310;Thinh Gia Retail Joint Stock Company;;0811022574;;Bac Ninh;NET15;50000000
+AC21311;Viet Gia Retail Co., Ltd;0464274216;(0918) 320-426;contact@vietgiaretail.vn;Ha Noi;NET45;500000000
+AC21312;  Hoa Gia Retail Co Ltd ;0498045129;0973.067.900;contact@hoagiaretail.vn;Ho Chi Minh City;NET30;50000000
+AC21313;Binh Gia Retail Co., Ltd;0336257732;0861.046.742;contact@binhgiaretail.vn;Ha Noi;NET30;200000000
+AC21314;Thanh Gia Retail Co., Ltd;0488049459;;contact@thanhgiaretail.vn;Bac Ninh;NET30;200000000
+AC21315;   Long Gia Retail Co., Ltd ;0143900275;0864928819;contact@longgiaretail.vn;Hai Duong;NET30;500000000
+AC21316;Tien Gia Retail Co., Ltd;0936993729;0853957105;contact@tiengiaretail.vn;Da Nang;NET45;200000000
+AC21317;  Phuc Gia Retail Co Ltd ;0450455530;;contact@phucgiaretail.vn;Ha Noi;NET30;100000000
+AC21318;hai gia retail jsc;0444231066;0884580315;contact@haigiaretail.vn;Hai Phong;COD;500000000
+AC21319;DONG  GIA RETAIL LLC;0849267193;;contact@donggiaretail.vn;Ha Noi;NET15;100000000
+AC21320;Mai Gia Retail Co., Ltd;0436678234;0961848549;contact@maigiaretail.vn;Da Nang;NET15;200000000
+AC21321;LOC GIA RETAIL CO., LTD;0669009326;0971.363.078;;Ho Chi Minh City;NET30;50000000
+AC21322;KHANG GIA RETAIL JSC;0471293843;0899115219;contact@khanggiaretail.vn;Ho Chi Minh City;NET45;500000000
+AC21323;DUC GIA RETAIL;0902064254;;contact@ducgiaretail.vn;Ha Noi;NET30;500000000
+AC21324;Vinh Gia Retail JSC;;84914135828;contact@vinhgiaretail.vn;Hai Phong;COD;0
+AC21325;Lan Gia Retail Co Ltd;0758840002;;;Bien Hoa;NET30;200000000
+AC21326;Gia Gia Retail Co., Ltd;0907542557;(0704) 203-180;contact@giagiaretail.vn;Ho Chi Minh City;NET15;0
+AC21327;Kim Gia Retail Co., Ltd;0703813543;+84 855 458 544;contact@kimgiaretail.vn;Can Tho;NET30;100000000
+AC21328;   Bao Gia Retail LLC ;;84701641640;contact@baogiaretail.vn;Da Nang;NET30;50000000
+AC21329;Minh Kim Retail Co., Ltd;0589053978;84351584840;contact@minhkimretail.vn;Ha Noi;COD;200000000
+AC21330;An Kim Retail Co., Ltd;0939193989;(0931) 295-986;contact@ankimretail.vn;Ho Chi Minh City;NET30;100000000
+AC21331;PHAT KIM RETAIL;0464353739;84936782884;contact@phatkimretail.vn;Ho Chi Minh City;NET30;0
+AC21332;Thinh Kim Retail Co., Ltd;0340466179;+84 769 129 527;;Ho Chi Minh City;NET15;500000000
+AC21333;Hung Kim Retail Company Limited;0916353983;84326259590;contact@hungkimretail.vn;Hai Duong;NET45;50000000
+AC21334;VIET KIM RETAIL CO LTD;0480063190;;contact@vietkimretail.vn;Bac Ninh;COD;50000000
+AC21335;Hoa Kim Retail Company Limited;0122177308;0919574984;contact@hoakimretail.vn;Bien Hoa;NET30;500000000
+AC21336;Binh Kim Retail Co., Ltd;0400443945;84859266747;;Hai Duong;COD;200000000
+AC21337;Thanh Kim Retail JSC;0878602827;0701.131.841;contact@thanhkimretail.vn;Ho Chi Minh City;NET30;100000000
+AC21338;LONG KIM RETAIL JOINT STOCK COMPANY;0132550732;0983986850;;Ho Chi Minh City;NET15;100000000
+AC21339;Tien Kim Retail Co., Ltd;0659585701;0324654120;;Ho Chi Minh City;NET30;200000000
+AC21340;  Phuc Kim Retail Co., Ltd ;0586185079;0931.692.049;contact@phuckimretail.vn;Ha Noi;NET30;500000000
+AC21341;Nam Kim Retail Co., Ltd;0208459513;84975439240;contact@namkimretail.vn;Hue;NET15;0
+AC21342;Sao Kim Retail Co., Ltd;0308478661;84891945204;contact@saokimretail.vn;Da Nang;NET15;100000000
+AC21343;Mai Kim Retail Co., Ltd;0602427206;0775.207.433;contact@maikimretail.vn;Ha Noi;NET15;500000000
+AC21344;loc kim retail co., ltd;0929138072;0916305891;contact@lockimretail.vn;Bac Ninh;NET30;50000000
+AC21345;Khang Kim Retail Co., Ltd;0185364303;0816.581.395;contact@khangkimretail.vn;Hue;NET45;0
+AC21346;DUC KIM RETAIL COMPANY LIMITED;0245414928;84774352858;contact@duckimretail.vn;Hai Phong;NET45;200000000
+AC21347;Quang Kim Retail Co., Ltd;0674944804;0888971059;contact@quangkimretail.vn;Ha Noi;NET30;200000000
+AC21348;Son Kim Retail Co., Ltd;0209420078;0777687936;;Ho Chi Minh City;NET45;100000000
+AC21349;vinh kim retail co ltd;0490675114;;contact@vinhkimretail.vn;Bac Ninh;NET15;0
+AC21350;Lan Kim Retail Co., Ltd;;0982010198;contact@lankimretail.vn;Ho Chi Minh City;NET15;100000000
+AC21351;Hoang Kim Retail Co., Ltd;0892695637;0795.983.894;contact@hoangkimretail.vn;Ho Chi Minh City;NET30;0
+AC21352;Kim Kim Retail Co., Ltd;0262421359;+84 791 939 282;;Ho Chi Minh City;NET45;0
+AC21353;Anh Kim Retail Co Ltd;;;;Ha Noi;NET30;0
+AC21354;MINH BAO RETAIL JSC;0483594298;;contact@minhbaoretail.vn;Ho Chi Minh City;NET15;500000000
+AC21355;An Bao Retail Company Limited;0985855915;;contact@anbaoretail.vn;Ho Chi Minh City;NET45;50000000
+AC21356;  Phat Bao Retail ;0817630786;0972.449.232;contact@phatbaoretail.vn;Hai Phong;NET45;0
+AC21357;Thinh Bao Retail Co., Ltd;;0892317103;contact@thinhbaoretail.vn;Ho Chi Minh City;NET15;0
+AC21358;HUNG BAO RETAIL JSC;0875425837;(0859) 282-941;contact@hungbaoretail.vn;Ho Chi Minh City;NET45;200000000
+AC21359;Viet Bao Retail Company Limited;0686995882;+84 813 318 307;;Ha Noi;NET30;200000000
+AC21360;Hoa Bao Retail Co., Ltd;;(0859) 057-886;;Hai Phong;NET45;500000000
+AC21361;Thanh Bao Retail Co., Ltd;0258136645;;;Ho Chi Minh City;NET45;100000000
+AC21362;Long Bao Retail Co., Ltd;0285609784;84327466706;contact@longbaoretail.vn;Ho Chi Minh City;NET45;500000000
+AC21363;Phuc Bao Retail Co., Ltd;0990309152;(0323) 428-235;contact@phucbaoretail.vn;Bien Hoa;NET30;100000000
+AC21364;Nam Bao Retail JSC;0614367642;84919512686;contact@nambaoretail.vn;Ho Chi Minh City;NET30;500000000
+AC21365;Hai Bao Retail Company Limited;0223102987;84765380322;contact@haibaoretail.vn;Ha Noi;NET30;100000000
+AC21366;Dong Bao Retail;;0855238580;contact@dongbaoretail.vn;Ho Chi Minh City;NET15;50000000
+AC21367;Sao Bao Retail Co Ltd;;;contact@saobaoretail.vn;Ha Noi;NET30;500000000
+AC21368;Mai Bao Retail Company Limited;0371638949;(0833) 752-477;contact@maibaoretail.vn;Hue;NET30;50000000
+AC21369;Loc Bao Retail Co., Ltd;0697840226;(0987) 200-034;contact@locbaoretail.vn;Ho Chi Minh City;NET30;100000000
+AC21370;Khang Bao Retail Joint Stock Company;0243467955;0972.945.253;contact@khangbaoretail.vn;Nha Trang;NET30;100000000
+AC21371;Duc Bao Retail Co., Ltd;;(0918) 270-416;;Hai Phong;NET30;50000000
+AC21372;Vinh Bao Retail Co Ltd;0413287209;+84 701 273 966;;Ho Chi Minh City;NET15;0
+AC21373;Lan Bao Retail Co., Ltd;0250646588;0989.090.638;;Ho Chi Minh City;;50000000
+AC21374;Hoang Bao Retail LLC;0689489443;84892257058;;Hai Phong;NET30;0
+AC21375;Gia Bao Retail;;0798067024;contact@giabaoretail.vn;Bac Ninh;NET30;0
+AC21376;Bao Bao Retail Co., Ltd;0221639026;0763.163.885;;Ho Chi Minh City;NET15;200000000
+AC21377;Anh Bao Retail Co., Ltd;0921565170;84321681291;;Ha Noi;NET30;50000000
+AC21378;Minh Anh Retail Co., Ltd;;+84 706 338 182;contact@minhanhretail.vn;Hai Phong;NET30;0
+AC21379;An Anh Retail Co., Ltd;0126367400;0353670073;contact@ananhretail.vn;Nha Trang;NET30;0
+AC21380;Thinh Anh Retail Co., Ltd;0985472550;84761041017;contact@thinhanhretail.vn;Da Nang;NET30;100000000
+AC21381;Hung Anh Retail Co., Ltd;0361451792;(0856) 245-070;;Ho Chi Minh City;;0
+AC21382;  viet anh retail co., ltd ;0372471355;(0703) 422-459;contact@vietanhretail.vn;Ha Noi;NET15;100000000
+AC21383;Hoa Anh Retail JSC;0558344701;;contact@hoaanhretail.vn;Ho Chi Minh City;NET30;0
+AC21384;Binh Anh Retail Co., Ltd;0199417497;0798.949.230;contact@binhanhretail.vn;Da Nang;NET15;100000000
+AC21385;Thanh Anh Retail Co., Ltd;;;contact@thanhanhretail.vn;Ho Chi Minh City;NET30;0
+AC21386;Long Anh Retail Co., Ltd;0380612876;0322.873.595;;Ho Chi Minh City;NET15;0
+AC21387;Tien Anh Retail Co., Ltd;0888325161;;;Ha Noi;NET30;0
+AC21388;Phuc Anh Retail Co., Ltd;;;contact@phucanhretail.vn;Ho Chi Minh City;NET30;200000000
+AC21389;Nam Anh Retail Co., Ltd;0677238921;+84 355 630 282;;Ho Chi Minh City;NET15;0
+AC21390;Hai Anh Retail Co., Ltd;0481534473;;contact@haianhretail.vn;Ha Noi;NET30;100000000
+AC21391;Dong Anh Retail;0796317470;0332.073.999;contact@donganhretail.vn;Hai Duong;NET30;0
+AC21392;  sao anh retail joint stock company ;0393450811;84762352618;contact@saoanhretail.vn;Ha Noi;NET30;500000000
+AC21393;Mai Anh Retail Co., Ltd;0241509906;0972.114.543;contact@maianhretail.vn;Ho Chi Minh City;NET15;100000000
+AC21394;Tan Anh Retail Company Limited;0878204055;0919605198;contact@tananhretail.vn;Ho Chi Minh City;NET30;100000000
+AC21395;Khang Anh Retail Co., Ltd;0420611866;84885759801;contact@khanganhretail.vn;Bac Ninh;NET30;0
+AC21396;Duc Anh Retail Co Ltd;0846612918;;;Ha Noi;COD;50000000
+AC21397;Quang Anh Retail Co., Ltd;0907533895;0966.007.751;;Nha Trang;NET30;50000000
+AC21398;  Son Anh Retail Co Ltd ;0947103435;0864258457;contact@sonanhretail.vn;Bac Ninh;NET30;100000000
+AC21399;Lan  Anh Retail Co Ltd;0111551213;0984.623.939;contact@lananhretail.vn;Can Tho;NET30;0
+AC21400;Gia Anh Retail JSC;0988564937;;contact@giaanhretail.vn;Hue;NET15;50000000
+AC21401;Bao Anh Retail LLC;0295849321;84353564569;contact@baoanhretail.vn;Ho Chi Minh City;;50000000
+AC21402;Anh Anh Retail Company Limited;0914793305;(0766) 469-251;;Hai Phong;NET30;200000000
+AC21403;Minh Minh Trading;0186600427;84774935274;contact@minhminhtrading.vn;Hue;NET30;500000000
+AC21404;An  Minh Trading Co., Ltd;0745116075;0778.601.466;contact@anminhtrading.vn;Ho Chi Minh City;NET30;200000000
+AC21405;Phat Minh Trading Co Ltd;0730987380;;;Hai Duong;NET30;200000000
+AC21406;Hung Minh Trading Co., Ltd;0233231956;0816732010;contact@hungminhtrading.vn;Ho Chi Minh City;NET30;0
+AC21407;Viet Minh Trading Co Ltd;;0765.286.364;contact@vietminhtrading.vn;Hai Phong;NET30;50000000
+AC21408;Hoa Minh Trading Co., Ltd;0671689594;84811915571;contact@hoaminhtrading.vn;Can Tho;NET30;0
+AC21409;Binh Minh Trading;0926131650;0795.724.130;;Ha Noi;COD;200000000
+AC21410;Thanh Minh Trading Co., Ltd;0362070031;(0819) 451-562;contact@thanhminhtrading.vn;Ho Chi Minh City;NET45;200000000
+AC21411;Long Minh Trading Co., Ltd;0605101042;;;Ha Noi;NET30;500000000
+AC21412;Phuc Minh Trading Co., Ltd;0333848995;;contact@phucminhtrading.vn;Da Nang;NET30;100000000
+AC21413;Nam Minh Trading Company Limited;0148731575;;contact@namminhtrading.vn;Ho Chi Minh City;NET30;0
+AC21414;HAI MINH TRADING;;0918.388.740;contact@haiminhtrading.vn;Da Nang;NET30;500000000
+AC21415;Dong Minh Trading Company Limited;0907898954;84816164819;;Ho Chi Minh City;;200000000
+AC21416;Mai Minh Trading Co., Ltd;0513440699;84979245181;contact@maiminhtrading.vn;Bac Ninh;NET30;100000000
+AC21417;Tan  Minh Trading Joint Stock Company;0650260500;(0893) 817-368;;Ho Chi Minh City;COD;500000000
+AC21418;LOC  MINH TRADING CO LTD;0402113120;0765.420.864;contact@locminhtrading.vn;Ho Chi Minh City;NET45;50000000
+AC21419;KHANG MINH TRADING JOINT STOCK COMPANY;0226039294;84774701072;contact@khangminhtrading.vn;Bien Hoa;NET15;0
+AC21420;Duc Minh Trading Co., Ltd;0874049028;;;Ho Chi Minh City;NET30;100000000
+AC21421;Son Minh Trading Co Ltd;0977753362;;;Ha Noi;NET30;0
+AC21422;Lan Minh Trading Co., Ltd;0918767635;(0355) 843-574;contact@lanminhtrading.vn;Nha Trang;NET30;0
+AC21423;Gia Minh Trading Co., Ltd;0879023472;+84 988 228 139;contact@giaminhtrading.vn;Ho Chi Minh City;NET15;200000000
+AC21424;Kim Minh Trading Co., Ltd;;+84 884 844 607;contact@kimminhtrading.vn;Ha Noi;NET30;100000000
+AC21425;Anh Minh Trading Co Ltd;0900474211;(0896) 394-508;contact@anhminhtrading.vn;Ha Noi;NET30;50000000
+AC21426;Minh An Trading JSC;0604705438;(0774) 569-852;contact@minhantrading.vn;Ha Noi;NET15;50000000
+AC21427;An An Trading Joint Stock Company;0554947980;0831.002.764;;Hai Phong;NET45;0
+AC21428;Phat An Trading Co., Ltd;0105317142;84778432729;;Bac Ninh;NET45;50000000
+AC21429;Thinh An Trading Co Ltd;0219926644;84769679154;contact@thinhantrading.vn;Nha Trang;NET30;500000000
+AC21430;Hung An Trading Co., Ltd;0235740254;;contact@hungantrading.vn;Hai Duong;NET30;200000000
+AC21431;Viet An Trading Co., Ltd;0324274564;(0703) 116-139;;Hue;NET30;200000000
+AC21432;HOA AN TRADING JOINT STOCK COMPANY;0768502106;(0329) 772-819;contact@hoaantrading.vn;Ho Chi Minh City;NET30;500000000
+AC21433;Binh An Trading Co., Ltd;0871575336;0986735027;;Ho Chi Minh City;NET30;500000000
+AC21434;Long An Trading Joint Stock Company;0938489094;(0776) 567-609;contact@longantrading.vn;Hue;NET15;200000000
+AC21435;Phuc An Trading Co., Ltd;0523833081;(0919) 520-401;contact@phucantrading.vn;Bac Ninh;NET30;100000000
+AC21436;Nam An Trading Joint Stock Company;;84908782317;contact@namantrading.vn;Ha Noi;NET15;200000000
+AC21437;Hai An Trading Co., Ltd;0250113482;84333591278;contact@haiantrading.vn;Ha Noi;NET30;200000000
+AC21438;Dong An Trading Joint Stock Company;0204997732;(0775) 221-788;contact@dongantrading.vn;Bac Ninh;NET30;100000000
+AC21439;Mai An Trading Company Limited;0198241379;(0971) 231-201;contact@maiantrading.vn;Hue;COD;500000000
+AC21440;Tan An Trading Company Limited;0199389406;(0819) 109-887;contact@tanantrading.vn;Ha Noi;NET30;500000000
+AC21441;Loc An Trading Joint Stock Company;0227555527;+84 932 695 435;contact@locantrading.vn;Ha Noi;NET30;100000000
+AC21442;Khang An Trading;0959538263;84778283580;;Ha Noi;NET30;100000000
+AC21443;Duc An Trading Co Ltd;0442648532;0356263031;contact@ducantrading.vn;Ha Noi;NET30;500000000
+AC21444;Quang An Trading Co., Ltd;0916393109;+84 934 085 833;contact@quangantrading.vn;Ha Noi;NET30;50000000
+AC21445;Vinh  An Trading;0205215563;0794255000;;Ha Noi;NET45;50000000
+AC21446;Lan An Trading Co., Ltd;0855002147;0851.462.064;contact@lanantrading.vn;Hai Duong;NET30;0
+AC21447;Hoang An Trading Co., Ltd;0126279625;84835408601;contact@hoangantrading.vn;Hai Phong;;200000000
+AC21448;Anh An Trading Joint Stock Company;0899388174;0903688202;contact@anhantrading.vn;Ha Noi;NET30;500000000
+AC21449;Minh Phat Trading Co., Ltd;0129272909;+84 885 695 487;contact@minhphattrading.vn;Hai Phong;NET15;200000000
+AC21450;An Phat Trading;0236247192;;contact@anphattrading.vn;Ho Chi Minh City;COD;100000000
+AC21451;Thinh  Phat Trading Company Limited;0861205041;;contact@thinhphattrading.vn;Ho Chi Minh City;NET30;100000000
+AC21452;Hung Phat Trading Joint Stock Company;0735555169;(0963) 389-590;contact@hungphattrading.vn;Ho Chi Minh City;NET15;0
+AC21453;Thanh Phat Trading Company Limited;0484703702;84834902443;;Nha Trang;NET30;500000000
+AC21454;  Long Phat Trading Co Ltd ;0990989753;;contact@longphattrading.vn;Hai Duong;NET30;500000000
+AC21455;Phuc Phat Trading Co., Ltd;0848080242;(0766) 551-964;contact@phucphattrading.vn;Ho Chi Minh City;NET45;200000000
+AC21456;Hai Phat Trading Company Limited;0466436047;(0816) 377-898;contact@haiphattrading.vn;Ho Chi Minh City;;100000000
+AC21457;Sao Phat Trading Co., Ltd;0482917713;;;Ha Noi;NET30;200000000
+AC21458;Mai Phat Trading Co., Ltd;0117132544;+84 936 052 207;contact@maiphattrading.vn;Da Nang;NET30;500000000
+AC21459;Tan Phat Trading Co., Ltd;0793135774;;contact@tanphattrading.vn;Ha Noi;NET30;0
+AC21460;Loc Phat Trading Co Ltd;0584843785;84701433035;contact@locphattrading.vn;Hai Duong;COD;500000000
+AC21461;Khang Phat Trading;0658821660;(0834) 020-814;;Da Nang;NET45;200000000
+AC21462;DUC PHAT TRADING COMPANY LIMITED;0914631715;+84 988 081 802;;Ho Chi Minh City;COD;200000000
+AC21463;Quang Phat Trading Joint Stock Company;0387735283;;contact@quangphattrading.vn;Hai Phong;NET45;100000000
+AC21464;Son Phat Trading Co., Ltd;0153877011;(0855) 329-978;;Ho Chi Minh City;NET15;0
+AC21465;VINH  PHAT TRADING COMPANY LIMITED;0458584160;;contact@vinhphattrading.vn;Hue;NET15;100000000
+AC21466;  Gia Phat Trading Co Ltd ;;0869854538;contact@giaphattrading.vn;Ho Chi Minh City;NET30;0
+AC21467;Kim Phat Trading Co., Ltd;0475847300;(0892) 531-784;contact@kimphattrading.vn;Can Tho;NET45;50000000
+AC21468;Bao Phat Trading Co., Ltd;0527541230;84834911830;contact@baophattrading.vn;Ho Chi Minh City;NET30;100000000
+AC21469;Anh Phat Trading Co., Ltd;0744219304;0961745254;contact@anhphattrading.vn;Nha Trang;NET30;100000000
+AC21470;Minh Thinh Trading Company Limited;;0913.267.485;contact@minhthinhtrading.vn;Ha Noi;NET15;500000000
+AC21471;  an thinh trading ;0975607666;0819.924.248;;Ho Chi Minh City;;50000000
+AC21472;Phat Thinh Trading Joint Stock Company;0667409204;+84 322 821 312;;Hai Duong;COD;50000000
+AC21473;thinh  thinh trading joint stock company;;+84 857 294 450;contact@thinhthinhtrading.vn;Bac Ninh;NET30;0
+AC21474;Viet Thinh Trading;0670405801;0969.694.163;;Da Nang;NET45;100000000
+AC21475;Hoa Thinh Trading Co., Ltd;0417590429;(0766) 815-943;;Ha Noi;COD;100000000
+AC21476;Thanh Thinh Trading;0706661519;;contact@thanhthinhtrading.vn;Ha Noi;NET45;50000000
+AC21477;Long Thinh Trading Co Ltd;0929697759;;;Bien Hoa;NET30;200000000
+AC21478;Tien Thinh Trading Co., Ltd;0523215329;+84 792 204 209;contact@tienthinhtrading.vn;Ha Noi;NET30;100000000
+AC21479;Phuc Thinh Trading Co., Ltd;0905140027;+84 914 927 198;contact@phucthinhtrading.vn;Ha Noi;NET30;0
+AC21480;Nam Thinh Trading Co Ltd;0803850873;;contact@namthinhtrading.vn;Ho Chi Minh City;NET30;100000000
+AC21481;Dong Thinh Trading Joint Stock Company;0778679511;;contact@dongthinhtrading.vn;Ho Chi Minh City;NET30;0
+AC21482;Sao Thinh Trading Co., Ltd;0816893709;0933.154.429;contact@saothinhtrading.vn;Ha Noi;NET45;200000000
+AC21483;Mai Thinh Trading Co., Ltd;0838409778;(0707) 233-078;contact@maithinhtrading.vn;Da Nang;NET30;50000000
+AC21484;   tan thinh trading co., ltd ;0320049056;0768.957.159;contact@tanthinhtrading.vn;Da Nang;NET30;100000000
+AC21485;Loc Thinh Trading Co., Ltd;0100489429;;contact@locthinhtrading.vn;Bac Ninh;NET15;0
+AC21486;Khang Thinh Trading Co., Ltd;0236891946;(0705) 041-924;contact@khangthinhtrading.vn;Bac Ninh;NET30;200000000
+AC21487;Duc Thinh Trading Co., Ltd;0557671002;+84 887 754 454;contact@ducthinhtrading.vn;Nha Trang;NET30;500000000
+AC21488;Quang Thinh Trading Co., Ltd;0540945169;84912015755;contact@quangthinhtrading.vn;Ha Noi;NET30;50000000
+AC21489;Son Thinh Trading Co., Ltd;0920316315;0778681923;contact@sonthinhtrading.vn;Ho Chi Minh City;NET30;200000000
+AC21490;  Vinh Thinh Trading Co Ltd ;0695003952;+84 322 341 425;contact@vinhthinhtrading.vn;Ho Chi Minh City;NET30;100000000
+AC21491;Hoang Thinh Trading Co., Ltd;;0793995195;contact@hoangthinhtrading.vn;Ho Chi Minh City;NET15;50000000
+AC21492;gia thinh trading company limited;;0776.040.722;contact@giathinhtrading.vn;Da Nang;NET15;100000000
+AC21493;Bao Thinh Trading Co., Ltd;0155643749;84913589376;contact@baothinhtrading.vn;Ha Noi;NET45;0
+AC21494;Anh Thinh Trading Co., Ltd;0856188814;+84 883 726 105;contact@anhthinhtrading.vn;Ho Chi Minh City;NET15;100000000
+AC21495;MINH HUNG TRADING JSC;0202868090;(0907) 629-833;contact@minhhungtrading.vn;Hue;NET45;200000000
+AC21496;An Hung Trading Co., Ltd;0593753494;84899010136;contact@anhungtrading.vn;Nha Trang;NET30;200000000
+AC21497;Phat Hung Trading Co., Ltd;0354620512;;contact@phathungtrading.vn;Hai Duong;NET30;500000000
+AC21498;Thinh Hung Trading Co., Ltd;;+84 815 209 317;contact@thinhhungtrading.vn;Bac Ninh;COD;50000000
+AC21499;  hung hung trading llc ;0112357889;+84 883 188 235;contact@hunghungtrading.vn;Ha Noi;NET15;100000000
+AC21500;Viet Hung Trading Co., Ltd;0125142698;0706.727.731;;Nha Trang;NET15;0
+AC21501;Hoa Hung Trading Co., Ltd;0526176812;;contact@hoahungtrading.vn;Ha Noi;NET30;200000000
+AC21502;Binh Hung Trading Co., Ltd;0478040471;(0773) 855-188;contact@binhhungtrading.vn;Ha Noi;NET30;500000000
+AC21503;Long Hung Trading Co., Ltd;;84795314971;;Da Nang;NET45;200000000
+AC21504;tien hung trading company limited;;0987378390;contact@tienhungtrading.vn;Hue;NET45;0
+AC21505;Phuc Hung Trading Co., Ltd;0140990019;0773.119.200;contact@phuchungtrading.vn;Ho Chi Minh City;NET30;50000000
+AC21506;Nam Hung Trading Company Limited;0447275639;(0979) 131-550;contact@namhungtrading.vn;Da Nang;NET30;50000000
+AC21507;Hai Hung Trading;0820026682;(0965) 923-315;;Hai Phong;NET30;100000000
+AC21508;Dong Hung Trading Co Ltd;0569985144;(0888) 510-045;contact@donghungtrading.vn;Hai Phong;NET30;50000000
+AC21509;Mai Hung Trading Co., Ltd;0242439580;84855990527;contact@maihungtrading.vn;Nha Trang;NET30;200000000
+AC21510;Tan Hung Trading Joint Stock Company;0430488296;0904283234;contact@tanhungtrading.vn;Ha Noi;NET30;0
+AC21511;Loc Hung Trading JSC;0640066297;+84 764 610 937;contact@lochungtrading.vn;Nha Trang;NET30;0
+AC21512;Khang Hung Trading Joint Stock Company;;(0337) 707-661;contact@khanghungtrading.vn;Ho Chi Minh City;NET45;0
+AC21513;Quang Hung Trading Co., Ltd;0397246560;+84 834 358 451;contact@quanghungtrading.vn;Hai Duong;NET15;200000000
+AC21514;Lan Hung Trading Joint Stock Company;0699555223;84852274012;;Ha Noi;NET30;500000000
+AC21515;Hoang Hung Trading Co., Ltd;0359772294;(0337) 221-182;contact@hoanghungtrading.vn;Nha Trang;NET30;50000000
+AC21516;Gia Hung Trading Co., Ltd;0499384987;;contact@giahungtrading.vn;Ho Chi Minh City;NET45;100000000
+AC21517;Kim Hung Trading;0135694394;;;Nha Trang;NET15;200000000
+AC21518;Bao Hung Trading Co., Ltd;;(0819) 330-509;;Da Nang;NET30;200000000
+AC21519;Anh Hung Trading Co., Ltd;0504473495;84904645507;contact@anhhungtrading.vn;Hue;NET15;200000000
+AC21520;Minh Viet Trading LLC;0999018324;0839.815.396;contact@minhviettrading.vn;Da Nang;NET30;50000000
+AC21521;An Viet Trading Co., Ltd;0692628164;84811148637;contact@anviettrading.vn;Bien Hoa;NET30;0
+AC21522;Phat Viet Trading Co., Ltd;;(0917) 507-238;contact@phatviettrading.vn;Ha Noi;NET30;50000000
+AC21523;Thinh Viet Trading;0855944505;0839.191.198;;Ha Noi;NET45;500000000
+AC21524;Viet Viet Trading Co., Ltd;0347743562;+84 332 932 551;contact@vietviettrading.vn;Nha Trang;NET30;200000000
+AC21525;Hoa Viet Trading JSC;0427434485;0901.107.043;contact@hoaviettrading.vn;Nha Trang;NET30;100000000
+AC21526;Binh Viet Trading Co., Ltd;;+84 894 274 873;contact@binhviettrading.vn;Ho Chi Minh City;COD;50000000
+AC21527;Long Viet Trading Co., Ltd;0623443631;+84 706 032 388;contact@longviettrading.vn;Ho Chi Minh City;NET45;50000000
+AC21528;Phuc Viet Trading Co., Ltd;0915798586;0886.988.071;;Bien Hoa;NET15;0
+AC21529;Nam Viet Trading Co., Ltd;;(0772) 289-512;contact@namviettrading.vn;Ho Chi Minh City;NET30;500000000
+AC21530;Hai Viet Trading;0546586885;84833785434;contact@haiviettrading.vn;Ha Noi;NET30;100000000
+AC21531;DONG VIET TRADING CO., LTD;0392127191;;contact@dongviettrading.vn;Can Tho;NET30;100000000
+AC21532;Sao Viet Trading Co., Ltd;0907395927;+84 971 370 839;;Hai Duong;NET30;0
+AC21533;Mai Viet Trading Joint Stock Company;0569570511;0974.584.633;contact@maiviettrading.vn;Ho Chi Minh City;NET30;0
+AC21534;tan viet trading co ltd;0966620107;(0965) 294-213;contact@tanviettrading.vn;Can Tho;NET30;0
+AC21535;Khang Viet Trading;0675491953;;contact@khangviettrading.vn;Ha Noi;NET30;200000000
+AC21536;quang viet trading;0408904380;;;Ho Chi Minh City;NET30;500000000
+AC21537;Son Viet Trading LLC;0374316663;84983458297;contact@sonviettrading.vn;Bac Ninh;NET30;500000000
+AC21538;Vinh Viet Trading Co., Ltd;0201123469;+84 352 018 297;contact@vinhviettrading.vn;Bac Ninh;NET15;0
+AC21539;  Lan Viet Trading Joint Stock Company ;0281879562;;;Ha Noi;NET30;50000000
+AC21540;Hoang Viet Trading Co., Ltd;0879486597;0919292976;contact@hoangviettrading.vn;Ha Noi;NET45;100000000
+AC21541;Gia Viet Trading Co., Ltd;0839293989;(0322) 016-310;contact@giaviettrading.vn;Ha Noi;NET15;500000000
+AC21542;Kim Viet Trading Co Ltd;0415703303;84968950795;;Ho Chi Minh City;COD;50000000
+AC21543;Bao Viet Trading Co Ltd;;0816360974;contact@baoviettrading.vn;Can Tho;NET30;50000000
+AC21544;Anh Viet Trading Co., Ltd;0223903345;0356.391.665;contact@anhviettrading.vn;Ha Noi;NET45;100000000
+AC21545;Minh Hoa Trading Co., Ltd;0886001121;;contact@minhhoatrading.vn;Ha Noi;NET45;0
+AC21546;An Hoa Trading Co., Ltd;0714517789;0761.079.017;contact@anhoatrading.vn;Bac Ninh;NET30;0
+AC21547;Phat Hoa Trading Joint Stock Company;0979734446;+84 885 033 501;contact@phathoatrading.vn;Ho Chi Minh City;NET30;50000000
+AC21548;  Hung Hoa Trading Company Limited ;0430545990;0327.883.060;contact@hunghoatrading.vn;Hai Duong;NET45;0
+AC21549;   VIET HOA TRADING ;0538338815;+84 936 162 962;contact@viethoatrading.vn;Hai Phong;NET15;500000000
+AC21550;Hoa Hoa Trading Co Ltd;0714432730;0938675680;contact@hoahoatrading.vn;Ho Chi Minh City;COD;200000000
+AC21551;Binh Hoa Trading Co., Ltd;0602605683;(0773) 568-180;;Ho Chi Minh City;NET45;0
+AC21552;Tien Hoa Trading Co., Ltd;0912678808;84972663554;contact@tienhoatrading.vn;Bac Ninh;NET30;500000000
+AC21553;Nam Hoa Trading Co., Ltd;0529822152;+84 891 584 675;contact@namhoatrading.vn;Hai Phong;NET30;0
+AC21554;Hai Hoa Trading Co., Ltd;0263677467;;;Can Tho;NET15;0
+AC21555;Dong Hoa Trading Co., Ltd;0649465875;;contact@donghoatrading.vn;Hai Phong;NET30;50000000
+AC21556;Mai Hoa Trading Co., Ltd;0605689686;0907627784;contact@maihoatrading.vn;Ha Noi;NET30;100000000
+AC21557;Tan Hoa Trading Co., Ltd;0437945412;84911644015;;Hai Phong;NET45;0
+AC21558;Khang Hoa Trading Co., Ltd;0319175232;(0917) 977-183;contact@khanghoatrading.vn;Da Nang;COD;100000000

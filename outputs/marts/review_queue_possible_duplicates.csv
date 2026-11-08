@@ -1,0 +1,90 @@
+crm_customer_key,crm_name,crm_ids,erp_customer_key,erp_name,erp_account_codes,city,name_similarity
+1114,Tan Hai Retail,CRM-101113,1873,An Hai Retail,AC21008,Ho Chi Minh City,0.963
+1312,Anh Duc Retail,CRM-101311,1899,An Duc Retail,AC21164,Ha Noi,0.963
+488,Thnih Khang Fashion,CRM-100487,1783,Thinh Khang Fashion,AC20450,Ho Chi Minh City,0.947
+205,Phat Thanh Fashion,CRM-100204,1721,Phat Thinh Fashion,AC20074,Ho Chi Minh City,0.944
+486,Minh Khang Fsahion,CRM-100485,1782,Minh Khang Fashion,AC20448,Hai Phong,0.944
+550,Tien Quang Afshion,CRM-100549,1791,Tien Quang Fashion,AC20503,Ha Noi,0.944
+220,Khang Thanh Fashion,CRM-100219,1824,Khang Anh Fashion,AC20695,Ha Noi,0.944
+261,Tien Tien Fashoin,CRM-100260,1751,Tien Tien Fashion,AC20246,Bac Ninh,0.941
+217,Mai Thanh Fashion,CRM-100216,1740,Hai Thanh Fashion,AC20197,Ho Chi Minh City,0.941
+481,Hoang Loc Fahsion,CRM-100480,1781,Hoang Loc Fashion,AC20443,Ho Chi Minh City,0.941
+948,Thnih Binh Retail,CRM-100947,1852,Thinh Binh Retail,AC20877,Hai Duong,0.941
+562,Lan Qunag Fashion,CRM-100561,1794,Lan Quang Fashion,AC20514,Hai Duong,0.941
+88,Mai Thinh Fashion,CRM-100087,1724,Hai Thinh Fashion,AC20084,Ha Noi,0.941
+1325,Tan Quang Retail,CRM-101324,1905,Thanh Quang Retail,AC21191,Ho Chi Minh City,0.941
+1143,Quang Dong Ertail,CRM-101142,1880,Quang Dong Retail,AC21045,Ha Noi,0.941
+1361,Thinh Vinh Retail,CRM-101360,1852,Thinh Binh Retail,AC20877,Hai Duong,0.941
+1688,Bao Veit Trading,CRM-101687,1966,Bao Viet Trading,AC21543,Can Tho,0.938
+620,Binh Lan Fashion,CRM-100619,1804,Minh Lan Fashion,AC20561,Ho Chi Minh City,0.938
+514,Phat Duc Fashoin,CRM-100513,1787,Phat Duc Fashion,AC20471,Bien Hoa,0.938
+988,Tan Thnah Retail,CRM-100987,1857,Tan Thanh Retail,AC20907,Ho Chi Minh City,0.938
+1119,Hoang Hai Retail,CRM-101118,1875,Khang Hai Retail,AC21022,Ho Chi Minh City,0.938
+195,Tan Binh Fashion,CRM-100194,1737,Anh Binh Fashion,AC20186,Ha Noi,0.938
+371,Hai Dong Fahsion,CRM-100370,1762,Hai Dong Fashion,AC20346,Ho Chi Minh City,0.938
+415,Viet Mai Afshion,CRM-100414,1771,Viet Mai Fashion,AC20383,Da Nang,0.938
+392,Hoa Sao Fashion,"CRM-100391,CRM-101710",1769,Hoang Sao Fashion,AC20379,Ho Chi Minh City,0.938
+1272,Tan Khang Retail,CRM-101271,1897,Lan Khang Retail,AC21158,Ho Chi Minh City,0.938
+1254,Hoang Loc Retial,CRM-101253,1891,Hoang Loc Retail,AC21135,Hue,0.938
+1275,Duc Khang Retial,CRM-101274,1896,Duc Khang Retail,AC21155,Hue,0.938
+1697,Tien Hoa Tradnig,CRM-101696,1968,Tien Hoa Trading,AC21552,Bac Ninh,0.938
+1284,Minh Duc Retial,CRM-101283,1898,Minh Duc Retail,AC21163,Ho Chi Minh City,0.933
+1423,Tan Hoang Retail,CRM-101422,1847,Tan Hoa Retail,AC20863,Ho Chi Minh City,0.933
+1291,Binh Duc Retial,CRM-101290,1900,Binh Duc Retail,AC21167,Ho Chi Minh City,0.933
+1219,Tan Tan Retail,CRM-101218,1857,Tan Thanh Retail,AC20907,Ho Chi Minh City,0.933
+1080,Puhc Nam Retail,CRM-101079,1872,Phuc Nam Retail,AC20992,Ho Chi Minh City,0.933
+919,Anh Veit Retail,CRM-100918,1846,Anh Viet Retail,AC20846,Ho Chi Minh City,0.933
+1106,Long Hai Rteail,CRM-101105,1874,Long Hai Retail,AC21014,Ho Chi Minh City,0.933
+580,Tan Son Fasihon,CRM-100579,1799,Tan Son Fashion,AC20531,Hue,0.933
+774,Hoa Minh Retail,CRM-100773,1853,Hoa Binh Retail,AC20879,Ho Chi Minh City,0.933
+204,An Thanh Fashion,CRM-100203,1773,An Tan Fashion,AC20399,Ha Noi,0.933
+229,An Long Fasihon,CRM-100228,1743,An Long Fashion,AC20211,Ho Chi Minh City,0.933
+426,Tan Mai Fashion,"CRM-100425,CRM-101813",1760,Tan Hai Fashion,AC20328,Ho Chi Minh City,0.933
+1198,Vinh Mai Ertail,CRM-101197,1887,Vinh Mai Retail,AC21088,Ha Noi,0.933
+1148,Bao Dong Reatil,CRM-101147,1882,Bao Dong Retail,AC21049,Can Tho,0.933
+1150,Minh Sao Retail,CRM-101149,1936,Minh Bao Retail,AC21354,Ho Chi Minh City,0.933
+459,Kmi Tan Fashion,CRM-100458,1776,Kim Tan Fashion,AC20421,Hue,0.933
+527,Tan Duc Fashoin,CRM-100526,1790,Tan Duc Fashion,AC20483,Hai Phong,0.933
+630,Tan Aln Fashion,CRM-100629,1805,Tan Lan Fashion,AC20575,Bien Hoa,0.933
+1114,Tan Hai Retail,CRM-101113,1847,Tan Hoa Retail,AC20863,Ho Chi Minh City,0.929
+1447,Mia Gia Retail,CRM-101446,1929,Mai Gia Retail,AC21320,Da Nang,0.929
+1354,Lan Son Ertail,CRM-101353,1914,Lan Son Retail,AC21227,Ha Noi,0.929
+1401,Duc Lan Retail,CRM-101400,1947,Duc Anh Retail,AC21396,Ha Noi,0.929
+1299,Sao Duc Rteail,CRM-101298,1901,Sao Duc Retail,AC21173,Ha Noi,0.929
+1285,An Duc Reatil,CRM-101284,1899,An Duc Retail,AC21164,Ha Noi,0.923
+180,Phat Binh Fashion,CRM-100179,1721,Phat Thinh Fashion,AC20074,Ho Chi Minh City,0.914
+77,An Thinh Fashion,CRM-100076,1722,Thanh Thinh Fashion,AC20079,Ho Chi Minh City,0.914
+205,Phat Thanh Fashion,CRM-100204,1740,Hai Thanh Fashion,AC20197,Ho Chi Minh City,0.914
+359,Minh Dong Fashion,CRM-100358,1761,Thinh Dong Fashion,AC20341,Hai Phong,0.914
+30,Thinh An Fashion,CRM-100029,1783,Thinh Khang Fashion,AC20450,Ho Chi Minh City,0.914
+1550,Hoang Minh Trading,CRM-101549,1950,Hung Minh Trading,AC21406,Ho Chi Minh City,0.914
+595,Thinh Vinh Fashion,CRM-100594,1802,Vinh Vinh Fashion,AC20557,Ho Chi Minh City,0.914
+976,Hung Thanh Retail,CRM-100975,1858,Hoang Thanh Retail,AC20912,Ho Chi Minh City,0.914
+1315,Thinh Quang Retail,CRM-101314,1904,Binh Quang Retail,AC21190,Ha Noi,0.914
+1426,Quang Hoang Retail,CRM-101425,1880,Quang Dong Retail,AC21045,Ha Noi,0.914
+30,Thinh An Fashion,CRM-100029,1732,Thinh Hoa Fashion,AC20150,Ho Chi Minh City,0.909
+30,Thinh An Fashion,CRM-100029,1758,Thinh Nam Fashion,AC20289,Ho Chi Minh City,0.909
+1145,Hoang Dong Retail,CRM-101144,1879,Dong Dong Retail,AC21039,Ho Chi Minh City,0.909
+1426,Quang Hoang Retail,CRM-101425,1923,An Hoang Retail,AC21283,Ha Noi,0.909
+1596,Dong Phat Trading,"CRM-101595,CRM-101737",1954,Son Phat Trading,AC21464,Ho Chi Minh City,0.909
+953,Long Binh Retail,CRM-100952,1854,Hoang Binh Retail,AC20893,Ha Noi,0.909
+63,Phuc Phat Fashion,CRM-100062,1734,Phuc Hoa Fashion,AC20158,Ha Noi,0.909
+34,Tien An Fashion,CRM-100033,1791,Tien Quang Fashion,AC20503,Ha Noi,0.909
+489,Hung Khang Fashion,CRM-100488,1712,Hung An Fashion,AC20027,Ho Chi Minh City,0.909
+492,Binh Khang Fashion,CRM-100491,1714,Binh An Fashion,AC20030,Ha Noi,0.909
+813,Quang An Retail,CRM-100812,1909,Quang Quang Retail,AC21203,Ha Noi,0.909
+177,Anh Hoa Fashion,CRM-100176,1719,Anh Phat Fashion,AC20072,Ha Noi,0.903
+34,Tien An Fashion,CRM-100033,1812,Tien Gia Fashion,AC20619,Ha Noi,0.903
+35,Phuc An Fashion,CRM-100034,1734,Phuc Hoa Fashion,AC20158,Ha Noi,0.903
+426,Tan Mai Fashion,"CRM-100425,CRM-101813",1772,Tien Mai Fashion,AC20386,Ho Chi Minh City,0.903
+569,Hung Son Fashion,CRM-100568,1712,Hung An Fashion,AC20027,Ho Chi Minh City,0.903
+778,Phuc Minh Retail,CRM-100777,1943,Phuc Anh Retail,AC21388,Ho Chi Minh City,0.903
+973,An Thanh Retail,CRM-100972,1856,Hoa Thanh Retail,AC20901,Hue,0.903
+1119,Hoang Hai Retail,CRM-101118,1874,Long Hai Retail,AC21014,Ho Chi Minh City,0.903
+1047,Minh Phuc Retail,CRM-101046,1898,Minh Duc Retail,AC21163,Ho Chi Minh City,0.903
+947,Phat Binh Retail,CRM-100946,1853,Hoa Binh Retail,AC20879,Ho Chi Minh City,0.903
+1205,Minh Tan Retail,CRM-101204,1888,Thinh Tan Retail,AC21096,Ho Chi Minh City,0.903
+1225,Vinh Tan Retail,CRM-101224,1888,Thinh Tan Retail,AC21096,Ho Chi Minh City,0.903
+1144,Son Dong Retail,CRM-101143,1879,Dong Dong Retail,AC21039,Ho Chi Minh City,0.903
+1182,Thinh Mai Retail,CRM-101181,1887,Vinh Mai Retail,AC21088,Ha Noi,0.903
+1564,Tien An Trading,CRM-101563,1968,Tien Hoa Trading,AC21552,Bac Ninh,0.903
