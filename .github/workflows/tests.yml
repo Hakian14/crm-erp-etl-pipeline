@@ -1,0 +1,27 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - name: Unit tests (standardisation + identity resolution)
+        run: python -m pytest -q tests/
+      - name: Pipeline runs end to end and quarantines the planted problems
+        run: |
+          python run_pipeline.py --quiet
+          grep -q "quarantined | stg_erp_orders" outputs/dq_report.md
+          grep -q "pairwise precision" outputs/dq_report.md

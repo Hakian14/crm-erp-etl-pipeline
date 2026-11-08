@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](requirements.txt)
 [![Pentaho](https://img.shields.io/badge/Pentaho%20PDI-design%20mapping-0096D6)](pentaho/README.md)
-[![tests](https://img.shields.io/badge/tests-7%20passing-0ca30c)](tests/)
+[![tests](https://github.com/Hakian14/crm-erp-etl-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/Hakian14/crm-erp-etl-pipeline/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Two systems describe the same customers in two incompatible ways: the **CRM** (sales — accounts,
