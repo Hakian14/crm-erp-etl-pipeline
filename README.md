@@ -11,8 +11,8 @@ pipeline turns their messy extracts into one clean analytical layer with a resol
 dimension, fact tables for deals, orders and invoices, a `customer_360` view, and a **data-quality
 report that quarantines bad rows instead of silently loading them**.
 
-It recreates the integration work I did on a Customer Data Platform (Pentaho in production;
-Python here so it can be run and read anywhere). Data is synthetic with planted problems —
+It recreates the kind of integration work I did on a Customer Data Platform as an employee
+(Pentaho there; Python here so it can be run and read anywhere). Data is synthetic with planted problems —
 see [`data/generate_sources.py`](data/generate_sources.py) for the full list.
 
 ```
@@ -105,10 +105,10 @@ FROM customer_360 WHERE in_crm = 1 AND in_erp = 0 AND deals_won > 0;
 
 ## Pentaho
 
-The production version of this flow ran in **Pentaho Data Integration**. [`pentaho/README.md`](pentaho/README.md)
+The same flow expressed in **Pentaho Data Integration**: [`pentaho/README.md`](pentaho/README.md)
 maps every Python function to the PDI steps that implement it (job layout, transformations,
 Data Validator rules, Stream lookup mappings, Execute SQL for identity resolution) and lists the
-performance changes that took the daily run from 9 to 3 minutes.
+performance changes that matter most at production volume.
 
 ## Repository layout
 
